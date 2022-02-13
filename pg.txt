@@ -1,0 +1,1116 @@
+{'raw_title': '[12期免息分期] Apple/苹果 iPhone 13', 'view_price': '5999.00', 'nick': 'applestore官方旗舰店'}
+{'raw_title': '24期免息/当天发货Apple/苹果 iPhone 13 Pro 5G手机国行官方', 'view_price': '8488.00', 'nick': '佰分购旗舰店'}
+{'raw_title': '24期免息/当天发货Apple/苹果 iPhone 13 Pro Max 5G手机国行', 'view_price': '8488.00', 'nick': '佰分购旗舰店'}
+{'raw_title': '【24期分期/现货速发】Apple/苹果iPhone 13 Pro 5G手机官方旗舰店国行苹果13pro 新品13promax全新正品13Pro', 'view_price': '8088.00', 'nick': '三际数码官方旗舰店'}
+{'raw_title': '当天发【24期免息】Apple/苹果 iPhone 12 5G手机官方旗舰店苹果13promax新款官网11直降国行正品', 'view_price': '5478.00', 'nick': '京合旗舰店'}
+{'raw_title': '【直营】Apple iPhone 13 Pro Max (A2644) 苹果手机 支持移动联通电信5G手机 国行正品 全国联保', 'view_price': '9099.00', 'nick': '天猫国际进口超市国内现货'}
+{'raw_title': '【24期分期/现货发】Apple/苹果 iPhone 12 5G手机官方旗舰店正品国行13pro苹果13pro新品苹果13ProMax 12', 'view_price': '5028.00', 'nick': '三际数码官方旗舰店'}
+{'raw_title': '【至高减2200元+移动用户专享优惠】苹果12 ProMax苹果12ProMax苹果官方旗舰店手机12promax苹果新品', 'view_price': '11899.00', 'nick': '中国移动手机官方旗舰店'}
+{'raw_title': '【下单立减500元+中国移动用户专享优惠】iPhone 13 5G手机苹果13手机官方旗舰店iphone13正品苹果苹果13新', 'view_price': '5999.00', 'nick': '中国移动手机官方旗舰店'}
+{'raw_title': '【到手3899】 苹果11 iphone11 Apple/苹果iPhone 11手机全新正品未激活官方旗舰苹果11手机 iPhone 11', 'view_price': '3899.00', 'nick': '搜酷数码专营店'}
+{'raw_title': '【 至高减1750元 移动用户专享 中国移动官旗】苹果 12手机iPhone 12苹果手机移动官方旗舰店苹果12ProMax', 'view_price': '6299.00', 'nick': '中国移动官方旗舰店'}
+{'raw_title': '【当天发 24期免息】苹果13 iphone13 Apple/苹果 iPhone 13 5G手机官方旗舰正品官网苹果13手机iPhone13手机', 'view_price': '5949.00', 'nick': '搜酷数码专营店'}
+{'raw_title': '【至高减500 现货速发 移动用户专享】苹果 13手机中国移动官旗iPhone 13苹果手机官方旗舰店13ProMax手机', 'view_price': '5999.00', 'nick': '中国移动官方旗舰店'}
+{'raw_title': '【领88券减100元 赠壳膜+碎屏险】Apple/苹果iPhone 13 全网通5G手机 原装国行苹果13手机中国电信官方旗舰店', 'view_price': '5999.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': '【直营国行】Apple/苹果 iPhone 12 5G手机国行正品5G 双卡双待电信联通移动全网通全国联保官方旗舰非合约机', 'view_price': '4599.00', 'nick': '天猫国际进口超市'}
+{'raw_title': '【花呗24分期免息 赠碎屏险】Apple/苹果iPhone 12全网通5G手机 原装国行苹果12手机128G正品256G官网旗舰店', 'view_price': '4889.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': '现货当天发[24期免息/送碎屏保]Apple/苹果iPhone 13 5G手机官方旗舰店苹果13promax新款iPhone12p官网11直降', 'view_price': '5588.00', 'nick': '京合旗舰店'}
+{'raw_title': '【直营】Apple iPhone 13 Pro苹果手机 支持移动联通电信5G 双卡双待手机 国行正品 全国联保', 'view_price': '9099.00', 'nick': '天猫国际进口超市国内现货'}
+{'raw_title': '【联通用户专享】iPhone 13手机Apple 苹果13手机iphone13国行全网通5G苹果官方旗舰店官网iphone13promax', 'view_price': '5999.00', 'nick': '中国联通官方旗舰店'}
+{'raw_title': '当天发【24期免息】Apple/苹果 iPhone 13苹果13手机5G版苹果官方旗舰店正品iPhone12官网13promax5g新', 'view_price': '6128.00', 'nick': '佰分购旗舰店'}
+{'raw_title': '【24期免息/当天发货】Apple/苹果 iPhone 13 Pro Max 5G手机国行iPhone13Pro苹果13promax官方旗舰店网12', 'view_price': '8488.00', 'nick': '佰分购旗舰店'}
+{'raw_title': '【性价比高】Apple/苹果#iPhone XR 全网通4G手机全面屏双卡双待 旗舰官方国行正品原装备用机拍照游戏智能机', 'view_price': '3499.00', 'nick': '中国电信官方旗舰店'}
+{'raw_title': '【128GB到手4999元起】Apple/苹果iPhone 12#移动联通电信5G全网通双卡双待正品原装智能手机新品官方旗舰', 'view_price': '5099.00', 'nick': '中国电信官方旗舰店'}
+{'raw_title': '24期花呗免息付款0首付 Apple/苹果iPhone 13 Pro手机5G苹果13Pro手机旗舰店正品国行官方新款全网通官网苹果', 'view_price': '6198.00', 'nick': '机御旗舰店'}
+{'raw_title': '24期花呗免息付款0首付 Apple/苹果iPhone 13 Pro MAX 5G手机iPhone13Pro苹果13promax手机官方旗舰店正品12', 'view_price': '8628.00', 'nick': '机御旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 12 手机国行正品5G 双卡双待 全国联保', 'view_price': '5299.00', 'nick': '天猫超市'}
+{'raw_title': '支持88vip【直营超市新品】Apple/苹果 iPhone 13 Pro max 5G手机全网通移动电信联通正品国行苹果13Promax', 'view_price': '9189.00', 'nick': '天猫国际进口超市'}
+{'raw_title': '【中国联通直营】Apple 苹果iPhone 13 Pro Max全网通5G苹果官网iphone13promax手机非合约机', 'view_price': '8999.00', 'nick': '中国联通官方旗舰店'}
+{'raw_title': '【现货顺丰速发】Apple/苹果 iPhone 11 手机现货国行 新版', 'view_price': '5198.00', 'nick': '天猫超市'}
+{'raw_title': '【咨询减钱】 苹果11 iphone11 Apple/苹果iPhone 11 全新原装全网通官方正品旗舰店iPhone 11苹果11手机', 'view_price': '3799.00', 'nick': '香山红蚂蚁旗舰店'}
+{'raw_title': '【直降400元】苹果xr手机Apple/苹果 iPhoneXR全网通全新官方正品旗舰店全国联保苹果xr  iphone xr', 'view_price': '2999.00', 'nick': '香山红蚂蚁旗舰店'}
+{'raw_title': '24期免息/选送快充头 Apple/苹果 iPhone 13 5G手机官方正品旗舰店新款苹果13pro全网通 国行13pro max', 'view_price': '6238.00', 'nick': '壹品良机旗舰店'}
+{'raw_title': '【24期免息送快充头】Apple/苹果iPhone12ProMax5G手机国行正品官方天猫旗舰店苹果12pro全新iPhone12Pro手机', 'view_price': '8158.00', 'nick': '壹品良机旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone SE (第二代) 苹果se2 全新国行全网通原装手机', 'view_price': '1820.00', 'nick': 'qw30800'}
+{'raw_title': 'Apple/苹果 iPhone XS Max全新苹果8p xr xs max国行全网通手机8x', 'view_price': '1300.00', 'nick': '惊无命kk'}
+{'raw_title': '当天发货【送好礼】iPhone/苹果13  5G手机 苹果官方旗舰店国行正品MINI官网直降max24期分期12pro', 'view_price': '5899.00', 'nick': '深蓝港数码旗舰店'}
+{'raw_title': '2021新款Apple/苹果 iPhone 13 Pro Max苹果13Pro Max手机6.7英寸', 'view_price': '6998.00', 'nick': '领域数码通讯'}
+{'raw_title': 'Apple/苹果 iPhone XS Max 原装全网通手机双卡双待国行 xs未激活', 'view_price': '1950.00', 'nick': '钓鱼岛就是中国领土'}
+{'raw_title': '2021新款Apple/苹果 iPhone 13 Pro 苹果13 Pro Max手机6.1英寸', 'view_price': '6568.00', 'nick': '领域数码通讯'}
+{'raw_title': 'Apple/苹果 iPhone 13全网通5G手机原装国行正品+手机壳膜套装', 'view_price': '5999.00', 'nick': 'tb806259055'}
+{'raw_title': 'Apple/苹果 iPhone 12全新苹果十二全网通国行正品5G双卡双待手机', 'view_price': '4600.00', 'nick': '迪迪猪啊'}
+{'raw_title': 'Apple/苹果 iPhone 12 国行十二mini全新12ProMax正品5G双卡手机', 'view_price': '3750.00', 'nick': '大轩mi小哆'}
+{'raw_title': '新款Apple/苹果 iPhone 13 Pro Max国行正品苹果13promax手机现货', 'view_price': '7238.00', 'nick': '夏永健xyj'}
+{'raw_title': '新款X13promax电竞游戏智能手机学生价官方老人老年5G旗舰适用于黑鲨oppo小米华为荣耀12苹果11三星耳机店5g', 'view_price': '489.00', 'nick': '广福数码专营店'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro Max苹果12promax全新5G双卡苹果12手机', 'view_price': '4210.00', 'nick': 'tb5807482'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max 5G手机国行港行苹果13Pro Max手机', 'view_price': '7280.00', 'nick': 'hdjkgll'}
+{'raw_title': '2021新品Apple/苹果 iPhone 13 Pro Max苹果13Pro Max手机6.7英寸', 'view_price': '6448.00', 'nick': '达诚数码商城'}
+{'raw_title': '现货苹果13手机Apple/苹果 iPhone 13 mini5G旗舰13Promax原装', 'view_price': '4798.00', 'nick': '达诚数码商城'}
+{'raw_title': '[12期免息分期] Apple/苹果 iPhone 13', 'view_price': '5999.00', 'nick': 'applestore官方旗舰店'}
+{'raw_title': '24期免息/当天发货Apple/苹果 iPhone 13 Pro Max 5G手机国行', 'view_price': '8488.00', 'nick': '佰分购旗舰店'}
+{'raw_title': '24期免息/当天发货Apple/苹果 iPhone 13 Pro 5G手机国行官方', 'view_price': '8488.00', 'nick': '佰分购旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 12国行全新紫色5G官网苹果12原封12mini手机', 'view_price': '3980.00', 'nick': '颖宝宝666888'}
+{'raw_title': 'Apple/苹果 iPhone 13 mini苹果13迷你全网通512GB红色新款5G手机', 'view_price': '4099.00', 'nick': 'kxy80470799'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro 苹果13promax1TB新款全网通5G手机512G', 'view_price': '6350.00', 'nick': 'kxy80470799'}
+{'raw_title': '【官方旗舰】2022全新512g大内存5G智能手机正品i13Pro全网通学生老人便宜千元送华为荣耀oppo苹果vivo耳线', 'view_price': '688.00', 'nick': '硕王捷信时代专卖店'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro全网通5G手机 原装国行正品全国联保', 'view_price': '9099.00', 'nick': 'tb806259055'}
+{'raw_title': 'Apple/苹果 iPhone 12 国行迷你mini全网通十二pro max全新5g手机', 'view_price': '3438.00', 'nick': '佩儿佳儿店'}
+{'raw_title': 'Apple/苹果 Apple iPhone 11 pro Max 新款苹果11pro国行正品手机', 'view_price': '3580.00', 'nick': '居家邻舍'}
+{'raw_title': '【原装正品国行】Apple/苹果 iPhone 13 Pro Max 5G官方全新手机', 'view_price': '5299.00', 'nick': '蓝牙手表专场'}
+{'raw_title': '【官方直营】Apple iPhone 13苹果手机 支持移动联通电信5G 双卡双待 国行正品 全国联保 现货发售', 'view_price': '6298.00', 'nick': '天猫国际进口超市国内现货'}
+{'raw_title': '【24期免息】苹果13promax Apple/苹果iPhone 13 Pro Max 5G手机国行官方旗舰iphone13promax 苹果13pro max', 'view_price': '9449.00', 'nick': '搜酷数码专营店'}
+{'raw_title': '24期免息/咨询减100元 苹果13pro Apple/苹果 iPhone 13 Pro 5G手机国行官方旗舰 iphone13pro 13pro手机', 'view_price': '8599.00', 'nick': '搜酷数码专营店'}
+{'raw_title': '【中国移动用户享减400元+赠无线充等2重好礼】苹果13 ProMax苹果新品苹果官方旗舰店手机13promax', 'view_price': '8999.00', 'nick': '中国移动手机官方旗舰店'}
+{'raw_title': '【24期免息/现货速发】Apple/苹果 iPhone 12 5G手机官方正品旗舰店新款苹果12mini官网直降12pro 国行13', 'view_price': '4758.00', 'nick': '壹品良机旗舰店'}
+{'raw_title': '【下单立减400元 移动用户专享】苹果13mini手机中国移动官旗iPhone 13mini苹果手机5G新品官方旗舰店', 'view_price': '5199.00', 'nick': '中国移动官方旗舰店'}
+{'raw_title': '【下单立减400元 移动用户专享】苹果iPhone13ProMax手机中国移动官旗iPhone 13ProMax苹果手机官方旗舰店', 'view_price': '8999.00', 'nick': '中国移动官方旗舰店'}
+{'raw_title': '【24期免期/送碎屏险】Apple/苹果iPhone 13 Pro 5G手机官方旗舰店国行苹果13pro xr新品13promax全新13 Pro', 'view_price': '8658.00', 'nick': '三际数码官方旗舰店'}
+{'raw_title': '现货速发【24期免息】Apple/苹果iPhone 13 mini手机5G国行正品苹果官方旗舰店13promax新品5g迷你12送好礼', 'view_price': '5538.00', 'nick': '京合旗舰店'}
+{'raw_title': '【88VIP领券减100 花呗24期免息】Apple/苹果iPhone 13 全网通5G手机 原装国行苹果13手机中国电信官方旗舰店', 'view_price': '6229.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': '当天发货【24期免息】Apple/苹果 iPhone 13 Pro 5G手机国行官方旗舰店iPhone13pro新品12直降5g官网max', 'view_price': '8488.00', 'nick': '佰分购旗舰店'}
+{'raw_title': '现货速发【24期免息赠原厂屏碎屏险】Apple/苹果 iPhone13 Pro 5G手机官方旗舰正品全网通大陆行', 'view_price': '8678.00', 'nick': '京合旗舰店'}
+{'raw_title': '24期花呗免息付款0首付Apple/苹果 iPhone 13苹果13 5G手机官方旗舰店正品12官网直降苹果13手机新款13promax', 'view_price': '6198.00', 'nick': '机御旗舰店'}
+{'raw_title': '【中国联通直营】Apple 苹果iPhone 13 Pro全网通5G苹果官网iphone13pro手机非合约机', 'view_price': '7999.00', 'nick': '中国联通官方旗舰店'}
+{'raw_title': '【联通用户专享】Apple 苹果iPhone 13 Pro Max全网通5G手机苹果官网iphone13promax', 'view_price': '8999.00', 'nick': '中国联通官方旗舰店'}
+{'raw_title': '【24期分期免息 赠壳膜+碎屏险】Apple/苹果iPhone 13 Pro MAX全网通5G手机 原装国行苹果13promax手机旗舰店', 'view_price': '9579.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': '支持88vip【直营超市新品】Apple/苹果 iPhone 13 Pro max 5G手机全网通移动电信联通正品国行苹果13Promax', 'view_price': '9199.00', 'nick': '天猫国际进口超市'}
+{'raw_title': '【直营】Apple/苹果iPhone 13 Promax手机5G苹果手机旗舰店正品国行官方新款全网通官网苹果', 'view_price': '9149.00', 'nick': '天猫国际进口超市'}
+{'raw_title': '【24期分期/送碎屏险】 Apple/苹果iPhone13苹果13手机iPhone13苹果13手机5g正品官方旗舰店官网苹果13RroMax', 'view_price': '5868.00', 'nick': '三际数码官方旗舰店'}
+{'raw_title': '【24期免息/当天发货】Apple/苹果 iPhone 12苹果12手机iPhone 12苹果官方旗舰店5G官网苹果13ProMax', 'view_price': '4738.00', 'nick': '佰分购旗舰店'}
+{'raw_title': '21新款Apple/苹果 iPhone 13手机苹果13mini5G官方旗舰店13Promax', 'view_price': '4298.00', 'nick': '达诚数码商城'}
+{'raw_title': '分期Apple/苹果iPhoneXR 11 全新国行苹果11 双卡全网通正品手机', 'view_price': '2720.00', 'nick': '樊多多万事屋'}
+{'raw_title': '全新苹果7p Apple/苹果 iPhone 7 Plus 正品苹果7plus 苹果7手机', 'view_price': '1030.00', 'nick': '新园通讯数码'}
+{'raw_title': '【现货速发】Apple/苹果 iPhone 12 苹果12pro max新款苹果5G手机', 'view_price': '3300.00', 'nick': '陈志刚19680214'}
+{'raw_title': 'Apple/苹果 iPhone 8 Plus苹果8p全新x xs max国行全网通手机8x', 'view_price': '1178.00', 'nick': 'tb680179597'}
+{'raw_title': '【24期分期免息】现货速发/Apple/苹果13 iPhone 13手机5G版苹果官方旗舰店正品13promax5g新款iPhone12直降', 'view_price': '6238.00', 'nick': '京联通达数码旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro手机iPhone12ProMax苹果12mini国行现货', 'view_price': '6058.00', 'nick': '启泰数码'}
+{'raw_title': '花呗免息全新Apple/苹果 iPhone 7Plus国行正品7代7P全网通4G手机', 'view_price': '898.00', 'nick': 'lynn_yang39'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max苹果13Promax 13pm原装全网通手机', 'view_price': '6330.00', 'nick': 'm007e'}
+{'raw_title': 'Apple/苹果 iPhone 13苹果13 mini原装全网通5G手机13Promax13pm', 'view_price': '4080.00', 'nick': 'm007e'}
+{'raw_title': '全新2021款Apple/苹果 iPhone 13 Pro苹果13pro旗舰手机6.1英寸', 'view_price': '6448.00', 'nick': '达诚数码商城'}
+{'raw_title': '【现货直供】Apple/苹果 iPhone 13 新款5G手机官方旗舰店5G版iPhone13官网直降13pro正品新款苹果手机', 'view_price': '5999.00', 'nick': '今朝奇点旗舰店'}
+{'raw_title': '【24期免息】春节正常发货/Apple/苹果13 Pro 5G手机官网正品新款 官方旗舰店正品max新品苹果12pro降价苹果', 'view_price': '8648.00', 'nick': '京联通达数码旗舰店'}
+{'raw_title': '[12期免息分期] Apple/苹果 iPhone 13', 'view_price': '5999.00', 'nick': 'applestore官方旗舰店'}
+{'raw_title': '花呗分期Apple/苹.果6s plus', 'view_price': '369.00', 'nick': '奥丽威尔一店'}
+{'raw_title': '三期免息Apple/苹果 iPhone 11 Pro max 苹果11 Pro max 苹果手机', 'view_price': '2160.00', 'nick': '新鲜品味'}
+{'raw_title': 'Apple/苹果 iPhone 12 全网通5G手机 原装国行苹果12', 'view_price': '5599.00', 'nick': 'tb806259055'}
+{'raw_title': '正常发【送充电头套装版】Apple/苹果iPhone 13 Pro Max全网通5G手机 原装官方国行苹果13promax旗舰店 1048', 'view_price': '9099.00', 'nick': '苏宁易购官方旗舰店'}
+{'raw_title': '【送充电头套装版 】Apple/苹果iPhone 13 Pro全网通5G手机原装国行官方苹果13Pro手机旗舰店正品1048', 'view_price': '8199.00', 'nick': '苏宁易购官方旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 12 mini国行手机iphone 12promax苹果12promax', 'view_price': '3488.00', 'nick': '数码科技1628_1628'}
+{'raw_title': '分期Apple/苹果 iPhone11全新国行双卡苹果 11 全网通正品手机', 'view_price': '2819.00', 'nick': '胭脂云坊'}
+{'raw_title': 'Apple/苹果 iPhone 12 国行5G双卡12pro正品mini全新12ProMax手机', 'view_price': '3750.00', 'nick': '平常最真实'}
+{'raw_title': '分期花呗Apple/lPhone 6splus 苹.果6sp 苹.果6s手机全网通正品4G', 'view_price': '650.00', 'nick': '恒展网信'}
+{'raw_title': '【全球购13Mini/13】Apple/苹果 iPhone 13 原装手机无锁  正品', 'view_price': '4820.00', 'nick': 'z太极z'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max全网通5G手机原装国行正品全国联保', 'view_price': '9799.00', 'nick': 'tb806259055'}
+{'raw_title': 'Apple/苹果 iPhone X苹果x iphonex xr xsmax手机 苹果xr xs Max', 'view_price': '1838.00', 'nick': 'wxjking'}
+{'raw_title': '新款Apple/苹果 iPhone 13ProMax国行正品5G手机官网苹果13mini', 'view_price': '4928.00', 'nick': '手机_小秘'}
+{'raw_title': '分期免息Apple/苹果 iPhone 7 Plus国行全新7代正品全网通4G手机', 'view_price': '918.00', 'nick': '深港澳数码科技'}
+{'raw_title': 'Apple/苹果 iPhone XR国行iphonexr全新苹果xs max手机iphonexs', 'view_price': '1850.00', 'nick': '爱上俏美'}
+{'raw_title': 'Apple/苹果iPhone11苹果11promax全新国行双卡全网通正品手机分期', 'view_price': '3100.00', 'nick': 'tb056510271'}
+{'raw_title': 'Apple/苹果 iPhone 8 Plus 苹果8plus iphone8 国行三网通4G手机', 'view_price': '1358.00', 'nick': '美丽_女神新依'}
+{'raw_title': 'Apple/苹果 iPhone 8 Plus全新苹果xr xs max国行全网通苹果8手机', 'view_price': '1480.00', 'nick': '陪我一生度过'}
+{'raw_title': 'Apple/苹果 iphone 11苹果11 Pro Max国行正品全网通11promax手机', 'view_price': '2869.00', 'nick': '投影广告打火机'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro Max 苹果12promax苹果12手机12mini', 'view_price': '3390.00', 'nick': '碧丽丝轩衣阁'}
+{'raw_title': 'Apple/苹果 iPhone 12 mini 新款5G国行手机 12promax 苹果12mini', 'view_price': '3330.00', 'nick': '配配25'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro Max全新5G手机苹果12新款12promax现货', 'view_price': '4219.00', 'nick': '245874380_86'}
+{'raw_title': 'Apple/苹果 iPhone 13手机国行正品5G手机', 'view_price': '5631.00', 'nick': '够实汇超市'}
+{'raw_title': '【24期免息/咨询减50元】  Apple/苹果 iPhone 12 5G手机 国行官方旗舰  苹果12  iPhone12手机', 'view_price': '4749.00', 'nick': '搜酷数码专营店'}
+{'raw_title': '【下单立减400元 移动用户专享】苹果 13Pro手机中国移动官旗iPhone13Pro苹果手机官方旗舰店5G手机苹果13', 'view_price': '7999.00', 'nick': '中国移动官方旗舰店'}
+{'raw_title': '【赠壳膜套装+碎屏险】Apple/苹果iPhone 12全网通5G手机 原装国行苹果12手机128G官方旗舰店', 'view_price': '4629.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': '【24期分期/送碎屏险】Apple/苹果iPhone 13 Pro Max全网通5G手机苹果13promax手机13官方旗舰店新品13promax', 'view_price': '8928.00', 'nick': '三际数码官方旗舰店'}
+{'raw_title': '【256G减1900 移动用户专享 中国移动官旗】苹果 12Pro手机iPhone 12Pro官方旗舰店苹果12手机国行正品', 'view_price': '11099.00', 'nick': '中国移动官方旗舰店'}
+{'raw_title': '现货速发【24期免息/送碎屏保】Apple/苹果iPhone13 Pro Max 5G手机官方旗舰店国行iPhone13pro官网正品12', 'view_price': '9828.00', 'nick': '京合旗舰店'}
+{'raw_title': '支持88vip【直营超市新品】Apple/苹果 iPhone 13 Pro 5G手机移动电信联通全网通正品国行苹果13Pro', 'view_price': '8139.00', 'nick': '天猫国际进口超市'}
+{'raw_title': '支持88vip【直营国行】Apple/苹果 iPhone 12  手机国行正品5G 双卡双待电信联通移动全网通全国联保官方旗舰', 'view_price': '5189.00', 'nick': '天猫国际进口超市'}
+{'raw_title': '【中国联通直营】Apple 苹果13手机iphone13国行全网通5G苹果官方旗舰店官网iphone13promax', 'view_price': '5999.00', 'nick': '中国联通官方旗舰店'}
+{'raw_title': '【到手2999】Apple/苹果 iPhoneXR全网通全新国行iPhonexr手机 官网旗舰 苹果xr iphone xr', 'view_price': '2999.00', 'nick': '搜酷数码专营店'}
+{'raw_title': '【24期分期免息 赠壳膜+碎屏险】Apple/苹果iPhone 13 Pro全网通5G手机 原装国行苹果13Pro手机官方旗舰店', 'view_price': '8569.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro 苹果13promax1TB全网通蓝色新款5G手机', 'view_price': '6350.00', 'nick': 'yxc18948999838'}
+{'raw_title': 'Apple/苹果 iPhoneXR全网通双卡全新国行未激活iPhonexr XR手机', 'view_price': '3329.00', 'nick': '爱享数码专营店'}
+{'raw_title': '新款现货速发Apple/苹果 iPhone 13 Pro Max苹果13手机13mini国行', 'view_price': '4299.00', 'nick': '非常手机'}
+{'raw_title': '国行正品Apple/苹果 iPhone XR/XSMAX改12/13Promax外观/双卡手机', 'view_price': '2099.00', 'nick': 'qq2262948'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro 移动联通电信5G全网通新品智能拍照手机', 'view_price': '8799.00', 'nick': '苏宁易购官方旗舰店'}
+{'raw_title': '【送PD20W充电头套装版 】 Apple/苹果 iPhone 13 mini 移动联通电信5G全网通新品手机官方旗舰店国行1048', 'view_price': '5199.00', 'nick': '苏宁易购官方旗舰店'}
+{'raw_title': '【全球购13PM/13Pro】Apple/苹果 iPhone 13 Pro Max原装手机无锁', 'view_price': '9880.00', 'nick': 'z太极z'}
+{'raw_title': 'Apple/苹果 iPhone 8 Plus max 全新苹果 x xr xs max国行xs手机', 'view_price': '1850.00', 'nick': 'wjklsn'}
+{'raw_title': '分期Apple/苹果 iPhone11新款苹果11国行正品手机XR双卡4G全网通', 'view_price': '2050.00', 'nick': '黄沙商行'}
+{'raw_title': '[12期免息分期] Apple/苹果 iPhone 13', 'view_price': '5999.00', 'nick': 'applestore官方旗舰店'}
+{'raw_title': '花呗分期Apple/苹.果6s plus', 'view_price': '369.00', 'nick': '奥丽威尔一店'}
+{'raw_title': '24期免息/当天发货Apple/苹果 iPhone 13 Pro Max 5G手机国行', 'view_price': '8488.00', 'nick': '佰分购旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone XR全新未激活国行苹果xr手机4G三网通iphonexr', 'view_price': '2050.00', 'nick': '猩猩大晒'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max pm 国行官网正品全网三网通5G手机', 'view_price': '6100.00', 'nick': '启航数码007'}
+{'raw_title': '24期免息/咨询减400】Apple/苹果iPhone 13 5G手机苹果官方旗舰苹果13pro新款国行正品iPhone12官网13promax', 'view_price': '6248.00', 'nick': '信息港数码专营店'}
+{'raw_title': '现货 Apple/苹果 iPhone 12 5G 苹果12手机国行全新iphone12mini', 'view_price': '3498.00', 'nick': '最低最诚信'}
+{'raw_title': '【24期免息】现货速发/Apple/苹果iPhone 13 mini手机5G国行正品苹果官方旗舰店iPhone13新品5g苹果12直降', 'view_price': '5538.00', 'nick': '京联通达数码旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone XS Max苹果x xr xs max手机iphonexsmax苹果8p', 'view_price': '1850.00', 'nick': '卡米亚米'}
+{'raw_title': 'Apple/苹果 iPhone 12 mini苹果12全网通 12迷你5.4寸小屏手机 5G', 'view_price': '2800.00', 'nick': 'kxy80470799'}
+{'raw_title': '【限时至高直降511元 2天内发货】Apple/苹果 iPhone 13全网通5G苹果手机', 'view_price': '5999.00', 'nick': '宝贝猜猜旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 11 Pro Max 原装手机pro双卡国行全网通未激活', 'view_price': '3050.00', 'nick': '钓鱼岛就是中国领土'}
+{'raw_title': 'Apple/苹果 iphone 11 pro max苹果11苹果11pro苹果11promax手机', 'view_price': '2750.00', 'nick': '义乌康大百货用品'}
+{'raw_title': 'Apple/苹果 iPhone 12 5G手机 苹果12 ProMax双卡苹果12mini迷你', 'view_price': '3488.00', 'nick': '鱼得水_168'}
+{'raw_title': '花呗分期Apple/苹.果6s plus苹.果6s手机苹.果7plus 7代 7P全网通', 'view_price': '590.00', 'nick': '千依百信'}
+{'raw_title': 'Apple/苹果 iPhone 13全新国行正品5G旗舰手机分期免息13promax', 'view_price': '4399.00', 'nick': 'zhuxiaoming1113'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max 13Pro新款国行双卡5G手机西安速发', 'view_price': '7733.00', 'nick': 'tb571399732'}
+{'raw_title': '新款Apple/苹果 iPhone 13 Pro Max全网通5G手机国行官方旗舰正品', 'view_price': '5688.00', 'nick': '金运通'}
+{'raw_title': '现货Apple/苹果 iPhone 13 Pro Max苹果13Pro Max 6.7英寸5G手机', 'view_price': '6438.00', 'nick': 'jj.shen'}
+{'raw_title': 'Apple/苹果 iPhone 13 苹果13mini 官网原装正品全网三网通5G手机', 'view_price': '3950.00', 'nick': '启航数码007'}
+{'raw_title': '新款Apple/苹果 iPhone 13Promax手机5G官网旗舰店官方苹果13mini', 'view_price': '4999.00', 'nick': '佳欣共创科技'}
+{'raw_title': '新款Apple/苹果 iPhone 13 国行5G 手机 苹果iPhone 13 mini 手机', 'view_price': '4880.00', 'nick': 'hdjkgll'}
+{'raw_title': 'Apple/苹果 iPhone 13国行新款5G手机13mini迷你官方旗舰西安速发', 'view_price': '4793.00', 'nick': 'tb571399732'}
+{'raw_title': '现货Apple/苹果 iPhone 13 5G全新国行正品苹果13手机13mini', 'view_price': '4878.00', 'nick': '最低最诚信'}
+{'raw_title': '现货当天发Apple/苹果 iPhone 13 6.1苹果13国行iphone13mini手机', 'view_price': '4808.00', 'nick': 'jj.shen'}
+{'raw_title': '2021新品Apple/苹果 iPhone 13苹果13迷你手机6.1英寸全新国行', 'view_price': '4880.00', 'nick': '860803华晶'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro max原装未激活5G手机国行13promax双卡', 'view_price': '6380.00', 'nick': '钓鱼岛就是中国领土'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max全球代购国行现货手机12蘑菇酱mini', 'view_price': '6500.00', 'nick': '蘑菇家的木耳'}
+{'raw_title': '现货Apple/苹果 iPhone 13 Pro Max国行原封官方正手机高刷120Hz', 'view_price': '6659.00', 'nick': '颖宝宝666888'}
+{'raw_title': 'Apple/苹果 iPhone 13苹果13 mini原装正品 全网通5G手机13Promax', 'view_price': '4208.00', 'nick': 'tangchaoshan1006'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max 苹果13pro国行手机/美黑解三网5G', 'view_price': '6399.00', 'nick': '京基数码行'}
+{'raw_title': '现货Apple/苹果 iPhone 13 Pro Max苹果13promax全网通5G手机双卡', 'view_price': '6339.00', 'nick': '昊天通讯23'}
+{'raw_title': '24期免息送豪礼当天发货Apple苹果iPhone 12 5G手机官方旗舰店国行正品苹果iphone13promax/11max/12mini', 'view_price': '4749.00', 'nick': '久汇数码专营店'}
+{'raw_title': 'Apple/苹果 iPhone XS max xr x全新苹果 x xr xs max国行xs手机', 'view_price': '2050.00', 'nick': 'wjklsn'}
+{'raw_title': 'Apple/苹果 iPhone11国行三网双卡4G 苹果11 Pro Max正品手机分期', 'view_price': '2610.00', 'nick': '阮小小格'}
+{'raw_title': '【活动专享 配原装20W快充】Apple/苹果iPhone 13全网通5G 苹果13手机+20W苹果原装充电器PD快充头原装国行', 'view_price': '6999.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': '【256G减1900元 移动用户专享中国移动官旗】苹果 12ProMax手机iPhone 12ProMax苹果手机官方旗舰店5G', 'view_price': '11899.00', 'nick': '中国移动官方旗舰店'}
+{'raw_title': '【直营】Apple/苹果iPhone 11全网通4G手机 原装国行正品苹果11手机128G/64G', 'view_price': '4429.00', 'nick': '天猫国际进口超市'}
+{'raw_title': '【直营】Apple/苹果iPhone 13 Pro手机5G苹果13Pro手机旗舰店正品国行官方新款全网通官网苹果', 'view_price': '8129.00', 'nick': '天猫国际进口超市'}
+{'raw_title': '【24期免期/送碎屏险】Apple/苹果iPhone 13 Pro Max全网通5G手机苹果13promax手机13官方旗舰店新品13ProMax', 'view_price': '9508.00', 'nick': '三际数码官方旗舰店'}
+{'raw_title': '【88会员领券可减100 券后4099起】Apple/苹果iPhone 11全网通4G手机 原装国行128G官方旗舰店直售苹果11手机', 'view_price': '4399.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': '【联通用户专享】Apple 苹果iPhone 13 mini全网通5G手机苹果官网iphone13mini', 'view_price': '5199.00', 'nick': '中国联通官方旗舰店'}
+{'raw_title': '24期免息送豪礼当天发货Apple苹果 iPhone 13 Pro 5G手机国行官方旗舰店iPhone13pro新品12直降5g官网max/11', 'view_price': '8599.00', 'nick': '久汇数码专营店'}
+{'raw_title': '【现货速发 碎屏保套餐】Apple/苹果 iPhone 11 移动联通电信4G全网通智能手机 2020新版官方正品【59】', 'view_price': '4199.00', 'nick': '苏宁易购官方旗舰店'}
+{'raw_title': '[12期免息分期] Apple/苹果 iPhone 13', 'view_price': '5999.00', 'nick': 'applestore官方旗舰店'}
+{'raw_title': '花呗分期Apple/苹.果6s plus', 'view_price': '369.00', 'nick': '奥丽威尔一店'}
+{'raw_title': '24期免息/当天发货Apple/苹果 iPhone 13 Pro Max 5G手机国行', 'view_price': '8488.00', 'nick': '佰分购旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro Max 全网12promax 苹果12mini国行手机', 'view_price': '3370.00', 'nick': '小妞日韩馆'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max 移动联通电信5G全网通新品智能拍照手机', 'view_price': '8999.00', 'nick': '苏宁易购官方旗舰店'}
+{'raw_title': '现货Apple/苹果 iPhone 13 Pro Max 5G 苹果13 国行iPhone13手机', 'view_price': '7698.00', 'nick': '最低最诚信'}
+{'raw_title': '【当天发货/送碎屏险】Apple/苹果iPhone 13 5G手机官方旗舰店新款苹果13promax苹果手机12promax官网11直降', 'view_price': '5809.00', 'nick': '恒久宁数码专营店'}
+{'raw_title': '现货Apple/苹果 iPhone 13 Pro Max 5G 苹果13 国行iPhone13手机', 'view_price': '6508.00', 'nick': 'jj.shen'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max6.7寸 6.1寸13 Pro 手机国行5G港行', 'view_price': '7249.00', 'nick': '沁穆堂'}
+{'raw_title': '全新Apple/苹果 iPhone 13 Pro Max苹果13Pro苹果13手机远峰蓝12m', 'view_price': '8558.00', 'nick': '远航通讯16'}
+{'raw_title': '立减110 送黑鲨导热壳】黑鲨游戏手机4Pro5G游戏手机官方旗舰电竞手机骁龙888小米黑鲨4代黑鲨3S红魔6s 红魔7', 'view_price': '2799.00', 'nick': '金万吉数码专营店'}
+{'raw_title': 'Apple/苹果 iPhone 13 苹果13mini未激活国行手机/美黑解三网5G', 'view_price': '4099.00', 'nick': '京基数码行'}
+{'raw_title': 'Apple/苹果 iPhone 13全新手机国行iphone13原封未激活5G双卡三网', 'view_price': '5650.00', 'nick': 'zxsgtc'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro全新国行12mini5G双卡12ProMax正品手机', 'view_price': '3748.00', 'nick': '绿百荷'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro Max 苹果12 ProMax6.7英寸5G新品手机', 'view_price': '4228.00', 'nick': '数码科技1628_1628'}
+{'raw_title': '分期免息Apple/苹果 iPhone11新款苹果11国行正品手机', 'view_price': '2788.00', 'nick': '敞开你的心'}
+{'raw_title': 'Apple/苹果 iPhone XR全新苹果xr iphonex xr xs Max手机苹果XR', 'view_price': '1838.00', 'nick': 'wxjking'}
+{'raw_title': '现货Apple/苹果 iPhone 13 Pro Max 5G 苹果13mini国行港行5G手机', 'view_price': '4199.00', 'nick': 'woaichenheng99'}
+{'raw_title': '新款Apple/苹果 iPhone 13国行全新智能5G手机13proMax未激活mini', 'view_price': '4858.00', 'nick': 'e酷手机网'}
+{'raw_title': '2021新款Apple/苹果 iPhone 13 Pro max苹果13Pro苹果手机13 现货', 'view_price': '7688.00', 'nick': 'e酷手机网'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro 12 Max官网国行全网三网5G智能手机', 'view_price': '5400.00', 'nick': '启航数码007'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max6.7寸iphone13promax正品苹果手机', 'view_price': '6568.00', 'nick': '最炫科技'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro Max全新5G手机苹果12新款12promax现货', 'view_price': '4219.00', 'nick': '245874380_86'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max苹果13Promax原装正品全网通5G手机', 'view_price': '6408.00', 'nick': 'tangchaoshan1006'}
+{'raw_title': 'Apple/苹果 iPhone XR 正品苹果8plus iphonexr xsmax 苹果xr手机', 'view_price': '1190.00', 'nick': '撒旦0天使0'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro Max 新款5G手机12promax 苹果12 国行', 'view_price': '2980.00', 'nick': '配配25'}
+{'raw_title': 'Apple/苹果 iPhone 13 ProMax国行5G手机原封正品13Pro实体店现货', 'view_price': '7399.00', 'nick': '糊涂在线'}
+{'raw_title': 'Apple/苹果 iPhone XS国行iphonexr xs全新苹果xr苹果xsmax手机', 'view_price': '1820.00', 'nick': '特卖帆布鞋'}
+{'raw_title': 'Apple/苹果 iPhone 12原装正品苹果12mini手机国行未激活5G手机', 'view_price': '3499.00', 'nick': 'jiali通讯'}
+{'raw_title': 'Apple/苹果 iPhone 13原装正品国行全新未激活5G手机苹果13mini', 'view_price': '4899.00', 'nick': 'jiali通讯'}
+{'raw_title': '【降600元 2天内发货】Apple/苹果 iPhone 12 5G手机苹果12全网通新品国行原装全面屏双卡智能官方旗舰店手机', 'view_price': '5599.00', 'nick': '宝贝猜猜旗舰店'}
+{'raw_title': '分期免息Apple/苹果 iPhone11国行全新苹果11 Pro Max双卡手机', 'view_price': '2900.00', 'nick': '埃及一朵花'}
+{'raw_title': 'Apple/苹果 iPhone X 苹果xs iphonexsmax xr苹果xsmax苹果xr手机', 'view_price': '1799.00', 'nick': 'jwee'}
+{'raw_title': '分期免息Apple/苹果 iPhone11苹果11国行原装正品全网通双卡手机', 'view_price': '2366.00', 'nick': 'pizi718'}
+{'raw_title': '512G大内存5G新品60promax安卓电竞游戏智能手机全网通5g旗舰适用于华为11荣耀oppo小米vivo苹果12官方线13店', 'view_price': '1178.00', 'nick': '蒙奇数码专营店'}
+{'raw_title': '三期免息Apple/苹果 iPhone 11 Pro max 苹果11 Pro max 苹果手机', 'view_price': '2160.00', 'nick': '新鲜品味'}
+{'raw_title': '全新Apple/苹果 iPhone 13苹果13pro手机6.1寸13promax国行13mini', 'view_price': '4688.00', 'nick': '远航通讯16'}
+{'raw_title': 'Apple/苹果 iPhone 7  苹果7 plus 7代7p手机正品', 'view_price': '470.00', 'nick': '码头上774'}
+{'raw_title': '现货Apple/苹果 iPhone 13 Pro Max手机5G官网旗舰官方苹果13Pro', 'view_price': '7710.00', 'nick': '晓阳通讯'}
+{'raw_title': '24期分期送豪礼当天发货Apple苹果iPhone 13 mini手机5G国行正品官方旗舰店iPhone13mini新品5g迷你苹果12', 'view_price': '5049.00', 'nick': '久汇数码专营店'}
+{'raw_title': 'Apple/苹果 iPhone12Pro xr改12双卡苹果XR改13改13Pro手机远峰蓝', 'view_price': '1999.00', 'nick': 'cmh417'}
+{'raw_title': '【24期分期/现货速发】Apple/苹果12手机 iPhone 12全网通5G手机 官网旗舰款正品iphone 12手机 苹果12手机', 'view_price': '4399.00', 'nick': '搜酷数码专营店'}
+{'raw_title': '分期免息Apple/苹果\xa0iPhone11\xa0Pro\xa0Max全网通双卡全新原装国行双卡双待苹果11 pro max手机', 'view_price': '6688.00', 'nick': '智联中达数码专营店'}
+{'raw_title': '全球购Apple/苹果 iPhone 13 Pro MAX 苹果13PM手机6.7/6.1寸屏', 'view_price': '6650.00', 'nick': '4k电子'}
+{'raw_title': '[12期免息分期] Apple/苹果 iPhone 13', 'view_price': '5999.00', 'nick': 'applestore官方旗舰店'}
+{'raw_title': '花呗分期Apple/苹.果6s plus', 'view_price': '369.00', 'nick': '奥丽威尔一店'}
+{'raw_title': '24期免息/当天发货Apple/苹果 iPhone 13 Pro Max 5G手机国行', 'view_price': '8488.00', 'nick': '佰分购旗舰店'}
+{'raw_title': '全新Apple/苹果 iPhone XR双卡国行未激活苹果xr手机iphonexs max', 'view_price': '1850.00', 'nick': '逸尚私衣阁掌柜'}
+{'raw_title': '现货新款Apple/苹果 iPhone 13苹果13手机iPhone13Mini全新国行', 'view_price': '4898.00', 'nick': '夏永健xyj'}
+{'raw_title': 'Apple/苹果 iPhone 13 13mini5G手机 6.1吋 5.4吋全新原封', 'view_price': '4869.00', 'nick': '李小麦的店'}
+{'raw_title': '【至高减500元+全国联保+中国移动用户专享！】苹果iPhone 13全网通5G手机原装国行苹果13手机官方正品iphone', 'view_price': '5999.00', 'nick': '中国移动手机官方旗舰店'}
+{'raw_title': '支持88Vip【直营国行】Apple/苹果 iPhone XR 全网通手机 双卡双待', 'view_price': '3788.00', 'nick': '天猫国际进口超市'}
+{'raw_title': '现货速发Apple/苹果 iPhone 13 ProMax手机苹果13promax6.7寸国行', 'view_price': '7248.00', 'nick': '夏永健xyj'}
+{'raw_title': '【88VIP领券减100 24期分期免息】Apple/苹果iPhone 13 Pro MAX全网通5G手机原装国行苹果13promax官方旗舰店', 'view_price': '8569.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': '【限时限量抢】Apple/苹果 iPhone 13移动联通电信全网通5G新品智能拍照手机官方旗舰店官网正品', 'view_price': '5999.00', 'nick': '苏宁易购官方旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max 5G手机 6.7寸 6.1苹果13国行原封', 'view_price': '7399.00', 'nick': '李小麦的店'}
+{'raw_title': '成都闪送Apple/苹果 iPhone 13国行原封官网苹果13mini新款手机粉', 'view_price': '4435.00', 'nick': '颖宝宝666888'}
+{'raw_title': 'Apple/苹果iPhone13 xr改13promax国行双卡xr改12pro有面容11手机', 'view_price': '1999.00', 'nick': '爱尚维纳斯店'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro Max正品原装国行12pro6.7寸5G手机未激', 'view_price': '6199.00', 'nick': 'jiali通讯'}
+{'raw_title': 'Apple/苹果 iPhone11 iPhone XS Max苹果xr手机 xsmax iphonex', 'view_price': '1900.00', 'nick': '潼潼童'}
+{'raw_title': 'Apple/苹果 iphone 11ProMax双卡国行全新未激活刘 海手机 苹果11', 'view_price': '3220.00', 'nick': '新西兰小镇特卡波'}
+{'raw_title': '【现货速发】Apple/苹果 iPhone 12 全网通5G智能手机苏宁易购官方旗舰正品苹果12官方旗舰store', 'view_price': '5599.00', 'nick': '苏宁易购官方旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 11 苹果11promax全新国行苹果xsmax双卡手机xr', 'view_price': '2058.00', 'nick': 'meimei138_168'}
+{'raw_title': '【移动用户减400元+限量赠5重好礼！】iPhone 13 mini5G手机苹果13 mini手机官方旗舰店iphone13 mini苹果', 'view_price': '5999.00', 'nick': '中国移动手机官方旗舰店'}
+{'raw_title': '现货Apple/苹果 iPhone 13 Pro Max手机 新款13Promax国行正品', 'view_price': '7270.00', 'nick': '古龙圣宝'}
+{'raw_title': 'Apple/苹果 iphone XR苹果xs max全新iphonexs max苹果xsmax手机', 'view_price': '2030.00', 'nick': '宣宣港货'}
+{'raw_title': '【两只大熊猫】Apple/苹果 iPhone 11 12pro max国行5G智能手机', 'view_price': '2689.00', 'nick': 'y66613031'}
+{'raw_title': 'Apple/苹果 Apple/苹果 iPhone SE (第二代)原封国行苹果se2手机', 'view_price': '1770.00', 'nick': '靓丽百货商店'}
+{'raw_title': '分期免息Apple/苹果 iPhone XR 双卡国行苹果11 ProMax全网通手机', 'view_price': '2980.00', 'nick': 'dfbzq1986'}
+{'raw_title': '【现货速发】Apple/苹果iPhone 13 Pro Max 5G手机官方旗舰店新款全网通官网国行正品苹果13promax直降', 'view_price': '9799.00', 'nick': 'onezero美承数码旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 7 Plus原装正品 苹果7代学生机备用机工作手机', 'view_price': '688.00', 'nick': 'cgc422'}
+{'raw_title': '[直播专享]Apple/苹果 iPhone 13全网通5G手机 原装国行全国联保', 'view_price': '6799.00', 'nick': 'tb806259055'}
+{'raw_title': '新款Apple/苹果 iPhone 13 Pro Max手机官网旗舰店官方国行苹果13', 'view_price': '4999.00', 'nick': '佳欣共创科技'}
+{'raw_title': 'Apple/苹果iPhone11苹果11promax全新国行双卡全网通正品手机分期', 'view_price': '3100.00', 'nick': '木头笨熊'}
+{'raw_title': '分期免息Apple/苹果 iPhone11新款苹果11全新国行正品双卡4G手机', 'view_price': '2788.00', 'nick': 'pizi718'}
+{'raw_title': 'Apple/苹果 iPhone 8 Plus 苹果8P iphone8plus 国行三网通4G手机', 'view_price': '1308.00', 'nick': '美丽_女神新依'}
+{'raw_title': 'Apple/苹果 iPhone 7 Plus手机苹果7全新正品国行旗舰官网全网通', 'view_price': '850.00', 'nick': '买家showtime'}
+{'raw_title': '【24期免息】苹果11 iPhone 11 全网通苹果手机 官方正品 苹果旗舰iphone11 苹果11', 'view_price': '3999.00', 'nick': '搜酷数码专营店'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro Max 国行全新未激活12迷你mini手机5G', 'view_price': '3438.00', 'nick': '佩儿佳儿店'}
+{'raw_title': '花呗分期Apple/苹.果6s plus正品苹.果6s手机6sp全网通7代7plus7P', 'view_price': '580.00', 'nick': '张丰达'}
+{'raw_title': 'Apple/苹果 iPhone 12 苹果12Pro Max国行双卡全网通5G全新手机', 'view_price': '3500.00', 'nick': '开开心心来购物吧'}
+{'raw_title': 'Apple/苹果 iPhone XS Max苹果x xr xs max手机iphonexsmax苹果xr', 'view_price': '1250.00', 'nick': 'wangycjj'}
+{'raw_title': 'Apple/苹果 iPhone X 原装正品 全新分期国行 面容xr全网通4G手机', 'view_price': '1730.00', 'nick': '鹏程正兴'}
+{'raw_title': '24期免息【现货速发】Apple/苹果 iPhone 12 Pro 5G手机国行官方旗舰店iPhone12pro新品苹果13直降', 'view_price': '7888.00', 'nick': '佰分购旗舰店'}
+{'raw_title': '16年金冠店Apple/苹果 iPhone 12苹果 12ProMax 5G手机12mini3期', 'view_price': '3259.00', 'nick': '非常手机'}
+{'raw_title': 'Apple/苹果 iPhone 11 Pro Max 苹果11promax全网通苹果xsmax手机', 'view_price': '2568.00', 'nick': 'josie哟'}
+{'raw_title': '顺丰发货【24期分期免息】Apple/苹果 iPhone 12 5G手机官方旗舰店新款iphone官网13直降12正品12pro max', 'view_price': '4768.00', 'nick': '机御旗舰店'}
+{'raw_title': '[活动专享]Apple/苹果 iPhone 13全网通5G手机 原装国行官方正品', 'view_price': '5999.00', 'nick': 'tb806259055'}
+{'raw_title': '[12期免息分期] Apple/苹果 iPhone 13', 'view_price': '5999.00', 'nick': 'applestore官方旗舰店'}
+{'raw_title': '花呗分期Apple/苹.果6s plus', 'view_price': '369.00', 'nick': '奥丽威尔一店'}
+{'raw_title': '24期免息/当天发货Apple/苹果 iPhone 13苹果13手机5G版', 'view_price': '6128.00', 'nick': '佰分购旗舰店'}
+{'raw_title': '【24期分期/现货速发】Apple/苹果iPhone 13 Pro 5G手机官方旗舰店国行苹果13pro 新品13promax全新正品13Pro', 'view_price': '8088.00', 'nick': '三际数码官方旗舰店'}
+{'raw_title': '当天发【24期免息】Apple/苹果 iPhone 12 5G手机官方旗舰店苹果13promax新款官网11直降国行正品', 'view_price': '5478.00', 'nick': '京合旗舰店'}
+{'raw_title': '【直营】Apple iPhone 13 Pro Max (A2644) 苹果手机 支持移动联通电信5G手机 国行正品 全国联保', 'view_price': '9099.00', 'nick': '天猫国际进口超市国内现货'}
+{'raw_title': '【24期分期/现货发】Apple/苹果 iPhone 12 5G手机官方旗舰店正品国行13pro苹果13pro新品苹果13ProMax 12', 'view_price': '5028.00', 'nick': '三际数码官方旗舰店'}
+{'raw_title': '【至高减2200元+移动用户专享优惠】苹果12 ProMax苹果12ProMax苹果官方旗舰店手机12promax苹果新品', 'view_price': '11899.00', 'nick': '中国移动手机官方旗舰店'}
+{'raw_title': '【下单立减500元+中国移动用户专享优惠】iPhone 13 5G手机苹果13手机官方旗舰店iphone13正品苹果苹果13新', 'view_price': '5999.00', 'nick': '中国移动手机官方旗舰店'}
+{'raw_title': '【到手3899】 苹果11 iphone11 Apple/苹果iPhone 11手机全新正品未激活官方旗舰苹果11手机 iPhone 11', 'view_price': '3899.00', 'nick': '搜酷数码专营店'}
+{'raw_title': '【 至高减1750元 移动用户专享 中国移动官旗】苹果 12手机iPhone 12苹果手机移动官方旗舰店苹果12ProMax', 'view_price': '6299.00', 'nick': '中国移动官方旗舰店'}
+{'raw_title': '【当天发 24期免息】苹果13 iphone13 Apple/苹果 iPhone 13 5G手机官方旗舰正品官网苹果13手机iPhone13手机', 'view_price': '5949.00', 'nick': '搜酷数码专营店'}
+{'raw_title': '【至高减500 现货速发 移动用户专享】苹果 13手机中国移动官旗iPhone 13苹果手机官方旗舰店13ProMax手机', 'view_price': '5999.00', 'nick': '中国移动官方旗舰店'}
+{'raw_title': '【领88券减100元 赠壳膜+碎屏险】Apple/苹果iPhone 13 全网通5G手机 原装国行苹果13手机中国电信官方旗舰店', 'view_price': '5999.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': '【直营国行】Apple/苹果 iPhone 12 5G手机国行正品5G 双卡双待电信联通移动全网通全国联保官方旗舰非合约机', 'view_price': '4599.00', 'nick': '天猫国际进口超市'}
+{'raw_title': '【花呗24分期免息 赠碎屏险】Apple/苹果iPhone 12全网通5G手机 原装国行苹果12手机128G正品256G官网旗舰店', 'view_price': '4889.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': '现货当天发[24期免息/送碎屏保]Apple/苹果iPhone 13 5G手机官方旗舰店苹果13promax新款iPhone12p官网11直降', 'view_price': '5588.00', 'nick': '京合旗舰店'}
+{'raw_title': '【直营】Apple iPhone 13 Pro苹果手机 支持移动联通电信5G 双卡双待手机 国行正品 全国联保', 'view_price': '9099.00', 'nick': '天猫国际进口超市国内现货'}
+{'raw_title': '【联通用户专享】iPhone 13手机Apple 苹果13手机iphone13国行全网通5G苹果官方旗舰店官网iphone13promax', 'view_price': '5999.00', 'nick': '中国联通官方旗舰店'}
+{'raw_title': '当天发【24期免息】Apple/苹果 iPhone 13苹果13手机5G版苹果官方旗舰店正品iPhone12官网13promax5g新', 'view_price': '6128.00', 'nick': '佰分购旗舰店'}
+{'raw_title': '【24期免息/当天发货】Apple/苹果 iPhone 13 Pro Max 5G手机国行iPhone13Pro苹果13promax官方旗舰店网12', 'view_price': '8488.00', 'nick': '佰分购旗舰店'}
+{'raw_title': '【性价比高】Apple/苹果#iPhone XR 全网通4G手机全面屏双卡双待 旗舰官方国行正品原装备用机拍照游戏智能机', 'view_price': '3499.00', 'nick': '中国电信官方旗舰店'}
+{'raw_title': '【128GB到手4999元起】Apple/苹果iPhone 12#移动联通电信5G全网通双卡双待正品原装智能手机新品官方旗舰', 'view_price': '5099.00', 'nick': '中国电信官方旗舰店'}
+{'raw_title': '24期花呗免息付款0首付 Apple/苹果iPhone 13 Pro手机5G苹果13Pro手机旗舰店正品国行官方新款全网通官网苹果', 'view_price': '6198.00', 'nick': '机御旗舰店'}
+{'raw_title': '24期花呗免息付款0首付 Apple/苹果iPhone 13 Pro MAX 5G手机iPhone13Pro苹果13promax手机官方旗舰店正品12', 'view_price': '8628.00', 'nick': '机御旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 12 手机国行正品5G 双卡双待 全国联保', 'view_price': '5299.00', 'nick': '天猫超市'}
+{'raw_title': '支持88vip【直营超市新品】Apple/苹果 iPhone 13 Pro max 5G手机全网通移动电信联通正品国行苹果13Promax', 'view_price': '9189.00', 'nick': '天猫国际进口超市'}
+{'raw_title': '【中国联通直营】Apple 苹果iPhone 13 Pro Max全网通5G苹果官网iphone13promax手机非合约机', 'view_price': '8999.00', 'nick': '中国联通官方旗舰店'}
+{'raw_title': '【现货顺丰速发】Apple/苹果 iPhone 11 手机现货国行 新版', 'view_price': '5198.00', 'nick': '天猫超市'}
+{'raw_title': '【咨询减钱】 苹果11 iphone11 Apple/苹果iPhone 11 全新原装全网通官方正品旗舰店iPhone 11苹果11手机', 'view_price': '3799.00', 'nick': '香山红蚂蚁旗舰店'}
+{'raw_title': '【直降400元】苹果xr手机Apple/苹果 iPhoneXR全网通全新官方正品旗舰店全国联保苹果xr  iphone xr', 'view_price': '2999.00', 'nick': '香山红蚂蚁旗舰店'}
+{'raw_title': '24期免息/选送快充头 Apple/苹果 iPhone 13 5G手机官方正品旗舰店新款苹果13pro全网通 国行13pro max', 'view_price': '6238.00', 'nick': '壹品良机旗舰店'}
+{'raw_title': '【24期免息送快充头】Apple/苹果iPhone12ProMax5G手机国行正品官方天猫旗舰店苹果12pro全新iPhone12Pro手机', 'view_price': '8158.00', 'nick': '壹品良机旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone SE (第二代) 苹果se2 全新国行全网通原装手机', 'view_price': '1820.00', 'nick': 'qw30800'}
+{'raw_title': 'Apple/苹果 iPhone XS Max全新苹果8p xr xs max国行全网通手机8x', 'view_price': '1300.00', 'nick': '惊无命kk'}
+{'raw_title': '当天发货【送好礼】iPhone/苹果13  5G手机 苹果官方旗舰店国行正品MINI官网直降max24期分期12pro', 'view_price': '5899.00', 'nick': '深蓝港数码旗舰店'}
+{'raw_title': '2021新款Apple/苹果 iPhone 13 Pro Max苹果13Pro Max手机6.7英寸', 'view_price': '6998.00', 'nick': '领域数码通讯'}
+{'raw_title': 'Apple/苹果 iPhone XS Max 原装全网通手机双卡双待国行 xs未激活', 'view_price': '1950.00', 'nick': '钓鱼岛就是中国领土'}
+{'raw_title': '2021新款Apple/苹果 iPhone 13 Pro 苹果13 Pro Max手机6.1英寸', 'view_price': '6568.00', 'nick': '领域数码通讯'}
+{'raw_title': 'Apple/苹果 iPhone 13全网通5G手机原装国行正品+手机壳膜套装', 'view_price': '5999.00', 'nick': 'tb806259055'}
+{'raw_title': 'Apple/苹果 iPhone 12全新苹果十二全网通国行正品5G双卡双待手机', 'view_price': '4600.00', 'nick': '迪迪猪啊'}
+{'raw_title': 'Apple/苹果 iPhone 12 国行十二mini全新12ProMax正品5G双卡手机', 'view_price': '3750.00', 'nick': '大轩mi小哆'}
+{'raw_title': '新款Apple/苹果 iPhone 13 Pro Max国行正品苹果13promax手机现货', 'view_price': '7238.00', 'nick': '夏永健xyj'}
+{'raw_title': '新款X13promax电竞游戏智能手机学生价官方老人老年5G旗舰适用于黑鲨oppo小米华为荣耀12苹果11三星耳机店5g', 'view_price': '489.00', 'nick': '广福数码专营店'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro Max苹果12promax全新5G双卡苹果12手机', 'view_price': '4210.00', 'nick': 'tb5807482'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max 5G手机国行港行苹果13Pro Max手机', 'view_price': '7280.00', 'nick': 'hdjkgll'}
+{'raw_title': '2021新品Apple/苹果 iPhone 13 Pro Max苹果13Pro Max手机6.7英寸', 'view_price': '6448.00', 'nick': '达诚数码商城'}
+{'raw_title': '现货苹果13手机Apple/苹果 iPhone 13 mini5G旗舰13Promax原装', 'view_price': '4798.00', 'nick': '达诚数码商城'}
+{'raw_title': '[12期免息分期] Apple/苹果 iPhone 13', 'view_price': '5999.00', 'nick': 'applestore官方旗舰店'}
+{'raw_title': '花呗分期Apple/苹.果6s plus', 'view_price': '369.00', 'nick': '奥丽威尔一店'}
+{'raw_title': 'Apple/苹果 iPhone 12国行全新紫色5G官网苹果12原封12mini手机', 'view_price': '3980.00', 'nick': '颖宝宝666888'}
+{'raw_title': 'Apple/苹果 iPhone 13 mini苹果13迷你全网通512GB红色新款5G手机', 'view_price': '4099.00', 'nick': 'kxy80470799'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro 苹果13promax1TB新款全网通5G手机512G', 'view_price': '6350.00', 'nick': 'kxy80470799'}
+{'raw_title': '【官方旗舰】2022全新512g大内存5G智能手机正品i13Pro全网通学生老人便宜千元送华为荣耀oppo苹果vivo耳线', 'view_price': '688.00', 'nick': '硕王捷信时代专卖店'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro全网通5G手机 原装国行正品全国联保', 'view_price': '9099.00', 'nick': 'tb806259055'}
+{'raw_title': 'Apple/苹果 iPhone 12 国行迷你mini全网通十二pro max全新5g手机', 'view_price': '3438.00', 'nick': '佩儿佳儿店'}
+{'raw_title': 'Apple/苹果 Apple iPhone 11 pro Max 新款苹果11pro国行正品手机', 'view_price': '3580.00', 'nick': '居家邻舍'}
+{'raw_title': '【原装正品国行】Apple/苹果 iPhone 13 Pro Max 5G官方全新手机', 'view_price': '5299.00', 'nick': '蓝牙手表专场'}
+{'raw_title': '【官方直营】Apple iPhone 13苹果手机 支持移动联通电信5G 双卡双待 国行正品 全国联保 现货发售', 'view_price': '6298.00', 'nick': '天猫国际进口超市国内现货'}
+{'raw_title': '【24期免息】苹果13promax Apple/苹果iPhone 13 Pro Max 5G手机国行官方旗舰iphone13promax 苹果13pro max', 'view_price': '9449.00', 'nick': '搜酷数码专营店'}
+{'raw_title': '24期免息/咨询减100元 苹果13pro Apple/苹果 iPhone 13 Pro 5G手机国行官方旗舰 iphone13pro 13pro手机', 'view_price': '8599.00', 'nick': '搜酷数码专营店'}
+{'raw_title': '【中国移动用户享减400元+赠无线充等2重好礼】苹果13 ProMax苹果新品苹果官方旗舰店手机13promax', 'view_price': '8999.00', 'nick': '中国移动手机官方旗舰店'}
+{'raw_title': '【24期免息/现货速发】Apple/苹果 iPhone 12 5G手机官方正品旗舰店新款苹果12mini官网直降12pro 国行13', 'view_price': '4758.00', 'nick': '壹品良机旗舰店'}
+{'raw_title': '【下单立减400元 移动用户专享】苹果13mini手机中国移动官旗iPhone 13mini苹果手机5G新品官方旗舰店', 'view_price': '5199.00', 'nick': '中国移动官方旗舰店'}
+{'raw_title': '【下单立减400元 移动用户专享】苹果iPhone13ProMax手机中国移动官旗iPhone 13ProMax苹果手机官方旗舰店', 'view_price': '8999.00', 'nick': '中国移动官方旗舰店'}
+{'raw_title': '【24期免期/送碎屏险】Apple/苹果iPhone 13 Pro 5G手机官方旗舰店国行苹果13pro xr新品13promax全新13 Pro', 'view_price': '8658.00', 'nick': '三际数码官方旗舰店'}
+{'raw_title': '现货速发【24期免息】Apple/苹果iPhone 13 mini手机5G国行正品苹果官方旗舰店13promax新品5g迷你12送好礼', 'view_price': '5538.00', 'nick': '京合旗舰店'}
+{'raw_title': '【88VIP领券减100 花呗24期免息】Apple/苹果iPhone 13 全网通5G手机 原装国行苹果13手机中国电信官方旗舰店', 'view_price': '6229.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': '当天发货【24期免息】Apple/苹果 iPhone 13 Pro 5G手机国行官方旗舰店iPhone13pro新品12直降5g官网max', 'view_price': '8488.00', 'nick': '佰分购旗舰店'}
+{'raw_title': '现货速发【24期免息赠原厂屏碎屏险】Apple/苹果 iPhone13 Pro 5G手机官方旗舰正品全网通大陆行', 'view_price': '8678.00', 'nick': '京合旗舰店'}
+{'raw_title': '24期花呗免息付款0首付Apple/苹果 iPhone 13苹果13 5G手机官方旗舰店正品12官网直降苹果13手机新款13promax', 'view_price': '6198.00', 'nick': '机御旗舰店'}
+{'raw_title': '【中国联通直营】Apple 苹果iPhone 13 Pro全网通5G苹果官网iphone13pro手机非合约机', 'view_price': '7999.00', 'nick': '中国联通官方旗舰店'}
+{'raw_title': '【联通用户专享】Apple 苹果iPhone 13 Pro Max全网通5G手机苹果官网iphone13promax', 'view_price': '8999.00', 'nick': '中国联通官方旗舰店'}
+{'raw_title': '【24期分期免息 赠壳膜+碎屏险】Apple/苹果iPhone 13 Pro MAX全网通5G手机 原装国行苹果13promax手机旗舰店', 'view_price': '9579.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': '支持88vip【直营超市新品】Apple/苹果 iPhone 13 Pro max 5G手机全网通移动电信联通正品国行苹果13Promax', 'view_price': '9199.00', 'nick': '天猫国际进口超市'}
+{'raw_title': '【直营】Apple/苹果iPhone 13 Promax手机5G苹果手机旗舰店正品国行官方新款全网通官网苹果', 'view_price': '9149.00', 'nick': '天猫国际进口超市'}
+{'raw_title': '【24期分期/送碎屏险】 Apple/苹果iPhone13苹果13手机iPhone13苹果13手机5g正品官方旗舰店官网苹果13RroMax', 'view_price': '5868.00', 'nick': '三际数码官方旗舰店'}
+{'raw_title': '【24期免息/当天发货】Apple/苹果 iPhone 12苹果12手机iPhone 12苹果官方旗舰店5G官网苹果13ProMax', 'view_price': '4738.00', 'nick': '佰分购旗舰店'}
+{'raw_title': '21新款Apple/苹果 iPhone 13手机苹果13mini5G官方旗舰店13Promax', 'view_price': '4298.00', 'nick': '达诚数码商城'}
+{'raw_title': '分期Apple/苹果iPhoneXR 11 全新国行苹果11 双卡全网通正品手机', 'view_price': '2720.00', 'nick': '樊多多万事屋'}
+{'raw_title': '全新苹果7p Apple/苹果 iPhone 7 Plus 正品苹果7plus 苹果7手机', 'view_price': '1030.00', 'nick': '新园通讯数码'}
+{'raw_title': '【现货速发】Apple/苹果 iPhone 12 苹果12pro max新款苹果5G手机', 'view_price': '3300.00', 'nick': '陈志刚19680214'}
+{'raw_title': 'Apple/苹果 iPhone 8 Plus苹果8p全新x xs max国行全网通手机8x', 'view_price': '1178.00', 'nick': 'tb680179597'}
+{'raw_title': '【24期分期免息】现货速发/Apple/苹果13 iPhone 13手机5G版苹果官方旗舰店正品13promax5g新款iPhone12直降', 'view_price': '6238.00', 'nick': '京联通达数码旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro手机iPhone12ProMax苹果12mini国行现货', 'view_price': '6058.00', 'nick': '启泰数码'}
+{'raw_title': '花呗免息全新Apple/苹果 iPhone 7Plus国行正品7代7P全网通4G手机', 'view_price': '898.00', 'nick': 'lynn_yang39'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max苹果13Promax 13pm原装全网通手机', 'view_price': '6330.00', 'nick': 'm007e'}
+{'raw_title': 'Apple/苹果 iPhone 13苹果13 mini原装全网通5G手机13Promax13pm', 'view_price': '4080.00', 'nick': 'm007e'}
+{'raw_title': '全新2021款Apple/苹果 iPhone 13 Pro苹果13pro旗舰手机6.1英寸', 'view_price': '6448.00', 'nick': '达诚数码商城'}
+{'raw_title': '【现货直供】Apple/苹果 iPhone 13 新款5G手机官方旗舰店5G版iPhone13官网直降13pro正品新款苹果手机', 'view_price': '5999.00', 'nick': '今朝奇点旗舰店'}
+{'raw_title': '【24期免息】春节正常发货/Apple/苹果13 Pro 5G手机官网正品新款 官方旗舰店正品max新品苹果12pro降价苹果', 'view_price': '8648.00', 'nick': '京联通达数码旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 12 全网通5G手机 原装国行苹果12', 'view_price': '5599.00', 'nick': 'tb806259055'}
+{'raw_title': '[12期免息分期] Apple/苹果 iPhone 13', 'view_price': '5999.00', 'nick': 'applestore官方旗舰店'}
+{'raw_title': '花呗分期Apple/苹.果6s plus', 'view_price': '369.00', 'nick': '奥丽威尔一店'}
+{'raw_title': '24期免息/当天发货Apple/苹果 iPhone 13 Pro 5G手机国行官方', 'view_price': '8488.00', 'nick': '佰分购旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 12 全网通5G手机 原装国行苹果12', 'view_price': '5599.00', 'nick': 'tb806259055'}
+{'raw_title': '正常发【送充电头套装版】Apple/苹果iPhone 13 Pro Max全网通5G手机 原装官方国行苹果13promax旗舰店 1048', 'view_price': '9099.00', 'nick': '苏宁易购官方旗舰店'}
+{'raw_title': '【送充电头套装版 】Apple/苹果iPhone 13 Pro全网通5G手机原装国行官方苹果13Pro手机旗舰店正品1048', 'view_price': '8199.00', 'nick': '苏宁易购官方旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 12 mini国行手机iphone 12promax苹果12promax', 'view_price': '3488.00', 'nick': '数码科技1628_1628'}
+{'raw_title': '分期Apple/苹果 iPhone11全新国行双卡苹果 11 全网通正品手机', 'view_price': '2819.00', 'nick': '胭脂云坊'}
+{'raw_title': 'Apple/苹果 iPhone 12 国行5G双卡12pro正品mini全新12ProMax手机', 'view_price': '3750.00', 'nick': '平常最真实'}
+{'raw_title': '分期花呗Apple/lPhone 6splus 苹.果6sp 苹.果6s手机全网通正品4G', 'view_price': '650.00', 'nick': '恒展网信'}
+{'raw_title': '【全球购13Mini/13】Apple/苹果 iPhone 13 原装手机无锁  正品', 'view_price': '4820.00', 'nick': 'z太极z'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max全网通5G手机原装国行正品全国联保', 'view_price': '9799.00', 'nick': 'tb806259055'}
+{'raw_title': 'Apple/苹果 iPhone X苹果x iphonex xr xsmax手机 苹果xr xs Max', 'view_price': '1838.00', 'nick': 'wxjking'}
+{'raw_title': '新款Apple/苹果 iPhone 13ProMax国行正品5G手机官网苹果13mini', 'view_price': '4928.00', 'nick': '手机_小秘'}
+{'raw_title': '分期免息Apple/苹果 iPhone 7 Plus国行全新7代正品全网通4G手机', 'view_price': '918.00', 'nick': '深港澳数码科技'}
+{'raw_title': 'Apple/苹果 iPhone XR国行iphonexr全新苹果xs max手机iphonexs', 'view_price': '1850.00', 'nick': '爱上俏美'}
+{'raw_title': 'Apple/苹果iPhone11苹果11promax全新国行双卡全网通正品手机分期', 'view_price': '3100.00', 'nick': 'tb056510271'}
+{'raw_title': 'Apple/苹果 iPhone 8 Plus 苹果8plus iphone8 国行三网通4G手机', 'view_price': '1358.00', 'nick': '美丽_女神新依'}
+{'raw_title': 'Apple/苹果 iPhone 8 Plus全新苹果xr xs max国行全网通苹果8手机', 'view_price': '1480.00', 'nick': '陪我一生度过'}
+{'raw_title': 'Apple/苹果 iphone 11苹果11 Pro Max国行正品全网通11promax手机', 'view_price': '2869.00', 'nick': '投影广告打火机'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro Max 苹果12promax苹果12手机12mini', 'view_price': '3390.00', 'nick': '碧丽丝轩衣阁'}
+{'raw_title': 'Apple/苹果 iPhone 12 mini 新款5G国行手机 12promax 苹果12mini', 'view_price': '3330.00', 'nick': '配配25'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro Max全新5G手机苹果12新款12promax现货', 'view_price': '4219.00', 'nick': '245874380_86'}
+{'raw_title': 'Apple/苹果 iPhone 13手机国行正品5G手机', 'view_price': '5631.00', 'nick': '够实汇超市'}
+{'raw_title': '【24期免息/咨询减50元】  Apple/苹果 iPhone 12 5G手机 国行官方旗舰  苹果12  iPhone12手机', 'view_price': '4749.00', 'nick': '搜酷数码专营店'}
+{'raw_title': '【下单立减400元 移动用户专享】苹果 13Pro手机中国移动官旗iPhone13Pro苹果手机官方旗舰店5G手机苹果13', 'view_price': '7999.00', 'nick': '中国移动官方旗舰店'}
+{'raw_title': '【赠壳膜套装+碎屏险】Apple/苹果iPhone 12全网通5G手机 原装国行苹果12手机128G官方旗舰店', 'view_price': '4629.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': '【24期分期/送碎屏险】Apple/苹果iPhone 13 Pro Max全网通5G手机苹果13promax手机13官方旗舰店新品13promax', 'view_price': '8928.00', 'nick': '三际数码官方旗舰店'}
+{'raw_title': '【256G减1900 移动用户专享 中国移动官旗】苹果 12Pro手机iPhone 12Pro官方旗舰店苹果12手机国行正品', 'view_price': '11099.00', 'nick': '中国移动官方旗舰店'}
+{'raw_title': '现货速发【24期免息/送碎屏保】Apple/苹果iPhone13 Pro Max 5G手机官方旗舰店国行iPhone13pro官网正品12', 'view_price': '9828.00', 'nick': '京合旗舰店'}
+{'raw_title': '支持88vip【直营超市新品】Apple/苹果 iPhone 13 Pro 5G手机移动电信联通全网通正品国行苹果13Pro', 'view_price': '8139.00', 'nick': '天猫国际进口超市'}
+{'raw_title': '支持88vip【直营国行】Apple/苹果 iPhone 12  手机国行正品5G 双卡双待电信联通移动全网通全国联保官方旗舰', 'view_price': '5189.00', 'nick': '天猫国际进口超市'}
+{'raw_title': '【中国联通直营】Apple 苹果13手机iphone13国行全网通5G苹果官方旗舰店官网iphone13promax', 'view_price': '5999.00', 'nick': '中国联通官方旗舰店'}
+{'raw_title': '【到手2999】Apple/苹果 iPhoneXR全网通全新国行iPhonexr手机 官网旗舰 苹果xr iphone xr', 'view_price': '2999.00', 'nick': '搜酷数码专营店'}
+{'raw_title': '【24期分期免息 赠壳膜+碎屏险】Apple/苹果iPhone 13 Pro全网通5G手机 原装国行苹果13Pro手机官方旗舰店', 'view_price': '8569.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro 苹果13promax1TB全网通蓝色新款5G手机', 'view_price': '6350.00', 'nick': 'yxc18948999838'}
+{'raw_title': 'Apple/苹果 iPhoneXR全网通双卡全新国行未激活iPhonexr XR手机', 'view_price': '3329.00', 'nick': '爱享数码专营店'}
+{'raw_title': '新款现货速发Apple/苹果 iPhone 13 Pro Max苹果13手机13mini国行', 'view_price': '4299.00', 'nick': '非常手机'}
+{'raw_title': '国行正品Apple/苹果 iPhone XR/XSMAX改12/13Promax外观/双卡手机', 'view_price': '2099.00', 'nick': 'qq2262948'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro 移动联通电信5G全网通新品智能拍照手机', 'view_price': '8799.00', 'nick': '苏宁易购官方旗舰店'}
+{'raw_title': '【送PD20W充电头套装版 】 Apple/苹果 iPhone 13 mini 移动联通电信5G全网通新品手机官方旗舰店国行1048', 'view_price': '5199.00', 'nick': '苏宁易购官方旗舰店'}
+{'raw_title': '【全球购13PM/13Pro】Apple/苹果 iPhone 13 Pro Max原装手机无锁', 'view_price': '9880.00', 'nick': 'z太极z'}
+{'raw_title': 'Apple/苹果 iPhone 8 Plus max 全新苹果 x xr xs max国行xs手机', 'view_price': '1850.00', 'nick': 'wjklsn'}
+{'raw_title': '分期Apple/苹果 iPhone11新款苹果11国行正品手机XR双卡4G全网通', 'view_price': '2050.00', 'nick': '黄沙商行'}
+{'raw_title': '[12期免息分期] Apple/苹果 iPhone 13', 'view_price': '5999.00', 'nick': 'applestore官方旗舰店'}
+{'raw_title': '花呗分期Apple/苹.果6s plus', 'view_price': '369.00', 'nick': '奥丽威尔一店'}
+{'raw_title': '24期免息/当天发货Apple/苹果 iPhone 13 Pro Max 5G手机国行', 'view_price': '8488.00', 'nick': '佰分购旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone XR全新未激活国行苹果xr手机4G三网通iphonexr', 'view_price': '2050.00', 'nick': '猩猩大晒'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max pm 国行官网正品全网三网通5G手机', 'view_price': '6100.00', 'nick': '启航数码007'}
+{'raw_title': '24期免息/咨询减400】Apple/苹果iPhone 13 5G手机苹果官方旗舰苹果13pro新款国行正品iPhone12官网13promax', 'view_price': '6248.00', 'nick': '信息港数码专营店'}
+{'raw_title': '现货 Apple/苹果 iPhone 12 5G 苹果12手机国行全新iphone12mini', 'view_price': '3498.00', 'nick': '最低最诚信'}
+{'raw_title': '【24期免息】现货速发/Apple/苹果iPhone 13 mini手机5G国行正品苹果官方旗舰店iPhone13新品5g苹果12直降', 'view_price': '5538.00', 'nick': '京联通达数码旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone XS Max苹果x xr xs max手机iphonexsmax苹果8p', 'view_price': '1850.00', 'nick': '卡米亚米'}
+{'raw_title': 'Apple/苹果 iPhone 12 mini苹果12全网通 12迷你5.4寸小屏手机 5G', 'view_price': '2800.00', 'nick': 'kxy80470799'}
+{'raw_title': '【限时至高直降511元 2天内发货】Apple/苹果 iPhone 13全网通5G苹果手机', 'view_price': '5999.00', 'nick': '宝贝猜猜旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 11 Pro Max 原装手机pro双卡国行全网通未激活', 'view_price': '3050.00', 'nick': '钓鱼岛就是中国领土'}
+{'raw_title': 'Apple/苹果 iphone 11 pro max苹果11苹果11pro苹果11promax手机', 'view_price': '2750.00', 'nick': '义乌康大百货用品'}
+{'raw_title': 'Apple/苹果 iPhone 12 5G手机 苹果12 ProMax双卡苹果12mini迷你', 'view_price': '3488.00', 'nick': '鱼得水_168'}
+{'raw_title': '花呗分期Apple/苹.果6s plus苹.果6s手机苹.果7plus 7代 7P全网通', 'view_price': '590.00', 'nick': '千依百信'}
+{'raw_title': 'Apple/苹果 iPhone 13全新国行正品5G旗舰手机分期免息13promax', 'view_price': '4399.00', 'nick': 'zhuxiaoming1113'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max 13Pro新款国行双卡5G手机西安速发', 'view_price': '7733.00', 'nick': 'tb571399732'}
+{'raw_title': '新款Apple/苹果 iPhone 13 Pro Max全网通5G手机国行官方旗舰正品', 'view_price': '5688.00', 'nick': '金运通'}
+{'raw_title': '现货Apple/苹果 iPhone 13 Pro Max苹果13Pro Max 6.7英寸5G手机', 'view_price': '6438.00', 'nick': 'jj.shen'}
+{'raw_title': 'Apple/苹果 iPhone 13 苹果13mini 官网原装正品全网三网通5G手机', 'view_price': '3950.00', 'nick': '启航数码007'}
+{'raw_title': '新款Apple/苹果 iPhone 13Promax手机5G官网旗舰店官方苹果13mini', 'view_price': '4999.00', 'nick': '佳欣共创科技'}
+{'raw_title': '新款Apple/苹果 iPhone 13 国行5G 手机 苹果iPhone 13 mini 手机', 'view_price': '4880.00', 'nick': 'hdjkgll'}
+{'raw_title': 'Apple/苹果 iPhone 13国行新款5G手机13mini迷你官方旗舰西安速发', 'view_price': '4793.00', 'nick': 'tb571399732'}
+{'raw_title': '现货Apple/苹果 iPhone 13 5G全新国行正品苹果13手机13mini', 'view_price': '4878.00', 'nick': '最低最诚信'}
+{'raw_title': '现货当天发Apple/苹果 iPhone 13 6.1苹果13国行iphone13mini手机', 'view_price': '4808.00', 'nick': 'jj.shen'}
+{'raw_title': '2021新品Apple/苹果 iPhone 13苹果13迷你手机6.1英寸全新国行', 'view_price': '4880.00', 'nick': '860803华晶'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro max原装未激活5G手机国行13promax双卡', 'view_price': '6380.00', 'nick': '钓鱼岛就是中国领土'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max全球代购国行现货手机12蘑菇酱mini', 'view_price': '6500.00', 'nick': '蘑菇家的木耳'}
+{'raw_title': '现货Apple/苹果 iPhone 13 Pro Max国行原封官方正手机高刷120Hz', 'view_price': '6659.00', 'nick': '颖宝宝666888'}
+{'raw_title': 'Apple/苹果 iPhone 13苹果13 mini原装正品 全网通5G手机13Promax', 'view_price': '4208.00', 'nick': 'tangchaoshan1006'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max 苹果13pro国行手机/美黑解三网5G', 'view_price': '6399.00', 'nick': '京基数码行'}
+{'raw_title': '现货Apple/苹果 iPhone 13 Pro Max苹果13promax全网通5G手机双卡', 'view_price': '6339.00', 'nick': '昊天通讯23'}
+{'raw_title': '24期免息送豪礼当天发货Apple苹果iPhone 12 5G手机官方旗舰店国行正品苹果iphone13promax/11max/12mini', 'view_price': '4749.00', 'nick': '久汇数码专营店'}
+{'raw_title': 'Apple/苹果 iPhone XS max xr x全新苹果 x xr xs max国行xs手机', 'view_price': '2050.00', 'nick': 'wjklsn'}
+{'raw_title': 'Apple/苹果 iPhone11国行三网双卡4G 苹果11 Pro Max正品手机分期', 'view_price': '2610.00', 'nick': '阮小小格'}
+{'raw_title': '【活动专享 配原装20W快充】Apple/苹果iPhone 13全网通5G 苹果13手机+20W苹果原装充电器PD快充头原装国行', 'view_price': '6999.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': '【256G减1900元 移动用户专享中国移动官旗】苹果 12ProMax手机iPhone 12ProMax苹果手机官方旗舰店5G', 'view_price': '11899.00', 'nick': '中国移动官方旗舰店'}
+{'raw_title': '【直营】Apple/苹果iPhone 11全网通4G手机 原装国行正品苹果11手机128G/64G', 'view_price': '4429.00', 'nick': '天猫国际进口超市'}
+{'raw_title': '【直营】Apple/苹果iPhone 13 Pro手机5G苹果13Pro手机旗舰店正品国行官方新款全网通官网苹果', 'view_price': '8129.00', 'nick': '天猫国际进口超市'}
+{'raw_title': '【24期免期/送碎屏险】Apple/苹果iPhone 13 Pro Max全网通5G手机苹果13promax手机13官方旗舰店新品13ProMax', 'view_price': '9508.00', 'nick': '三际数码官方旗舰店'}
+{'raw_title': '【88会员领券可减100 券后4099起】Apple/苹果iPhone 11全网通4G手机 原装国行128G官方旗舰店直售苹果11手机', 'view_price': '4399.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': '【联通用户专享】Apple 苹果iPhone 13 mini全网通5G手机苹果官网iphone13mini', 'view_price': '5199.00', 'nick': '中国联通官方旗舰店'}
+{'raw_title': '24期免息送豪礼当天发货Apple苹果 iPhone 13 Pro 5G手机国行官方旗舰店iPhone13pro新品12直降5g官网max/11', 'view_price': '8599.00', 'nick': '久汇数码专营店'}
+{'raw_title': '【现货速发 碎屏保套餐】Apple/苹果 iPhone 11 移动联通电信4G全网通智能手机 2020新版官方正品【59】', 'view_price': '4199.00', 'nick': '苏宁易购官方旗舰店'}
+{'raw_title': '[12期免息分期] Apple/苹果 iPhone 13', 'view_price': '5999.00', 'nick': 'applestore官方旗舰店'}
+{'raw_title': '花呗分期Apple/苹.果6s plus', 'view_price': '369.00', 'nick': '奥丽威尔一店'}
+{'raw_title': '24期免息/当天发货Apple/苹果 iPhone 13 Pro Max 5G手机国行', 'view_price': '8488.00', 'nick': '佰分购旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro Max 全网12promax 苹果12mini国行手机', 'view_price': '3370.00', 'nick': '小妞日韩馆'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max 移动联通电信5G全网通新品智能拍照手机', 'view_price': '8999.00', 'nick': '苏宁易购官方旗舰店'}
+{'raw_title': '现货Apple/苹果 iPhone 13 Pro Max 5G 苹果13 国行iPhone13手机', 'view_price': '7698.00', 'nick': '最低最诚信'}
+{'raw_title': '【当天发货/送碎屏险】Apple/苹果iPhone 13 5G手机官方旗舰店新款苹果13promax苹果手机12promax官网11直降', 'view_price': '5809.00', 'nick': '恒久宁数码专营店'}
+{'raw_title': '现货Apple/苹果 iPhone 13 Pro Max 5G 苹果13 国行iPhone13手机', 'view_price': '6508.00', 'nick': 'jj.shen'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max6.7寸 6.1寸13 Pro 手机国行5G港行', 'view_price': '7249.00', 'nick': '沁穆堂'}
+{'raw_title': '全新Apple/苹果 iPhone 13 Pro Max苹果13Pro苹果13手机远峰蓝12m', 'view_price': '8558.00', 'nick': '远航通讯16'}
+{'raw_title': '立减110 送黑鲨导热壳】黑鲨游戏手机4Pro5G游戏手机官方旗舰电竞手机骁龙888小米黑鲨4代黑鲨3S红魔6s 红魔7', 'view_price': '2799.00', 'nick': '金万吉数码专营店'}
+{'raw_title': 'Apple/苹果 iPhone 13 苹果13mini未激活国行手机/美黑解三网5G', 'view_price': '4099.00', 'nick': '京基数码行'}
+{'raw_title': 'Apple/苹果 iPhone 13全新手机国行iphone13原封未激活5G双卡三网', 'view_price': '5650.00', 'nick': 'zxsgtc'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro全新国行12mini5G双卡12ProMax正品手机', 'view_price': '3748.00', 'nick': '绿百荷'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro Max 苹果12 ProMax6.7英寸5G新品手机', 'view_price': '4228.00', 'nick': '数码科技1628_1628'}
+{'raw_title': '分期免息Apple/苹果 iPhone11新款苹果11国行正品手机', 'view_price': '2788.00', 'nick': '敞开你的心'}
+{'raw_title': 'Apple/苹果 iPhone XR全新苹果xr iphonex xr xs Max手机苹果XR', 'view_price': '1838.00', 'nick': 'wxjking'}
+{'raw_title': '现货Apple/苹果 iPhone 13 Pro Max 5G 苹果13mini国行港行5G手机', 'view_price': '4199.00', 'nick': 'woaichenheng99'}
+{'raw_title': '新款Apple/苹果 iPhone 13国行全新智能5G手机13proMax未激活mini', 'view_price': '4858.00', 'nick': 'e酷手机网'}
+{'raw_title': '2021新款Apple/苹果 iPhone 13 Pro max苹果13Pro苹果手机13 现货', 'view_price': '7688.00', 'nick': 'e酷手机网'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro 12 Max官网国行全网三网5G智能手机', 'view_price': '5400.00', 'nick': '启航数码007'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max6.7寸iphone13promax正品苹果手机', 'view_price': '6568.00', 'nick': '最炫科技'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro Max全新5G手机苹果12新款12promax现货', 'view_price': '4219.00', 'nick': '245874380_86'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max苹果13Promax原装正品全网通5G手机', 'view_price': '6408.00', 'nick': 'tangchaoshan1006'}
+{'raw_title': 'Apple/苹果 iPhone XR 正品苹果8plus iphonexr xsmax 苹果xr手机', 'view_price': '1190.00', 'nick': '撒旦0天使0'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro Max 新款5G手机12promax 苹果12 国行', 'view_price': '2980.00', 'nick': '配配25'}
+{'raw_title': 'Apple/苹果 iPhone 13 ProMax国行5G手机原封正品13Pro实体店现货', 'view_price': '7399.00', 'nick': '糊涂在线'}
+{'raw_title': 'Apple/苹果 iPhone XS国行iphonexr xs全新苹果xr苹果xsmax手机', 'view_price': '1820.00', 'nick': '特卖帆布鞋'}
+{'raw_title': 'Apple/苹果 iPhone 12原装正品苹果12mini手机国行未激活5G手机', 'view_price': '3499.00', 'nick': 'jiali通讯'}
+{'raw_title': 'Apple/苹果 iPhone 13原装正品国行全新未激活5G手机苹果13mini', 'view_price': '4899.00', 'nick': 'jiali通讯'}
+{'raw_title': '【降600元 2天内发货】Apple/苹果 iPhone 12 5G手机苹果12全网通新品国行原装全面屏双卡智能官方旗舰店手机', 'view_price': '5599.00', 'nick': '宝贝猜猜旗舰店'}
+{'raw_title': '分期免息Apple/苹果 iPhone11国行全新苹果11 Pro Max双卡手机', 'view_price': '2900.00', 'nick': '埃及一朵花'}
+{'raw_title': 'Apple/苹果 iPhone X 苹果xs iphonexsmax xr苹果xsmax苹果xr手机', 'view_price': '1799.00', 'nick': 'jwee'}
+{'raw_title': '分期免息Apple/苹果 iPhone11苹果11国行原装正品全网通双卡手机', 'view_price': '2366.00', 'nick': 'pizi718'}
+{'raw_title': '512G大内存5G新品60promax安卓电竞游戏智能手机全网通5g旗舰适用于华为11荣耀oppo小米vivo苹果12官方线13店', 'view_price': '1178.00', 'nick': '蒙奇数码专营店'}
+{'raw_title': '三期免息Apple/苹果 iPhone 11 Pro max 苹果11 Pro max 苹果手机', 'view_price': '2160.00', 'nick': '新鲜品味'}
+{'raw_title': '全新Apple/苹果 iPhone 13苹果13pro手机6.1寸13promax国行13mini', 'view_price': '4688.00', 'nick': '远航通讯16'}
+{'raw_title': 'Apple/苹果 iPhone 7  苹果7 plus 7代7p手机正品', 'view_price': '470.00', 'nick': '码头上774'}
+{'raw_title': '现货Apple/苹果 iPhone 13 Pro Max手机5G官网旗舰官方苹果13Pro', 'view_price': '7710.00', 'nick': '晓阳通讯'}
+{'raw_title': '24期分期送豪礼当天发货Apple苹果iPhone 13 mini手机5G国行正品官方旗舰店iPhone13mini新品5g迷你苹果12', 'view_price': '5049.00', 'nick': '久汇数码专营店'}
+{'raw_title': 'Apple/苹果 iPhone12Pro xr改12双卡苹果XR改13改13Pro手机远峰蓝', 'view_price': '1999.00', 'nick': 'cmh417'}
+{'raw_title': '【24期分期/现货速发】Apple/苹果12手机 iPhone 12全网通5G手机 官网旗舰款正品iphone 12手机 苹果12手机', 'view_price': '4399.00', 'nick': '搜酷数码专营店'}
+{'raw_title': '全球购Apple/苹果 iPhone 13 Pro MAX 苹果13PM手机6.7/6.1寸屏', 'view_price': '6650.00', 'nick': '4k电子'}
+{'raw_title': '分期免息Apple/苹果\xa0iPhone11\xa0Pro\xa0Max全网通双卡全新原装国行双卡双待苹果11 pro max手机', 'view_price': '6688.00', 'nick': '智联中达数码专营店'}
+{'raw_title': '[12期免息分期] Apple/苹果 iPhone 13', 'view_price': '5999.00', 'nick': 'applestore官方旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 12 国行迷你mini全网通', 'view_price': '3438.00', 'nick': '佩儿佳儿店'}
+{'raw_title': '24期免息/当天发货Apple/苹果 iPhone 13 Pro Max 5G手机国行', 'view_price': '8488.00', 'nick': '佰分购旗舰店'}
+{'raw_title': '全新Apple/苹果 iPhone XR双卡国行未激活苹果xr手机iphonexs max', 'view_price': '1850.00', 'nick': '逸尚私衣阁掌柜'}
+{'raw_title': '现货新款Apple/苹果 iPhone 13苹果13手机iPhone13Mini全新国行', 'view_price': '4898.00', 'nick': '夏永健xyj'}
+{'raw_title': 'Apple/苹果 iPhone 13 13mini5G手机 6.1吋 5.4吋全新原封', 'view_price': '4869.00', 'nick': '李小麦的店'}
+{'raw_title': '【至高减500元+全国联保+中国移动用户专享！】苹果iPhone 13全网通5G手机原装国行苹果13手机官方正品iphone', 'view_price': '5999.00', 'nick': '中国移动手机官方旗舰店'}
+{'raw_title': '支持88Vip【直营国行】Apple/苹果 iPhone XR 全网通手机 双卡双待', 'view_price': '3788.00', 'nick': '天猫国际进口超市'}
+{'raw_title': '现货速发Apple/苹果 iPhone 13 ProMax手机苹果13promax6.7寸国行', 'view_price': '7248.00', 'nick': '夏永健xyj'}
+{'raw_title': '【限时限量抢】Apple/苹果 iPhone 13移动联通电信全网通5G新品智能拍照手机官方旗舰店官网正品', 'view_price': '5999.00', 'nick': '苏宁易购官方旗舰店'}
+{'raw_title': '【88VIP领券减100 24期分期免息】Apple/苹果iPhone 13 Pro MAX全网通5G手机原装国行苹果13promax官方旗舰店', 'view_price': '8569.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max 5G手机 6.7寸 6.1苹果13国行原封', 'view_price': '7399.00', 'nick': '李小麦的店'}
+{'raw_title': '成都闪送Apple/苹果 iPhone 13国行原封官网苹果13mini新款手机粉', 'view_price': '4435.00', 'nick': '颖宝宝666888'}
+{'raw_title': 'Apple/苹果iPhone13 xr改13promax国行双卡xr改12pro有面容11手机', 'view_price': '1999.00', 'nick': '爱尚维纳斯店'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro Max正品原装国行12pro6.7寸5G手机未激', 'view_price': '6199.00', 'nick': 'jiali通讯'}
+{'raw_title': 'Apple/苹果 iPhone11 iPhone XS Max苹果xr手机 xsmax iphonex', 'view_price': '1900.00', 'nick': '潼潼童'}
+{'raw_title': 'Apple/苹果 iphone 11ProMax双卡国行全新未激活刘 海手机 苹果11', 'view_price': '3220.00', 'nick': '新西兰小镇特卡波'}
+{'raw_title': '【现货速发】Apple/苹果 iPhone 12 全网通5G智能手机苏宁易购官方旗舰正品苹果12官方旗舰store', 'view_price': '5599.00', 'nick': '苏宁易购官方旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 11 苹果11promax全新国行苹果xsmax双卡手机xr', 'view_price': '2058.00', 'nick': 'meimei138_168'}
+{'raw_title': '【移动用户减400元+限量赠5重好礼！】iPhone 13 mini5G手机苹果13 mini手机官方旗舰店iphone13 mini苹果', 'view_price': '5999.00', 'nick': '中国移动手机官方旗舰店'}
+{'raw_title': '现货Apple/苹果 iPhone 13 Pro Max手机 新款13Promax国行正品', 'view_price': '7270.00', 'nick': '古龙圣宝'}
+{'raw_title': 'Apple/苹果 iphone XR苹果xs max全新iphonexs max苹果xsmax手机', 'view_price': '2030.00', 'nick': '宣宣港货'}
+{'raw_title': '【两只大熊猫】Apple/苹果 iPhone 11 12pro max国行5G智能手机', 'view_price': '2689.00', 'nick': 'y66613031'}
+{'raw_title': 'Apple/苹果 Apple/苹果 iPhone SE (第二代)原封国行苹果se2手机', 'view_price': '1770.00', 'nick': '靓丽百货商店'}
+{'raw_title': '分期免息Apple/苹果 iPhone XR 双卡国行苹果11 ProMax全网通手机', 'view_price': '2980.00', 'nick': 'dfbzq1986'}
+{'raw_title': 'Apple/苹果 iPhone 7 Plus原装正品 苹果7代学生机备用机工作手机', 'view_price': '688.00', 'nick': 'cgc422'}
+{'raw_title': '【现货速发】Apple/苹果iPhone 13 Pro Max 5G手机官方旗舰店新款全网通官网国行正品苹果13promax直降', 'view_price': '9799.00', 'nick': 'onezero美承数码旗舰店'}
+{'raw_title': '[直播专享]Apple/苹果 iPhone 13全网通5G手机 原装国行全国联保', 'view_price': '6799.00', 'nick': 'tb806259055'}
+{'raw_title': '新款Apple/苹果 iPhone 13 Pro Max手机官网旗舰店官方国行苹果13', 'view_price': '4999.00', 'nick': '佳欣共创科技'}
+{'raw_title': 'Apple/苹果iPhone11苹果11promax全新国行双卡全网通正品手机分期', 'view_price': '3100.00', 'nick': '木头笨熊'}
+{'raw_title': '分期免息Apple/苹果 iPhone11新款苹果11全新国行正品双卡4G手机', 'view_price': '2788.00', 'nick': 'pizi718'}
+{'raw_title': 'Apple/苹果 iPhone 8 Plus 苹果8P iphone8plus 国行三网通4G手机', 'view_price': '1308.00', 'nick': '美丽_女神新依'}
+{'raw_title': 'Apple/苹果 iPhone 7 Plus手机苹果7全新正品国行旗舰官网全网通', 'view_price': '850.00', 'nick': '买家showtime'}
+{'raw_title': '【24期免息】苹果11 iPhone 11 全网通苹果手机 官方正品 苹果旗舰iphone11 苹果11', 'view_price': '3999.00', 'nick': '搜酷数码专营店'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro Max 国行全新未激活12迷你mini手机5G', 'view_price': '3438.00', 'nick': '佩儿佳儿店'}
+{'raw_title': '花呗分期Apple/苹.果6s plus正品苹.果6s手机6sp全网通7代7plus7P', 'view_price': '580.00', 'nick': '张丰达'}
+{'raw_title': 'Apple/苹果 iPhone 12 苹果12Pro Max国行双卡全网通5G全新手机', 'view_price': '3500.00', 'nick': '开开心心来购物吧'}
+{'raw_title': 'Apple/苹果 iPhone XS Max苹果x xr xs max手机iphonexsmax苹果xr', 'view_price': '1250.00', 'nick': 'wangycjj'}
+{'raw_title': 'Apple/苹果 iPhone X 原装正品 全新分期国行 面容xr全网通4G手机', 'view_price': '1730.00', 'nick': '鹏程正兴'}
+{'raw_title': '24期免息【现货速发】Apple/苹果 iPhone 12 Pro 5G手机国行官方旗舰店iPhone12pro新品苹果13直降', 'view_price': '7888.00', 'nick': '佰分购旗舰店'}
+{'raw_title': '16年金冠店Apple/苹果 iPhone 12苹果 12ProMax 5G手机12mini3期', 'view_price': '3259.00', 'nick': '非常手机'}
+{'raw_title': 'Apple/苹果 iPhone 11 Pro Max 苹果11promax全网通苹果xsmax手机', 'view_price': '2568.00', 'nick': 'josie哟'}
+{'raw_title': '顺丰发货【24期分期免息】Apple/苹果 iPhone 12 5G手机官方旗舰店新款iphone官网13直降12正品12pro max', 'view_price': '4768.00', 'nick': '机御旗舰店'}
+{'raw_title': '[活动专享]Apple/苹果 iPhone 13全网通5G手机 原装国行官方正品', 'view_price': '5999.00', 'nick': 'tb806259055'}
+{'raw_title': '[12期免息分期] Apple/苹果 iPhone 13', 'view_price': '5999.00', 'nick': 'applestore官方旗舰店'}
+{'raw_title': '花呗分期Apple/苹.果6s plus', 'view_price': '369.00', 'nick': '奥丽威尔一店'}
+{'raw_title': '24期免息/当天发货Apple/苹果 iPhone 13 Pro Max 5G手机国行', 'view_price': '8488.00', 'nick': '佰分购旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max Promax 6.1寸6.7寸5G国行双卡手机', 'view_price': '7430.00', 'nick': '静房王树楷'}
+{'raw_title': 'Apple/苹果 iPhone XR国行双卡苹果XS Max国行苹果双卡全网4g手机', 'view_price': '1898.00', 'nick': 'zhanghaiyong868'}
+{'raw_title': 'Apple/苹果iPhone 8 Plus官方正品国行 全网通手机8x256g8p5.5寸', 'view_price': '2300.00', 'nick': 'tb7725627590'}
+{'raw_title': '24期免息送无线充当天发货Apple苹果iPhone12promax 5G手机官方旗舰店国行官网正品iPhone11苹果13promax', 'view_price': '8949.00', 'nick': '久汇数码专营店'}
+{'raw_title': 'Apple/苹果 iPhone XS Max国行 iphonexr全新苹果xr苹果xsmax手机', 'view_price': '1250.00', 'nick': '小仙女coco'}
+{'raw_title': 'Apple/苹果 iPhone 13 原装5G手机全网通 13mini 国行双卡双待', 'view_price': '4850.00', 'nick': '钓鱼岛就是中国领土'}
+{'raw_title': '【花呗三期分期免息】Apple/苹果iPhone 11全网通4G手机 原装国行正品苹果11手机', 'view_price': '4698.00', 'nick': '智联中达数码专营店'}
+{'raw_title': '【国行正品 】Apple/苹果 iPhone 13 新款苹果 iPhone 13 手机官方旗舰国行全新5G全网通', 'view_price': '5999.00', 'nick': '易机数码旗舰店'}
+{'raw_title': '支持88vip【直营超市新品】Apple/苹果 iPhone 13 Pro 5G手机移动电信联通全网通正品国行苹果13Pro', 'view_price': '8139.00', 'nick': '天猫国际进口超市'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro苹果13promax苹果13国行手机12蓝峰蓝色', 'view_price': '7998.00', 'nick': '远航通讯16'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro max原装未激活5G手机国行12promax双卡', 'view_price': '5550.00', 'nick': '钓鱼岛就是中国领土'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro全新5G手机百亿补贴美黑解港国行版max', 'view_price': '5769.00', 'nick': '金凤祥数码'}
+{'raw_title': 'Apple/苹果 iPhone 8全新正品 8Plus 手机国行全网通4G手机', 'view_price': '1185.00', 'nick': 'tb680179597'}
+{'raw_title': '全新Apple/苹果 iPhone XR双卡国行未激活苹果xr手机iphonexs max', 'view_price': '2020.00', 'nick': '逸尚私衣阁掌柜'}
+{'raw_title': '【现货速发/送无线充】Apple/苹果iPhone 12苹果12手机iPhone 12手机官方天猫旗舰店全网通5G版正品苹果', 'view_price': '4398.00', 'nick': '壹品良机旗舰店'}
+{'raw_title': '【现货速发】Apple/苹果 iPhone 13 mini 手机国行正品5G全国联保', 'view_price': '5199.00', 'nick': '天猫超市'}
+{'raw_title': 'Apple/苹果 iPhone XR改13 PRO MAX 12全网通XSMAX改13promax手机', 'view_price': '1868.00', 'nick': 'tb081903629'}
+{'raw_title': '2021新款Apple/苹果 iPhone 13 Pro Max手机13Promax上海闪送港行', 'view_price': '7300.00', 'nick': '赛博实体店'}
+{'raw_title': '新款现货Apple/苹果 iPhone 13手机5G官网旗舰店官方苹果13mini', 'view_price': '4870.00', 'nick': '晓阳通讯'}
+{'raw_title': '【送PD20W充电头套装版】Apple/苹果 iPhone 11全网通4G苹果11手机官方旗舰店苹果新品官网正品1048', 'view_price': '4359.00', 'nick': '苏宁易购官方旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 12  mini 国行官网正品12pro pm 三网5G手机', 'view_price': '2850.00', 'nick': '启航数码007'}
+{'raw_title': '【24期免息/送快充头】Apple/苹果iPhone 12 mini 5G手机国行官方正品天猫旗舰店iPhone12新品苹果12官网', 'view_price': '4448.00', 'nick': '壹品良机旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max 5G全网通手机苹果13 Pro 13Promax', 'view_price': '7999.00', 'nick': 'feixiang9911'}
+{'raw_title': 'Apple/苹果 iPhone 8 Plus 苹果8plus iPhone8 国行全网通4G手机', 'view_price': '1268.00', 'nick': '新园通讯数码'}
+{'raw_title': '12+512G内存5G新款13proMAX官方旗舰正品大屏游戏智能手机学生价全网通便宜千元老年人备用机送苹果华为4G线', 'view_price': '788.00', 'nick': '硕王捷信时代专卖店'}
+{'raw_title': '【88VIP领券至高250元 赠壳膜】Apple/苹果iPhone 13 Pro全网通5G手机 原装国行正品苹果13Pro手机官方旗舰店', 'view_price': '7999.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 8 max xr x全新苹果 x xr xs max国行xs手机', 'view_price': '1850.00', 'nick': 'wjklsn'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max苹果13Pro正品国行原封5G手机13Max', 'view_price': '7099.00', 'nick': 'long780790'}
+{'raw_title': '【24期分期+顺丰当天发】Apple/苹果iPhone12mini 5G手机正品国行货原装现货全新iPhone苹果12mini', 'view_price': '3815.00', 'nick': '川渝凯达数码专营店'}
+{'raw_title': '【128GB到手4999元起】Apple/苹果iPhone 12手机#5G 全网通双卡双待正品原装智能旗舰官方国行', 'view_price': '5099.00', 'nick': '中国电信官方旗舰店'}
+{'raw_title': '【24期分期】苹果13mini iphone13mini Apple/苹果 iPhone 13 mini 5G手机官方旗舰正品官网苹果13mini手机', 'view_price': '5099.00', 'nick': '搜酷数码专营店'}
+{'raw_title': 'Apple/苹果 iPhone 12 mini国行双卡双待全新5G手机苹果12现货', 'view_price': '3549.00', 'nick': '245874380_86'}
+{'raw_title': 'Apple/苹果 iPhone 13全新5G手机mini百亿补贴Pro美黑解港国行版', 'view_price': '3588.00', 'nick': '金凤祥数码'}
+{'raw_title': 'Apple/苹果 iPhone XS Max苹果x xr 全新xs iphonexr 8 8plus手机', 'view_price': '1249.00', 'nick': '小号门'}
+{'raw_title': '分期Apple/苹果 iPhone 12 Pro苹果12Promax5G手机全网通双卡双待', 'view_price': '4465.00', 'nick': '意豪数码1'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro 苹果13Pro max 5G 全新手机厦门现货', 'view_price': '6500.00', 'nick': 'tb8821_2013'}
+{'raw_title': 'Apple/苹果 iPhone 13 5G全网通手机苹果13 mini 13Pro 13 Promax', 'view_price': '5099.00', 'nick': 'feixiang9911'}
+{'raw_title': '分期免息 Apple/苹果 iPhoneXR全网通双卡全新原装国行双卡双待iPhonexr XR手机', 'view_price': '3708.00', 'nick': '智联中达数码专营店'}
+{'raw_title': 'Apple/苹果 iPhone 8 Plus国行苹果8p手机iphone8苹果8plus手机', 'view_price': '1200.00', 'nick': '爱上俏美'}
+{'raw_title': '全新2020款Apple/苹果 iPhone 12 mini 手机 iPhone12 国行 原封', 'view_price': '3500.00', 'nick': '麦克团mactuancom'}
+{'raw_title': 'Apple/苹果 iPhone XR双卡手机iphone11国行苹果XSMAX现货xs包邮', 'view_price': '1290.00', 'nick': 'zhangfuyin023578'}
+{'raw_title': '[12期免息分期] Apple/苹果 iPhone 13', 'view_price': '5999.00', 'nick': 'applestore官方旗舰店'}
+{'raw_title': '花呗分期Apple/苹.果6s plus', 'view_price': '369.00', 'nick': '奥丽威尔一店'}
+{'raw_title': '24期免息/当天发货Apple/苹果 iPhone 13 Pro Max 5G手机国行', 'view_price': '8488.00', 'nick': '佰分购旗舰店'}
+{'raw_title': '同城闪送现货Apple/苹果iPhone13 Pro max国行官方原装5G手机mini', 'view_price': '4799.00', 'nick': 'tb18742644'}
+{'raw_title': '顺丰发货+24期分期】Apple/苹果iPhone 13 Pro MAX全网通5G手机 原装官方国行苹果13promax手机旗舰店正品', 'view_price': '8998.00', 'nick': '机御旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 12 5G手机 苹果12Pro Max国行双卡 苹果12mini', 'view_price': '3390.00', 'nick': '妮妮小55'}
+{'raw_title': 'Apple/苹果 iPhone 12 mini 国行官网正品12 pro pm 三网5G手机', 'view_price': '3020.00', 'nick': 'm007e'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max全新5G手机百亿补贴官方港美黑解版', 'view_price': '5768.00', 'nick': '金凤祥数码'}
+{'raw_title': 'Apple/苹果 iPhone XS Max 苹果XR 全新XS国行x全网通4g手机分期', 'view_price': '1820.00', 'nick': '好宝贝4091'}
+{'raw_title': 'Apple/苹果 iPhone 8 全新正品苹果8P 国行全网通4G手机苹果8plus', 'view_price': '1175.00', 'nick': '鸿兴购物网'}
+{'raw_title': 'Apple/苹果 iPhone 13国行iPhone 13mini 官网旗舰苹果13手机新款', 'view_price': '4860.00', 'nick': '炫机汇数码店'}
+{'raw_title': '直降Apple/苹果 iPhone 11 Pro Max国行原封11por官网全网4G手机', 'view_price': '3146.00', 'nick': '颖宝宝666888'}
+{'raw_title': '新品Apple/苹果 iPhone 12紫色苹果12Pro官网国行12mini5G手机', 'view_price': '3328.00', 'nick': '森良数码'}
+{'raw_title': '【直营】Apple/苹果 iPhone 12 mini 国行联保  电信全网通5G新品智能手机', 'view_price': '5498.00', 'nick': '天猫国际进口超市国内现货'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max国行港美5G全新手机双卡远峰蓝', 'view_price': '6620.00', 'nick': 'ublog'}
+{'raw_title': 'Apple/苹果 iPhone 11 Pro Max国行双卡全网通4G手机正品分期免息', 'view_price': '4300.00', 'nick': '兜兜麦包互联'}
+{'raw_title': 'Apple/苹果 iPhone 12 mini国行苹果12pro max全新5G手机12promax', 'view_price': '3378.00', 'nick': '诚信世界裤都'}
+{'raw_title': '【24期免息/送快充头】苹果12PRO Apple/苹果iPhone12Pro5G手机官方正品旗舰店国行苹果12全新原封iPhone12', 'view_price': '8158.00', 'nick': '壹品良机旗舰店'}
+{'raw_title': '【12期免息/现货速发】Apple/苹果 iPhone 13苹果13手机5G版苹果官方旗舰店正品iPhone12官网13promax5g新', 'view_price': '6338.00', 'nick': '能良数码官方旗舰店'}
+{'raw_title': '12+512G内存5G新款13proMAX官方旗舰正品大屏游戏智能手机学生价全网通便宜千元老年人备用机送苹果华为4G线', 'view_price': '788.00', 'nick': '硕王捷信时代专卖店'}
+{'raw_title': '新品上市13promax大内存512G一亿像素电竞游戏5G全网通智能手机排行榜官方旗舰适用于小米OPPO荣耀华为苹果线', 'view_price': '899.00', 'nick': '佳佳购数码专营店'}
+{'raw_title': 'Apple/苹果 iPhone 11 Pro Max 国行 Xs Max 双卡XR全网通4G手机X', 'view_price': '1870.00', 'nick': '坐在飞机上的鲁滨逊'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro Max全网通5g 12promax 苹果12国行手机', 'view_price': '4300.00', 'nick': '鱼水源企业店'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro 13 promax苹果13手机国行现货同城闪送', 'view_price': '6550.00', 'nick': 'yanyanmei87'}
+{'raw_title': '分期免息Apple/苹果 iPhone 8 Plus全新国行正品8代三网通手机4G', 'view_price': '1299.00', 'nick': '深港澳数码科技'}
+{'raw_title': '【 送5件好礼 中国移动官旗】苹果13手机iPhone13苹果手机官方旗舰店苹果5G新品手机苹果13ProMax国行正品', 'view_price': '5999.00', 'nick': '中国移动官方旗舰店'}
+{'raw_title': '2021新款Apple/苹果 iPhone 13 / 13 mini A15 正品苹果手机国行', 'view_price': '5088.00', 'nick': 'mrmaccn'}
+{'raw_title': '苹果12Apple/ 苹果iPhone 12国行手机5G全新12 mini官网成都闪送', 'view_price': '3179.00', 'nick': 't_1482759907529_0526'}
+{'raw_title': '13promax512G内存学生价游戏电竞智能手机一亿像素官方全网通5G旗舰适用于小米荣耀华为苹果12iphone11耳机店', 'view_price': '699.00', 'nick': '浩瑜数码专营店'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro Max原装正品5G全网通手机苹果12promax', 'view_price': '4180.00', 'nick': 'tb5807482'}
+{'raw_title': '【直营国行】Apple/苹果 iPhone13 mini 5G 移动联通电信全网通5G新品智能拍照手机官方旗舰正品国行非合约机', 'view_price': '5149.00', 'nick': '天猫国际进口超市'}
+{'raw_title': '现货Apple/苹果 iPhone 13 Pro Max手机5G官网旗舰国行苹果13Pro', 'view_price': '7710.00', 'nick': '炫和科技'}
+{'raw_title': '24期免息送豪礼当天发货Apple苹果iPhone 13苹果13手机5G版苹果官方旗舰店正品iPhone12官网13promax新款', 'view_price': '6258.00', 'nick': '久汇数码专营店'}
+{'raw_title': '新款Apple/苹果 iPhone 13 Pro Max国行正品官方5G手机旗舰机免息', 'view_price': '7848.00', 'nick': 'ruibiao13149'}
+{'raw_title': '【顺丰包邮发货+移动用户专享优惠】Apple/苹果 iPhone 12 5G全网通官网旗舰iphone12苹果12正品iphone12', 'view_price': '6299.00', 'nick': '中国移动手机官方旗舰店'}
+{'raw_title': '官方正品/送无线充 苹果iPhone 12 mini 5G手机国行正品官方天猫旗舰店iPhone12新品苹果12 全网通5g/iPhone', 'view_price': '4698.00', 'nick': '壹品良机旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max 手机官方正品国行原封 苹果13Pro', 'view_price': '7748.00', 'nick': '阿奎通讯行'}
+{'raw_title': '分期免息 Apple/苹果 iPhone XR 苹果国行全新正品Xs Max双卡手机', 'view_price': '1998.00', 'nick': '小耐888'}
+{'raw_title': '顺丰发货【24期分期】苹果13手机iPhone13手机旗舰店苹果5G新品手机苹果13ProMax国行正品官方全网通', 'view_price': '5798.00', 'nick': '机御旗舰店'}
+{'raw_title': '24期花呗免息付款0首付 苹果13mini手机旗舰店iPhone 13mini苹果手机5G新品官方正品', 'view_price': '5418.00', 'nick': '机御旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 11全新正品国行手机全网通分期免息13pro max', 'view_price': '3349.00', 'nick': 'zhuxiaoming1113'}
+{'raw_title': '24期分期送豪礼当天发货Apple/苹果 iPhone 11全网通4g手机官方旗舰店国行正品苹果13promax/11pro新款', 'view_price': '4199.00', 'nick': '久汇数码专营店'}
+{'raw_title': '兰州实体Apple/苹果 iPhone 13 Pro Max Promax 国行手机送快充头', 'view_price': '7810.00', 'nick': '言必行行必果22'}
+{'raw_title': 'Apple/苹果 iPhone 8 Plus 全新正品苹果8P 4G三网通手机iphone8', 'view_price': '1200.00', 'nick': '恒展网信'}
+{'raw_title': '[12期免息分期] Apple/苹果 iPhone 13', 'view_price': '5999.00', 'nick': 'applestore官方旗舰店'}
+{'raw_title': '花呗分期Apple/苹.果6s plus', 'view_price': '369.00', 'nick': '奥丽威尔一店'}
+{'raw_title': '24期免息/当天发货Apple/苹果 iPhone 13 Pro Max 5G手机国行', 'view_price': '8488.00', 'nick': '佰分购旗舰店'}
+{'raw_title': 'Apple/苹果iPhone 6s手机Plus正品备用指纹低价原装6sp全网通手机', 'view_price': '419.00', 'nick': '时尚数码连锁店01'}
+{'raw_title': '顺丰发货+送碎屏宝】Apple/苹果 iPhone 12苹果12手机正品官方旗舰店5G版iPhone12现货11ProMax官网直降5g', 'view_price': '4428.00', 'nick': '机御旗舰店'}
+{'raw_title': '2020新品Apple/苹果 iPhone 12 Pro Max苹果12Pro Max手机6.7英寸', 'view_price': '5568.00', 'nick': '领域数码通讯'}
+{'raw_title': 'Apple/苹果iPhone 11简配版#移动联通电信全网通4G智能手机中国电信官方旗舰店 国行原装正品', 'view_price': '4199.00', 'nick': '中国电信官方旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 7国行正品7Plus全网通4G手机全新7代分期免息', 'view_price': '849.00', 'nick': 'a小勇通讯'}
+{'raw_title': '当天发货【满减100元】Apple/苹果 iPhone 13  5G手机国行正品官方旗舰店mini直降十二新款12Pro Max官网', 'view_price': '5088.00', 'nick': '深蓝港数码旗舰店'}
+{'raw_title': '分期免息Apple/苹果 全新iPhone Xs max国行手机苹果xs max未激活', 'view_price': '2350.00', 'nick': 'tb851547707'}
+{'raw_title': 'Apple/苹果 iPhone SE 国行正品全新4G手机5s三网通se一代学生机', 'view_price': '549.00', 'nick': 'xwzz1993'}
+{'raw_title': '分期免息苹果xs max国行原装全新正品iPhoneXS Max全网通双卡手机', 'view_price': '2444.00', 'nick': '正科电商'}
+{'raw_title': 'Apple/苹果 iPhone XS Max 全新国行XR双卡原装xsmax正品XS手机', 'view_price': '2298.00', 'nick': '启泰数码'}
+{'raw_title': 'Apple/苹果 iPhone 11 Pro Max国行4G双卡双待苹果11全网通手机', 'view_price': '2780.00', 'nick': '永潮数码城'}
+{'raw_title': '同城闪送现货Apple/苹果iPhone13 Pro max国行官方原装5G手机mini', 'view_price': '4799.00', 'nick': 'tb18742644'}
+{'raw_title': '顺丰发货+24期分期】Apple/苹果iPhone 13 Pro MAX全网通5G手机 原装官方国行苹果13promax手机旗舰店正品', 'view_price': '8998.00', 'nick': '机御旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 12 5G手机 苹果12Pro Max国行双卡 苹果12mini', 'view_price': '3390.00', 'nick': '妮妮小55'}
+{'raw_title': 'Apple/苹果 iPhone 12 mini 国行官网正品12 pro pm 三网5G手机', 'view_price': '3020.00', 'nick': 'm007e'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max全新5G手机百亿补贴官方港美黑解版', 'view_price': '5768.00', 'nick': '金凤祥数码'}
+{'raw_title': 'Apple/苹果 iPhone XS Max 苹果XR 全新XS国行x全网通4g手机分期', 'view_price': '1820.00', 'nick': '好宝贝4091'}
+{'raw_title': 'Apple/苹果 iPhone 8 全新正品苹果8P 国行全网通4G手机苹果8plus', 'view_price': '1175.00', 'nick': '鸿兴购物网'}
+{'raw_title': '【新品上市】苹果 iPhone 13 pro max2021新品#5G全网通手机中国电信移动联通官方旗舰', 'view_price': '8999.00', 'nick': '中国电信官方旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 13国行iPhone 13mini 官网旗舰苹果13手机新款', 'view_price': '4860.00', 'nick': '炫机汇数码店'}
+{'raw_title': '直降Apple/苹果 iPhone 11 Pro Max国行原封11por官网全网4G手机', 'view_price': '3146.00', 'nick': '颖宝宝666888'}
+{'raw_title': '新品Apple/苹果 iPhone 12紫色苹果12Pro官网国行12mini5G手机', 'view_price': '3328.00', 'nick': '森良数码'}
+{'raw_title': '【直营】Apple/苹果 iPhone 12 mini 国行联保  电信全网通5G新品智能手机', 'view_price': '5498.00', 'nick': '天猫国际进口超市国内现货'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max国行港美5G全新手机双卡远峰蓝', 'view_price': '6620.00', 'nick': 'ublog'}
+{'raw_title': 'Apple/苹果 iPhone 11 Pro Max国行双卡全网通4G手机正品分期免息', 'view_price': '4300.00', 'nick': '兜兜麦包互联'}
+{'raw_title': 'Apple/苹果 iPhone 12 mini国行苹果12pro max全新5G手机12promax', 'view_price': '3378.00', 'nick': '诚信世界裤都'}
+{'raw_title': '【24期免息/送快充头】苹果12PRO Apple/苹果iPhone12Pro5G手机官方正品旗舰店国行苹果12全新原封iPhone12', 'view_price': '8158.00', 'nick': '壹品良机旗舰店'}
+{'raw_title': '【12期免息/现货速发】Apple/苹果 iPhone 13苹果13手机5G版苹果官方旗舰店正品iPhone12官网13promax5g新', 'view_price': '6338.00', 'nick': '能良数码官方旗舰店'}
+{'raw_title': '12+512G内存5G新款13proMAX官方旗舰正品大屏游戏智能手机学生价全网通便宜千元老年人备用机送苹果华为4G线', 'view_price': '788.00', 'nick': '硕王捷信时代专卖店'}
+{'raw_title': '新品上市13promax大内存512G一亿像素电竞游戏5G全网通智能手机排行榜官方旗舰适用于小米OPPO荣耀华为苹果线', 'view_price': '899.00', 'nick': '佳佳购数码专营店'}
+{'raw_title': 'Apple/苹果 iPhone 11 Pro Max 国行 Xs Max 双卡XR全网通4G手机X', 'view_price': '1870.00', 'nick': '坐在飞机上的鲁滨逊'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro Max全网通5g 12promax 苹果12国行手机', 'view_price': '4300.00', 'nick': '鱼水源企业店'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro 13 promax苹果13手机国行现货同城闪送', 'view_price': '6550.00', 'nick': 'yanyanmei87'}
+{'raw_title': '分期免息Apple/苹果 iPhone 8 Plus全新国行正品8代三网通手机4G', 'view_price': '1299.00', 'nick': '深港澳数码科技'}
+{'raw_title': '【 送5件好礼 中国移动官旗】苹果13手机iPhone13苹果手机官方旗舰店苹果5G新品手机苹果13ProMax国行正品', 'view_price': '5999.00', 'nick': '中国移动官方旗舰店'}
+{'raw_title': '2021新款Apple/苹果 iPhone 13 / 13 mini A15 正品苹果手机国行', 'view_price': '5088.00', 'nick': 'mrmaccn'}
+{'raw_title': '苹果12Apple/ 苹果iPhone 12国行手机5G全新12 mini官网成都闪送', 'view_price': '3179.00', 'nick': 't_1482759907529_0526'}
+{'raw_title': 'Apple/苹果 iPhone 8 Plus原装正品全网通4G苹果8代 iPhone8p手机', 'view_price': '900.00', 'nick': 'cgc422'}
+{'raw_title': '13promax512G内存学生价游戏电竞智能手机一亿像素官方全网通5G旗舰适用于小米荣耀华为苹果12iphone11耳机店', 'view_price': '699.00', 'nick': '浩瑜数码专营店'}
+{'raw_title': '【直营】Apple/苹果 iPhone 13 5G手机国行正品5G 双卡双待电信联通移动全网通全国联保官方非合约机', 'view_price': '5959.00', 'nick': '天猫国际进口超市'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max 原封 带票 13 Pro 港行 手机 国行', 'view_price': '7120.00', 'nick': 'angel111999'}
+{'raw_title': '[12期免息分期] Apple/苹果 iPhone 13', 'view_price': '5999.00', 'nick': 'applestore官方旗舰店'}
+{'raw_title': '花呗分期Apple/苹.果6s plus', 'view_price': '369.00', 'nick': '奥丽威尔一店'}
+{'raw_title': '24期免息/当天发货Apple/苹果 iPhone 13 Pro Max 5G手机国行', 'view_price': '8488.00', 'nick': '佰分购旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max 无锁 黑解美5G全网版手机13promax', 'view_price': '6398.00', 'nick': 'lbdzxx'}
+{'raw_title': 'Apple/苹果 iPhone 13 新款5G手机国行12分期13promax', 'view_price': '4160.00', 'nick': 'wh80008'}
+{'raw_title': '24期免息当天发送碎屏险Apple/苹果iPhone13 ProMax 5G手机新款官方旗舰店官网国行正品苹果13直降12promax', 'view_price': '6199.00', 'nick': 'oksj数码旗舰店'}
+{'raw_title': '【下单立减1600元 移动用户专享 中国移动官旗】苹果 12mini手机iPhone12mini手机中国移动官方旗舰店苹果', 'view_price': '5999.00', 'nick': '中国移动官方旗舰店'}
+{'raw_title': '官方正品/送无线充 苹果iPhone 12 mini 5G手机国行正品官方天猫旗舰店iPhone12新品苹果12 全网通5g/iPhone', 'view_price': '4698.00', 'nick': '壹品良机旗舰店'}
+{'raw_title': '【直营】Apple/苹果iPhone 11全网通4G手机 原装国行正品苹果11手机128G/64G', 'view_price': '4359.00', 'nick': '天猫国际进口超市'}
+{'raw_title': '分期免息 Apple/苹果 iPhone XR 苹果国行全新正品Xs Max双卡手机', 'view_price': '1998.00', 'nick': '小耐888'}
+{'raw_title': '新款Apple/苹果 iPhone 13苹果13手机5G国行全新正品iphone13mini', 'view_price': '4850.00', 'nick': '朗朗电玩'}
+{'raw_title': '顺丰发货【24期分期】苹果13手机iPhone13手机旗舰店苹果5G新品手机苹果13ProMax国行正品官方全网通', 'view_price': '5798.00', 'nick': '机御旗舰店'}
+{'raw_title': '24期花呗免息付款0首付 苹果13mini手机旗舰店iPhone 13mini苹果手机5G新品官方正品', 'view_price': '5418.00', 'nick': '机御旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro Max原装正品5G全网通手机苹果12promax', 'view_price': '4180.00', 'nick': 'tb5807482'}
+{'raw_title': 'Apple/苹果 iPhone 11全新正品国行手机全网通分期免息13pro max', 'view_price': '3349.00', 'nick': 'zhuxiaoming1113'}
+{'raw_title': '上海闪送Apple/苹果 iPhone 13 Pro Max国行5G手机13Pro双卡分期', 'view_price': '6348.00', 'nick': 'kobe_wwh'}
+{'raw_title': '24期分期送豪礼当天发货Apple/苹果 iPhone 11全网通4g手机官方旗舰店国行正品苹果13promax/11pro新款', 'view_price': '4199.00', 'nick': '久汇数码专营店'}
+{'raw_title': '兰州实体Apple/苹果 iPhone 13 Pro Max Promax 国行手机送快充头', 'view_price': '7810.00', 'nick': '言必行行必果22'}
+{'raw_title': 'Apple/苹果 iPhone 8 Plus 全新正品苹果8P 4G三网通手机iphone8', 'view_price': '1200.00', 'nick': '恒展网信'}
+{'raw_title': 'Apple/苹果 iPhone XS Max 国行正品联保苹果xsmax手机xr现货速发', 'view_price': '2338.00', 'nick': '热爱时尚潮流'}
+{'raw_title': '当天发货24期免息送豪礼Apple苹果iPhone12Pro 5G手机官方旗舰店国行正品苹果iphone13promax/xsmax/11promax', 'view_price': '8299.00', 'nick': '久汇数码专营店'}
+{'raw_title': 'Apple/苹果 iPhone 13 6.1寸双卡5G手机 iPhone13 mini国行原封', 'view_price': '4798.00', 'nick': '格格乌托邦'}
+{'raw_title': '分期免息 Apple/苹果 iPhone11苹果国行全新正品11promax双卡手机', 'view_price': '2828.00', 'nick': '小耐888'}
+{'raw_title': '【当天发/24期分期】Apple/苹果 iPhone 13苹果13手机5G版苹果官方旗舰店正品iPhone12官网13promax5g新', 'view_price': '5088.00', 'nick': '佰分购旗舰店'}
+{'raw_title': 'Apple/苹果手机iPhone 12 Pro Max 手机 国行全国联保', 'view_price': '10099.00', 'nick': '天猫超市'}
+{'raw_title': 'Apple/苹果 iPhone XS Max苹果x xr xs max手机 iphonexsmax全新', 'view_price': '1800.00', 'nick': 'jwee'}
+{'raw_title': '[活动专享]Apple/苹果 iPhone 13 Pro全网通5G手机 原装国行正品', 'view_price': '8199.00', 'nick': 'tb806259055'}
+{'raw_title': '【国行正品】Apple/苹果iPhone 13 Pro Max 2021新款苹果13 iPhone 13 Pro Max手机非合约机官网旗舰店全新5G', 'view_price': '8999.00', 'nick': '易机数码旗舰店'}
+{'raw_title': '长沙闪送Apple/苹果 iPhone 13 Pro Max苹果13ProMax正品国行手机', 'view_price': '7450.00', 'nick': 'bc1682013'}
+{'raw_title': '21新Apple/苹果 iPhone 13 Pro Max全新国行13Pro手机苹果13现货', 'view_price': '7700.00', 'nick': '860803华晶'}
+{'raw_title': 'Apple/苹果iPhone 6代移动联通电信4G全网通学生游戏6S老人备用机', 'view_price': '380.00', 'nick': '下一秒汤晓绵女神永不发飙'}
+{'raw_title': 'Apple/苹果 iPhone 12 mini  5.4 寸/苹果12 6.1寸全新手机三网5G', 'view_price': '2849.00', 'nick': '京基数码行'}
+{'raw_title': '赠散热背夹+当天发】黑鲨4游戏手机 官方旗舰5G电竞智能骁龙888手机正品原装腾讯黑鲨4pro全新红魔6s 黑鲨4S', 'view_price': '2768.00', 'nick': '热图数码专营店'}
+{'raw_title': '全新 Apple/苹果 iPhone 7 Plus国行正品苹果7代7P全网通4G手机', 'view_price': '750.00', 'nick': '新园通讯数码'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro原装正品5G新款手机苹果12promax现货', 'view_price': '6049.00', 'nick': '245874380_86'}
+{'raw_title': '送充电头/现货发/24期免息】iPhone 13 Pro Max 苹果13promax5G手机官方旗舰 国行网正品苹果12pro双卡双待', 'view_price': '8658.00', 'nick': '热图数码专营店'}
+{'raw_title': '【全球购】Apple/苹果 iPhone 12全网通5G手机12mini国行BS资源机', 'view_price': '3518.00', 'nick': 'tangchaoshan1006'}
+{'raw_title': '分期免息Apple/苹果 iPhoneXR 国行4G双卡苹果11ProMax全网通手机', 'view_price': '2790.00', 'nick': 'jiang_晓_dong'}
+{'raw_title': 'Apple/苹果 iPhone 11  6.1寸原装全新手机未激活 全网通国行双卡', 'view_price': '2600.00', 'nick': '钓鱼岛就是中国领土'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max国行全新苹果13Promax手机6.7寸屏', 'view_price': '8649.00', 'nick': '济南精诚数码'}
+{'raw_title': 'Apple/苹果 iPhone 11 Pro Max 国行Xs Max 全网通XR 双卡4G手机X', 'view_price': '1870.00', 'nick': '杨佳生yjs'}
+{'raw_title': 'Apple/苹果 iPhone 12 mini全球代购12ProMax国行现货手机蘑菇酱', 'view_price': '2910.00', 'nick': '蘑菇家的木耳'}
+{'raw_title': '【24期免息】现货速发/Apple/苹果 iPhone13 Pro Max 新款5G手机授权旗舰店正品苹果12promax直降iPhone正品', 'view_price': '6238.00', 'nick': '京联通达数码旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max苹果13手机5G国行原封苏州现货', 'view_price': '4600.00', 'nick': 'ft67s'}
+{'raw_title': '[12期免息分期] Apple/苹果 iPhone 13', 'view_price': '5999.00', 'nick': 'applestore官方旗舰店'}
+{'raw_title': '花呗分期Apple/苹.果6s plus', 'view_price': '369.00', 'nick': '奥丽威尔一店'}
+{'raw_title': '24期免息/当天发货Apple/苹果 iPhone 13 Pro Max 5G手机国行', 'view_price': '8488.00', 'nick': '佰分购旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 11 Pro Max 国行双卡全网通 苹果iPhone11手机', 'view_price': '2750.00', 'nick': '落英如霞'}
+{'raw_title': '分期花呗Apple/lPhone 6splus 苹.果6sp 苹.果6s手机全网通正品4G', 'view_price': '558.00', 'nick': 'zhanghaiyong868'}
+{'raw_title': 'Apple/苹果 iPhone XS Max改12 13Pro Max国行双卡双待手机xr改13', 'view_price': '1990.00', 'nick': 'ylk通讯'}
+{'raw_title': 'Apple/苹果 iPhone 12国行全新5G官网苹果12原封iphone12mini手机', 'view_price': '4288.00', 'nick': '炫和科技'}
+{'raw_title': '【原装国行  赠碎屏险】Apple/苹果iPhone 13 全网通5G手机 原装国行苹果13手机中国电信官方旗舰店', 'view_price': '5999.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max国行原封5G手机全新13promax未激活', 'view_price': '8680.00', 'nick': 'zxsgtc'}
+{'raw_title': '【国行正品】Apple/苹果 iPhone 12 苹果12pro max新款苹果5G手机', 'view_price': '3450.00', 'nick': 'muyudemen'}
+{'raw_title': 'Apple/苹果 iPhone 12 mini苹果12 新款5G手机12Promax国行现货', 'view_price': '2980.00', 'nick': '小朵数码店'}
+{'raw_title': 'Apple/苹果 iPhone XS 国行 iphonexs xsmax 苹果xr苹果xsmax手机', 'view_price': '2050.00', 'nick': '西溪漫步商贸'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro Max 苹果12 Pro Max国行双卡手机6.7寸', 'view_price': '4098.00', 'nick': '鱼得水_168'}
+{'raw_title': '【电信用户专享】苹果 iPhone 13 2021新品#5G全网通手机中国电信官方旗舰官网正品手机补贴', 'view_price': '5799.00', 'nick': '中国电信官方旗舰店'}
+{'raw_title': '2021新款Apple/苹果 iPhone 13 苹果iphone13手机苹果13 mini手机', 'view_price': '4998.00', 'nick': '领域数码通讯'}
+{'raw_title': '新款Apple/苹果 iPhone 13 Pro Max国行正品官方5G手机旗舰机免息', 'view_price': '7848.00', 'nick': 'ruibiao13149'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro 原封 港行 带票 13 Pro max 手机 国行', 'view_price': '7120.00', 'nick': 'pcfancy'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max 手机官方正品国行原封 苹果13Pro', 'view_price': '7748.00', 'nick': '阿奎通讯行'}
+{'raw_title': '分期免息Apple/苹果 iPhone XS Max国行苹果xs正品8X全网通xr手机', 'view_price': '1280.00', 'nick': 'gg小杜'}
+{'raw_title': '24期分期送无线充当天发货Apple苹果iPhone12 5g手机官方旗舰店国行官网正品直降苹果13 iphone13 promax', 'view_price': '4399.00', 'nick': '久汇数码专营店'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro Max 6.7英寸双卡双待5G全网通正品手机', 'view_price': '7599.00', 'nick': '意豪数码1'}
+{'raw_title': '现货 Apple/苹果 iPhone 12 5G全面屏12手机国行全新正品iphone12', 'view_price': '4320.00', 'nick': '860803华晶'}
+{'raw_title': 'Apple/苹果 Apple/苹果 iPhone SE (第二代)原封国行苹果se2手机', 'view_price': '1760.00', 'nick': '秋香姐网店'}
+{'raw_title': '24期免息【送好礼/送碎屏宝】Apple/苹果iPhone 13 5G手机官方旗舰店苹果13手机官网pro11直降5G正品13max5g', 'view_price': '4888.00', 'nick': '臻火数码旗舰店'}
+{'raw_title': '2020新款Apple/苹果 iPhone 12 12mini手机国行5G正品全网通', 'view_price': '4199.00', 'nick': '李小麦的店'}
+{'raw_title': '未激活 Apple/苹果 iPhone 12 ProMax苹果12Pro手机正品 12proMax', 'view_price': '7020.00', 'nick': 'e酷手机网'}
+{'raw_title': 'Apple/苹果 iPhone 13 苹果13国行原封正品13迷你手机Pro Max国行', 'view_price': '4628.00', 'nick': 'stars882'}
+{'raw_title': 'Apple/苹果 Apple/苹果 iPhone SE (第二代)se2全新正品4G手机', 'view_price': '1399.00', 'nick': '乐天易淘'}
+{'raw_title': '24期免息 苹果13promax Apple/苹果iPhone 13 Pro Max 5G手机国行官方旗舰 iphone13promax', 'view_price': '9699.00', 'nick': '搜酷数码专营店'}
+{'raw_title': '分期Apple/lPhone6s plus苹.果6s国行苹.果6s全网通6splus手机6p', 'view_price': '580.00', 'nick': '金龙电信'}
+{'raw_title': 'Apple/苹果 iPhone 11 苹果11promax国行正品全网通双卡手机现货', 'view_price': '2900.00', 'nick': 'bravebuck'}
+{'raw_title': 'Apple/苹果 iPhone 12 国行双卡苹果12Pro Max全网通全新手机5G', 'view_price': '4721.00', 'nick': '胭脂云坊'}
+{'raw_title': '花呗分期Apple/苹.果6s plus正品苹.果6s手机6sp全网通7代7plus7p', 'view_price': '369.00', 'nick': '奥丽威尔一店'}
+{'raw_title': 'Apple/苹果 iPhone X 苹果x 全网通 正品 iphone x 苹果x手机', 'view_price': '1968.00', 'nick': 'tb8724164095'}
+{'raw_title': 'Apple/苹果 iPhone XRiphone官网xr国行原封全新未激活手机分期', 'view_price': '2380.00', 'nick': '颖宝宝666888'}
+{'raw_title': '新款Apple/苹果 iPhone 13 Pro Max5G手机官网旗舰店官方国行mini', 'view_price': '4898.00', 'nick': '鲁信数码科技公司'}
+{'raw_title': 'Apple/苹果 iPhone 11 ProMax苹果11 全网通国行手机X XR分期免息', 'view_price': '4900.00', 'nick': '我是一株小草2016'}
+{'raw_title': 'Apple/苹果 iPhone 11 新款 苹果11 pro max国行手机无锁全新双卡', 'view_price': '2900.00', 'nick': 'qingyungong'}
+{'raw_title': 'Apple/苹果 iPhone 12国行正品十二苹果12promax全网通5g双卡手机', 'view_price': '4598.00', 'nick': 'lf_200505'}
+{'raw_title': 'Apple/苹.果6s plus官方正品6s手机6sp全网通备用6代6plus6P学生', 'view_price': '560.00', 'nick': '腾腾飞电子数码'}
+{'raw_title': '16年金冠店Apple/苹果 iPhone 12 Pro苹果12promax手机直板12mini', 'view_price': '3259.00', 'nick': '非常手机'}
+{'raw_title': '花呗分期可送货自提Apple/苹果 iPhone 13双卡5G手机13promaxmini', 'view_price': '4850.00', 'nick': 'hanxunduke'}
+{'raw_title': '分期免息Apple/苹果 iPhone X 苹果xs xsamx 苹果x iphonex手机', 'view_price': '2250.00', 'nick': 'yangzhixu729'}
+{'raw_title': '【全球购】Apple/苹果 iPhone 11全网通4G苹果11手机国行BS资源机', 'view_price': '2647.00', 'nick': 'tangchaoshan1006'}
+{'raw_title': '[12期免息分期] Apple/苹果 iPhone 13', 'view_price': '5999.00', 'nick': 'applestore官方旗舰店'}
+{'raw_title': '花呗分期Apple/苹.果6s plus', 'view_price': '369.00', 'nick': '奥丽威尔一店'}
+{'raw_title': '24期免息/当天发货Apple/苹果 iPhone 13 Pro Max 5G手机国行', 'view_price': '8488.00', 'nick': '佰分购旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 11 Pro 国行双卡苹果11 Pro Max 全网通4G手机', 'view_price': '2728.00', 'nick': '坐在飞机上的鲁滨逊'}
+{'raw_title': '顺丰速发【送好礼】iPhone/苹果13 Pro 5G手机 苹果官方旗舰店国行正品MINI官网直降max24期分期12pro', 'view_price': '5899.00', 'nick': '深蓝港数码旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 8 Plus全新正品8国行苹果8plus全网官网手机8P', 'view_price': '1550.00', 'nick': '帅帅qq群'}
+{'raw_title': 'Apple/苹果 iPhone 12 5G手机官方旗舰店正品国行13pro苹果13pro新品苹果13ProMax', 'view_price': '4958.00', 'nick': '三际数码官方旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone XS Max正品苹果iphonexr xsmax 苹果xsmax手机', 'view_price': '1870.00', 'nick': '撒旦0天使0'}
+{'raw_title': 'Apple/苹果 iPhone 12 苹果12 iphone12 双卡5G手机国行原封', 'view_price': '4308.00', 'nick': '格格乌托邦'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max苹果13 Pro 国行5G全网通手机新品', 'view_price': '7398.00', 'nick': '冰淇淋_00'}
+{'raw_title': 'Apple/苹果 iPhone 11全网通苹果11国行手机xsmax全新XR三期免息', 'view_price': '2228.00', 'nick': '只爱你的大白'}
+{'raw_title': 'Apple/苹果 iPhone 12 mini原装正品国行苹果12全新未激活5G手机', 'view_price': '3499.00', 'nick': 'jiali通讯'}
+{'raw_title': '【24期分期/当天发】Apple/苹果iPhone13苹果13手机iPhone 13苹果13手机5g正品官方旗舰店官网iPhone13proMax', 'view_price': '5808.00', 'nick': '三际数码官方旗舰店'}
+{'raw_title': '24期免息【现货速发】Apple/苹果 iPhone 13苹果13手机5G官方正品mini旗舰店iphone12官网13promax5g苹果手机', 'view_price': '5528.00', 'nick': '连盛数码专营店'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro Max手机Xr改12国行双卡XR改13手机', 'view_price': '1909.00', 'nick': '湘之数码'}
+{'raw_title': '【下单减100】苹果12迷你Apple/苹果iPhone 12mini 全新原装5G官方正品旗舰店iPhone 12mini苹果12mini手机', 'view_price': '3999.00', 'nick': '香山红蚂蚁旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 13 现货全新国行5G手机 苹果13mini厦门现货', 'view_price': '4920.00', 'nick': 'tb8821_2013'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max 5G手机官方正品国行原封苹果13pro', 'view_price': '5620.00', 'nick': 'zwyhdz'}
+{'raw_title': 'Apple/苹果 iPhone XR 苹果全新正品全面屏全网通4G智能手机分期', 'view_price': '1590.00', 'nick': '乐天易淘'}
+{'raw_title': '24期免息送碎屏险】Apple/苹果iPhone13 5G手机苹果13手机官方旗舰店原装国行正品iPhone12官网13promax新款', 'view_price': '6199.00', 'nick': 'oksj数码旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone XR xr 6.1寸 原装手机未激活 双卡双待全网通', 'view_price': '1900.00', 'nick': '钓鱼岛就是中国领土'}
+{'raw_title': 'Apple/苹果 iPhone 7 Plus国行正品全新苹果7代7P全网通4G手机', 'view_price': '845.00', 'nick': '麦兜麦本本'}
+{'raw_title': 'Apple/苹果 iPhone 12全新苹果12新款双卡5G手机iphone12国行原封', 'view_price': '4159.00', 'nick': '济南精诚数码'}
+{'raw_title': 'Apple/苹果 iPhone6s全网通4G 原装正品6sPlus工作备用手机学生机', 'view_price': '420.00', 'nick': 'cgc422'}
+{'raw_title': 'Apple/苹果 iPhone 8 Plus全新苹果8国行iPhone8手机苹果8p全网通', 'view_price': '1350.00', 'nick': '恒信数码1688'}
+{'raw_title': '【顺丰速发 赠壳膜套装+碎屏险】Apple/苹果iPhone 13 mini全网通5G手机原装国行苹果13mini手机官方旗舰店', 'view_price': '5169.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': '24期免息送豪礼当天发货Apple苹果iPhone 13 mini手机5G国行正品旗舰iPhone13mini官网新品5g迷你苹果12', 'view_price': '5449.00', 'nick': '久汇数码专营店'}
+{'raw_title': '国行原封现货 Apple/苹果 iPhone 13 Pro Max苹果13全网通5G手机', 'view_price': '7758.00', 'nick': '手机_小秘'}
+{'raw_title': '现货闪送 Apple/苹果 iPhone 13 Pro 5G手机官方国行苹果13promax', 'view_price': '4868.00', 'nick': 'andy468iy'}
+{'raw_title': '[活动专享]Apple/苹果 iPhone 13 Pro Max全网通5G手机原装国行', 'view_price': '8999.00', 'nick': 'tb806259055'}
+{'raw_title': 'Apple/苹果 iPhone 12国行全新紫色5G官网苹果12原封12mini手机', 'view_price': '3978.00', 'nick': '晓阳通讯'}
+{'raw_title': '分期Apple/苹果 iPhone 13 苹果13原封手机iPhone13Promax正品', 'view_price': '5750.00', 'nick': '启点通讯'}
+{'raw_title': '顺丰速发【送好礼】iPhone/苹果13 Pro Max 5G手机 苹果官方旗舰店国行正品MINI官网直降max24期分期12', 'view_price': '5899.00', 'nick': '深蓝港数码旗舰店'}
+{'raw_title': 'Apple/ 苹果iPhone 12国行手机5G全新12 mini官网成都闪送苹果12', 'view_price': '3599.00', 'nick': 't_1482759907529_0526'}
+{'raw_title': '顺丰现货当天发/24期免息】苹果13全网通5G苹果官网iphone13官方旗舰 苹果5G新品手机苹果13Pro国行正品Max', 'view_price': '6298.00', 'nick': '热图数码专营店'}
+{'raw_title': '【24期免期/送碎屏险】Apple/苹果iPhone13苹果13手机iPhone 13苹果13手机正品官方旗舰店官网iPhone13RroMax', 'view_price': '6358.00', 'nick': '三际数码官方旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone XR 苹果8p全新x xr xs max 国行 全网通手机8X', 'view_price': '1280.00', 'nick': 'gg小杜'}
+{'raw_title': 'Apple/苹果 iPhone 12 苹果12mini 5G手机国行分期苹果12 pro max', 'view_price': '4898.00', 'nick': 'tb5917788197'}
+{'raw_title': 'Apple/苹果 iPhone 11苹果11手机iPhone11 6.1寸手机国行正品未激', 'view_price': '3199.00', 'nick': 'jiali通讯'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro Max苹果12ProMax 苹果iPhone12Pro手机', 'view_price': '5598.00', 'nick': '领域数码通讯'}
+{'raw_title': '【花呗24期免息 4499起】Apple/苹果iPhone 11全网通4G手机原装国行苹果11手机128G/256官方正品正规发票联保', 'view_price': '4799.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': '领券减100元【24期分期送碎屏险】Apple/苹果iPhone 13 Pro MAX 5G手机国行13pro max官方旗舰店新品Promax', 'view_price': '8999.00', 'nick': '才也旗舰店'}
+{'raw_title': '新品现货Apple/苹果 iPhone 12 mini Promax小屏手机5G官方全网通', 'view_price': '2799.00', 'nick': '薪2008'}
+{'raw_title': 'Apple/苹果 iPhone XR全新iphonexr国行苹果xr手机iphone xr手机', 'view_price': '1998.00', 'nick': 'bailaoquan123'}
+{'raw_title': '[12期免息分期] Apple/苹果 iPhone 13', 'view_price': '5999.00', 'nick': 'applestore官方旗舰店'}
+{'raw_title': '花呗分期Apple/苹.果6s plus', 'view_price': '369.00', 'nick': '奥丽威尔一店'}
+{'raw_title': '24期免息/当天发货Apple/苹果 iPhone 13苹果13手机5G版', 'view_price': '6128.00', 'nick': '佰分购旗舰店'}
+{'raw_title': '【官方正品】手机稳定器云台自拍杆手持防抖拍摄vlog神器平衡支架直播相机拍照器适用小米华为苹果360度旋转', 'view_price': '109.00', 'nick': '冠格旗舰店'}
+{'raw_title': 'Apple/苹果AirPods 2代无线蓝牙耳机入耳式耳麦iPhone手机1048', 'view_price': '869.00', 'nick': '苏宁易购官方旗舰店'}
+{'raw_title': '苹果7钢化膜iphone8全屏覆盖plus手机SE2全包边8P防窥t新iphonese防窥膜i8护眼i7P抗蓝光ip7八ip9了2020七ghm', 'view_price': '13.80', 'nick': '连环马旗舰店'}
+{'raw_title': '小度主动降噪智能耳机Pro蓝牙真无线苹果华为小米iphone手机通用', 'view_price': '389.00', 'nick': '天猫超市'}
+{'raw_title': '罗马仕iPhone13充电器头pd快充20w快速适用于苹果12pro手机11数据线8plus单头xs闪充xr通用ipad一套装18W插头', 'view_price': '36.00', 'nick': 'romoss旗舰店'}
+{'raw_title': 'Benks苹果13的手机壳透明iPhone12promax磁吸magsafe保护套新款mini超薄迷你全包高级防摔防指纹动画官方男女', 'view_price': '88.00', 'nick': 'benks数码旗舰店'}
+{'raw_title': '图拉斯苹果13镜头膜iPhone13ProMax后摄像头贴Pro保护12手机钢化Max新款全包盖pm相机一体por十三后置mini镜', 'view_price': '38.00', 'nick': '图拉斯旗舰店'}
+{'raw_title': '【iPhone13充电器】30W快充氮化镓PD充电头typec适用苹果13Promax插头20W闪充12手机pro11快速ipad套装', 'view_price': '49.00', 'nick': 'rtako旗舰店'}
+{'raw_title': '1.6米加长自拍杆三脚架户外手机拍照神器一体式苹果华为蓝牙多功能抖音直播支架专用防抖360智能2021新款', 'view_price': '168.00', 'nick': '锐卡旗舰店'}
+{'raw_title': '顺丰苹果13手机壳iPhone13pro新款磨砂13promax手机套ip全包镜头pm男专用超薄防摔软高级感por外保护爆款十三', 'view_price': '68.00', 'nick': '言臣旗舰店'}
+{'raw_title': '百邦iPhoneX/11/12系列换苹果电池原装iPhoneX电池更换手机维修', 'view_price': '519.00', 'nick': '百邦服务旗舰店'}
+{'raw_title': '【咨询优惠 现货速发】Apple/苹果iPhone 13 5G手机官方旗舰店官网新款全网通国行正品直降', 'view_price': '5999.00', 'nick': 'onezero美承数码旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro国行全新正品promax A15旗舰现货5G手机', 'view_price': '5586.00', 'nick': '易购通信'}
+{'raw_title': 'APPLE/苹.果手机i.phone6S正品6三网通4g6SP工作室备用智能手机', 'view_price': '280.00', 'nick': '锦锦林林168'}
+{'raw_title': '倍思苹果13ProMax防窥膜iPhone12Pro防窥钢化膜AR防偷窥屏11适用XR手机X全屏IP气囊por保护Max防尘Pm增透仿窥', 'view_price': '48.00', 'nick': 'baseus倍思旗舰店'}
+{'raw_title': '品胜苹果13三合一数据线适用iPhone6充电线器手机一拖三typec安卓快充6a冲电多功能车载多头二合一多用三头5a', 'view_price': '19.90', 'nick': '品胜数码旗舰店'}
+{'raw_title': '品胜适用苹果13充电器12正品iPhone快充PD20W充电头6s手机8plus通用XS安卓USB一套装7p数据线11快速18W插头xr', 'view_price': '19.90', 'nick': '品胜数码旗舰店'}
+{'raw_title': '倍思苹果数据线iphone充电线13手机11ProMax闪充12冲8plus加长6s冰瓷Pro平板x耐用pd快充线ipad器2米7P适用于', 'view_price': '34.00', 'nick': '倍思正百川专卖店'}
+{'raw_title': '倍思65W氮化镓充电器iPhone13快充GaN充电头3代pro双Typec+USB多口适用于苹果pd笔记本macbook电脑iPad手机', 'view_price': '148.00', 'nick': 'baseus倍思旗舰店'}
+{'raw_title': '绿联有线耳机半入耳式高音质typec接口3.5mm圆孔圆头iphone12适用于oppo苹果13/11X华为ipad小米vivo安卓手机', 'view_price': '39.90', 'nick': '绿联数码旗舰店'}
+{'raw_title': '李佳埼推荐】iPhone13钢化膜苹果11/12proMax手机膜X全屏覆盖XR屏幕XsMax防爆8plus玻璃7p防摔IP保护贴膜Mini', 'view_price': '15.80', 'nick': 'joyroom慕谷专卖店'}
+{'raw_title': '绿联typec拓展坞macbook pro/air转换器雷电配件usb扩展苹果电脑转接头手机Mac笔记本扩展坞双hdmi网线转接口', 'view_price': '89.00', 'nick': '绿联三顺专卖店'}
+{'raw_title': '线上专售 lululemon丨Sleet Street 女士羽绒夹克 LW4BN6S', 'view_price': '1980.00', 'nick': 'lululemon官方旗舰店'}
+{'raw_title': '苹果手机通用华强北S7智能运动手表watch7全面屏1.8寸无线充防水蓝牙智能推送手环男女抖音同款DT100 PRO MAX', 'view_price': '138.80', 'nick': '天天特卖工厂店'}
+{'raw_title': '无线投屏器手机同屏连接电视机家用墙上转换器HDMI投影仪显示4K视频传输高清适用于安卓苹果直播车载5G电脑神', 'view_price': '68.00', 'nick': '倍量深圳专卖店'}
+{'raw_title': '上门维修苹果x屏幕12总成iphone/11pro/xr/xsmax手机换内外屏玻璃', 'view_price': '319.00', 'nick': '品码旗舰店'}
+{'raw_title': '适用苹果6S原装6原厂8代手机6SP屏幕iPhone7P拆机7总成plus内外屏', 'view_price': '110.00', 'nick': 'www2567762'}
+{'raw_title': 'Apple/苹果原装正品耳机iPhone7/8plus/X/11/12/13入耳式XS/MAX/XR手机原厂EarPods有线扁头Lightning耳塞pro', 'view_price': '118.00', 'nick': 'apple苹果鹰歌专卖店'}
+{'raw_title': '汽车双铱金火花塞原厂适配卡罗拉轩逸朗逸福克斯飞度英朗雅阁悦动', 'view_price': '288.00', 'nick': '万孚旗舰店'}
+{'raw_title': '小天手机支架桌面懒人万能通用多功能家用支撑架夹ipad华为平板床头架子2021新款苹果直播专用便携折叠手机架', 'view_price': '28.00', 'nick': '小天数码旗舰店'}
+{'raw_title': '券减10 送硬盘包】东芝移动硬盘1t 新小黑a3兼容苹果mac USB3.0高速1tb超薄手机外置游戏ps4 ps5 非2t 4t硬盘', 'view_price': '309.00', 'nick': '东芝上海专卖店'}
+{'raw_title': '百邦iPhone12/13全系列换屏苹果12屏幕原装13屏幕总成手机维修售', 'view_price': '1345.00', 'nick': '百邦服务旗舰店'}
+{'raw_title': '图拉斯苹果12钢化膜iPhone12ProMax手机12pro贴膜ip全屏por听筒防尘网不沾指纹抗mini高清蓝光新款防摔pm屏保', 'view_price': '38.00', 'nick': '菁创数码专营店'}
+{'raw_title': '原裝正品iPhone13充电器头20W快充PD苹果12数据线11Pro闪充7P套装8plus磁吸Xs/MAX手机iPad快速30插头x平板xr', 'view_price': '28.00', 'nick': '淘万通数码专营店'}
+{'raw_title': 'ROMOSS罗马仕充电宝10000毫安超薄小巧便携罗马 仕旗舰店官方正品适用小米华为苹果手机可爱创意1万移动电源', 'view_price': '54.00', 'nick': 'romoss旗舰店'}
+{'raw_title': '原装正品iPhone7数据线20w苹果12/13Pro快充8/x手机Xs/Max加长ipad闪充8plus充电线器6s套装7p正版2米6通用5s', 'view_price': '12.80', 'nick': '淘万通数码专营店'}
+{'raw_title': '【送包丨急速发货】东芝移动硬盘1t手机移动硬盘1丅高速硬盘苹果电脑1tb专卖店PS4非2t移动固态4T硬盘pmr', 'view_price': '305.00', 'nick': '东芝多喜巴专卖店'}
+{'raw_title': '[360度防窥]图拉斯苹果13Promax钢化膜防窥iPhone13手机防窥膜13pro护眼防偷窥屏抗蓝光防尘ip贴膜pm专用全包', 'view_price': '88.00', 'nick': '菁创数码专营店'}
+{'raw_title': '适用于苹果手机刷机phone6s78XS1213MAX平板ipad5迷你air2pro刷机', 'view_price': '20.00', 'nick': '静利通讯'}
+{'raw_title': '适用于苹果11手机壳液态硅胶2022新款全包iPhone11promax超薄防摔11Pro男高级13Pro女网红12虎年新年x红色xr', 'view_price': '28.00', 'nick': 'addthis旗舰店'}
+{'raw_title': '蓝牙耳机无线适用苹果13promax原装2022年新款iphone12华强北四代xr正品4代xs手机8plus专用11洛达1562a官方p', 'view_price': '158.00', 'nick': '视艺星旗舰店'}
+{'raw_title': '[12期免息分期] Apple/苹果 iPhone 13', 'view_price': '5999.00', 'nick': 'applestore官方旗舰店'}
+{'raw_title': '花呗分期Apple/苹.果6s plus', 'view_price': '369.00', 'nick': '奥丽威尔一店'}
+{'raw_title': 'Apple/苹果 iPhone XR正品8plus x xs max全新11双卡双待苹果手机', 'view_price': '1459.00', 'nick': '小天使母婴生活馆'}
+{'raw_title': '【24期分期/现货速发】Apple/苹果iPhone 13 Pro 5G手机官方旗舰店国行苹果13pro 新品13promax全新正品13Pro', 'view_price': '8088.00', 'nick': '三际数码官方旗舰店'}
+{'raw_title': '当天发【24期免息】Apple/苹果 iPhone 12 5G手机官方旗舰店苹果13promax新款官网11直降国行正品', 'view_price': '5478.00', 'nick': '京合旗舰店'}
+{'raw_title': '【直营】Apple iPhone 13 Pro Max (A2644) 苹果手机 支持移动联通电信5G手机 国行正品 全国联保', 'view_price': '9099.00', 'nick': '天猫国际进口超市国内现货'}
+{'raw_title': '【24期分期/现货发】Apple/苹果 iPhone 12 5G手机官方旗舰店正品国行13pro苹果13pro新品苹果13ProMax 12', 'view_price': '5028.00', 'nick': '三际数码官方旗舰店'}
+{'raw_title': '【至高减2200元+移动用户专享优惠】苹果12 ProMax苹果12ProMax苹果官方旗舰店手机12promax苹果新品', 'view_price': '11899.00', 'nick': '中国移动手机官方旗舰店'}
+{'raw_title': '【下单立减500元+中国移动用户专享优惠】iPhone 13 5G手机苹果13手机官方旗舰店iphone13正品苹果苹果13新', 'view_price': '5999.00', 'nick': '中国移动手机官方旗舰店'}
+{'raw_title': '【到手3899】 苹果11 iphone11 Apple/苹果iPhone 11手机全新正品未激活官方旗舰苹果11手机 iPhone 11', 'view_price': '3899.00', 'nick': '搜酷数码专营店'}
+{'raw_title': '【 至高减1750元 移动用户专享 中国移动官旗】苹果 12手机iPhone 12苹果手机移动官方旗舰店苹果12ProMax', 'view_price': '6299.00', 'nick': '中国移动官方旗舰店'}
+{'raw_title': '【当天发 24期免息】苹果13 iphone13 Apple/苹果 iPhone 13 5G手机官方旗舰正品官网苹果13手机iPhone13手机', 'view_price': '5949.00', 'nick': '搜酷数码专营店'}
+{'raw_title': '【至高减500 现货速发 移动用户专享】苹果 13手机中国移动官旗iPhone 13苹果手机官方旗舰店13ProMax手机', 'view_price': '5999.00', 'nick': '中国移动官方旗舰店'}
+{'raw_title': '【领88券减100元 赠壳膜+碎屏险】Apple/苹果iPhone 13 全网通5G手机 原装国行苹果13手机中国电信官方旗舰店', 'view_price': '5999.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': '【直营国行】Apple/苹果 iPhone 12 5G手机国行正品5G 双卡双待电信联通移动全网通全国联保官方旗舰非合约机', 'view_price': '4599.00', 'nick': '天猫国际进口超市'}
+{'raw_title': '【花呗24分期免息 赠碎屏险】Apple/苹果iPhone 12全网通5G手机 原装国行苹果12手机128G正品256G官网旗舰店', 'view_price': '4889.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': '现货当天发[24期免息/送碎屏保]Apple/苹果iPhone 13 5G手机官方旗舰店苹果13promax新款iPhone12p官网11直降', 'view_price': '5588.00', 'nick': '京合旗舰店'}
+{'raw_title': '【直营】Apple iPhone 13 Pro苹果手机 支持移动联通电信5G 双卡双待手机 国行正品 全国联保', 'view_price': '9099.00', 'nick': '天猫国际进口超市国内现货'}
+{'raw_title': '【联通用户专享】iPhone 13手机Apple 苹果13手机iphone13国行全网通5G苹果官方旗舰店官网iphone13promax', 'view_price': '5999.00', 'nick': '中国联通官方旗舰店'}
+{'raw_title': '当天发【24期免息】Apple/苹果 iPhone 13苹果13手机5G版苹果官方旗舰店正品iPhone12官网13promax5g新', 'view_price': '6128.00', 'nick': '佰分购旗舰店'}
+{'raw_title': '【24期免息/当天发货】Apple/苹果 iPhone 13 Pro Max 5G手机国行iPhone13Pro苹果13promax官方旗舰店网12', 'view_price': '8488.00', 'nick': '佰分购旗舰店'}
+{'raw_title': '【性价比高】Apple/苹果#iPhone XR 全网通4G手机全面屏双卡双待 旗舰官方国行正品原装备用机拍照游戏智能机', 'view_price': '3499.00', 'nick': '中国电信官方旗舰店'}
+{'raw_title': '【128GB到手4999元起】Apple/苹果iPhone 12#移动联通电信5G全网通双卡双待正品原装智能手机新品官方旗舰', 'view_price': '5099.00', 'nick': '中国电信官方旗舰店'}
+{'raw_title': '24期花呗免息付款0首付 Apple/苹果iPhone 13 Pro手机5G苹果13Pro手机旗舰店正品国行官方新款全网通官网苹果', 'view_price': '6198.00', 'nick': '机御旗舰店'}
+{'raw_title': '24期花呗免息付款0首付 Apple/苹果iPhone 13 Pro MAX 5G手机iPhone13Pro苹果13promax手机官方旗舰店正品12', 'view_price': '8628.00', 'nick': '机御旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 12 手机国行正品5G 双卡双待 全国联保', 'view_price': '5299.00', 'nick': '天猫超市'}
+{'raw_title': '支持88vip【直营超市新品】Apple/苹果 iPhone 13 Pro max 5G手机全网通移动电信联通正品国行苹果13Promax', 'view_price': '9189.00', 'nick': '天猫国际进口超市'}
+{'raw_title': '【中国联通直营】Apple 苹果iPhone 13 Pro Max全网通5G苹果官网iphone13promax手机非合约机', 'view_price': '8999.00', 'nick': '中国联通官方旗舰店'}
+{'raw_title': '【现货顺丰速发】Apple/苹果 iPhone 11 手机现货国行 新版', 'view_price': '5198.00', 'nick': '天猫超市'}
+{'raw_title': '【咨询减钱】 苹果11 iphone11 Apple/苹果iPhone 11 全新原装全网通官方正品旗舰店iPhone 11苹果11手机', 'view_price': '3799.00', 'nick': '香山红蚂蚁旗舰店'}
+{'raw_title': '【直降400元】苹果xr手机Apple/苹果 iPhoneXR全网通全新官方正品旗舰店全国联保苹果xr  iphone xr', 'view_price': '2999.00', 'nick': '香山红蚂蚁旗舰店'}
+{'raw_title': '24期免息/选送快充头 Apple/苹果 iPhone 13 5G手机官方正品旗舰店新款苹果13pro全网通 国行13pro max', 'view_price': '6238.00', 'nick': '壹品良机旗舰店'}
+{'raw_title': '【24期免息送快充头】Apple/苹果iPhone12ProMax5G手机国行正品官方天猫旗舰店苹果12pro全新iPhone12Pro手机', 'view_price': '8158.00', 'nick': '壹品良机旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone SE (第二代) 苹果se2 全新国行全网通原装手机', 'view_price': '1820.00', 'nick': 'qw30800'}
+{'raw_title': 'Apple/苹果 iPhone XS Max全新苹果8p xr xs max国行全网通手机8x', 'view_price': '1300.00', 'nick': '惊无命kk'}
+{'raw_title': '当天发货【送好礼】iPhone/苹果13  5G手机 苹果官方旗舰店国行正品MINI官网直降max24期分期12pro', 'view_price': '5899.00', 'nick': '深蓝港数码旗舰店'}
+{'raw_title': '2021新款Apple/苹果 iPhone 13 Pro Max苹果13Pro Max手机6.7英寸', 'view_price': '6998.00', 'nick': '领域数码通讯'}
+{'raw_title': 'Apple/苹果 iPhone XS Max 原装全网通手机双卡双待国行 xs未激活', 'view_price': '1950.00', 'nick': '钓鱼岛就是中国领土'}
+{'raw_title': '2021新款Apple/苹果 iPhone 13 Pro 苹果13 Pro Max手机6.1英寸', 'view_price': '6568.00', 'nick': '领域数码通讯'}
+{'raw_title': 'Apple/苹果 iPhone 13全网通5G手机原装国行正品+手机壳膜套装', 'view_price': '5999.00', 'nick': 'tb806259055'}
+{'raw_title': 'Apple/苹果 iPhone 12全新苹果十二全网通国行正品5G双卡双待手机', 'view_price': '4600.00', 'nick': '迪迪猪啊'}
+{'raw_title': 'Apple/苹果 iPhone 12 国行十二mini全新12ProMax正品5G双卡手机', 'view_price': '3750.00', 'nick': '大轩mi小哆'}
+{'raw_title': '新款Apple/苹果 iPhone 13 Pro Max国行正品苹果13promax手机现货', 'view_price': '7238.00', 'nick': '夏永健xyj'}
+{'raw_title': '新款X13promax电竞游戏智能手机学生价官方老人老年5G旗舰适用于黑鲨oppo小米华为荣耀12苹果11三星耳机店5g', 'view_price': '489.00', 'nick': '广福数码专营店'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro Max苹果12promax全新5G双卡苹果12手机', 'view_price': '4210.00', 'nick': 'tb5807482'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max 5G手机国行港行苹果13Pro Max手机', 'view_price': '7280.00', 'nick': 'hdjkgll'}
+{'raw_title': '2021新品Apple/苹果 iPhone 13 Pro Max苹果13Pro Max手机6.7英寸', 'view_price': '6448.00', 'nick': '达诚数码商城'}
+{'raw_title': '现货苹果13手机Apple/苹果 iPhone 13 mini5G旗舰13Promax原装', 'view_price': '4798.00', 'nick': '达诚数码商城'}
+{'raw_title': '[12期免息分期] Apple/苹果 iPhone 13', 'view_price': '5999.00', 'nick': 'applestore官方旗舰店'}
+{'raw_title': '花呗分期Apple/苹.果6s plus', 'view_price': '369.00', 'nick': '奥丽威尔一店'}
+{'raw_title': 'Apple/苹果 iPhone XR正品8plus x xs max全新11双卡双待苹果手机', 'view_price': '1459.00', 'nick': '小天使母婴生活馆'}
+{'raw_title': 'Apple/苹果 iPhone 12国行全新紫色5G官网苹果12原封12mini手机', 'view_price': '3980.00', 'nick': '颖宝宝666888'}
+{'raw_title': 'Apple/苹果 iPhone 13 mini苹果13迷你全网通512GB红色新款5G手机', 'view_price': '4099.00', 'nick': 'kxy80470799'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro 苹果13promax1TB新款全网通5G手机512G', 'view_price': '6350.00', 'nick': 'kxy80470799'}
+{'raw_title': '【官方旗舰】2022全新512g大内存5G智能手机正品i13Pro全网通学生老人便宜千元送华为荣耀oppo苹果vivo耳线', 'view_price': '688.00', 'nick': '硕王捷信时代专卖店'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro全网通5G手机 原装国行正品全国联保', 'view_price': '9099.00', 'nick': 'tb806259055'}
+{'raw_title': 'Apple/苹果 iPhone 12 国行迷你mini全网通十二pro max全新5g手机', 'view_price': '3438.00', 'nick': '佩儿佳儿店'}
+{'raw_title': 'Apple/苹果 Apple iPhone 11 pro Max 新款苹果11pro国行正品手机', 'view_price': '3580.00', 'nick': '居家邻舍'}
+{'raw_title': '【原装正品国行】Apple/苹果 iPhone 13 Pro Max 5G官方全新手机', 'view_price': '5299.00', 'nick': '蓝牙手表专场'}
+{'raw_title': '【官方直营】Apple iPhone 13苹果手机 支持移动联通电信5G 双卡双待 国行正品 全国联保 现货发售', 'view_price': '6298.00', 'nick': '天猫国际进口超市国内现货'}
+{'raw_title': '【24期免息】苹果13promax Apple/苹果iPhone 13 Pro Max 5G手机国行官方旗舰iphone13promax 苹果13pro max', 'view_price': '9449.00', 'nick': '搜酷数码专营店'}
+{'raw_title': '24期免息/咨询减100元 苹果13pro Apple/苹果 iPhone 13 Pro 5G手机国行官方旗舰 iphone13pro 13pro手机', 'view_price': '8599.00', 'nick': '搜酷数码专营店'}
+{'raw_title': '【中国移动用户享减400元+赠无线充等2重好礼】苹果13 ProMax苹果新品苹果官方旗舰店手机13promax', 'view_price': '8999.00', 'nick': '中国移动手机官方旗舰店'}
+{'raw_title': '【24期免息/现货速发】Apple/苹果 iPhone 12 5G手机官方正品旗舰店新款苹果12mini官网直降12pro 国行13', 'view_price': '4758.00', 'nick': '壹品良机旗舰店'}
+{'raw_title': '【下单立减400元 移动用户专享】苹果13mini手机中国移动官旗iPhone 13mini苹果手机5G新品官方旗舰店', 'view_price': '5199.00', 'nick': '中国移动官方旗舰店'}
+{'raw_title': '【下单立减400元 移动用户专享】苹果iPhone13ProMax手机中国移动官旗iPhone 13ProMax苹果手机官方旗舰店', 'view_price': '8999.00', 'nick': '中国移动官方旗舰店'}
+{'raw_title': '【24期免期/送碎屏险】Apple/苹果iPhone 13 Pro 5G手机官方旗舰店国行苹果13pro xr新品13promax全新13 Pro', 'view_price': '8658.00', 'nick': '三际数码官方旗舰店'}
+{'raw_title': '现货速发【24期免息】Apple/苹果iPhone 13 mini手机5G国行正品苹果官方旗舰店13promax新品5g迷你12送好礼', 'view_price': '5538.00', 'nick': '京合旗舰店'}
+{'raw_title': '【88VIP领券减100 花呗24期免息】Apple/苹果iPhone 13 全网通5G手机 原装国行苹果13手机中国电信官方旗舰店', 'view_price': '6229.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': '当天发货【24期免息】Apple/苹果 iPhone 13 Pro 5G手机国行官方旗舰店iPhone13pro新品12直降5g官网max', 'view_price': '8488.00', 'nick': '佰分购旗舰店'}
+{'raw_title': '现货速发【24期免息赠原厂屏碎屏险】Apple/苹果 iPhone13 Pro 5G手机官方旗舰正品全网通大陆行', 'view_price': '8678.00', 'nick': '京合旗舰店'}
+{'raw_title': '24期花呗免息付款0首付Apple/苹果 iPhone 13苹果13 5G手机官方旗舰店正品12官网直降苹果13手机新款13promax', 'view_price': '6198.00', 'nick': '机御旗舰店'}
+{'raw_title': '【中国联通直营】Apple 苹果iPhone 13 Pro全网通5G苹果官网iphone13pro手机非合约机', 'view_price': '7999.00', 'nick': '中国联通官方旗舰店'}
+{'raw_title': '【联通用户专享】Apple 苹果iPhone 13 Pro Max全网通5G手机苹果官网iphone13promax', 'view_price': '8999.00', 'nick': '中国联通官方旗舰店'}
+{'raw_title': '【24期分期免息 赠壳膜+碎屏险】Apple/苹果iPhone 13 Pro MAX全网通5G手机 原装国行苹果13promax手机旗舰店', 'view_price': '9579.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': '支持88vip【直营超市新品】Apple/苹果 iPhone 13 Pro max 5G手机全网通移动电信联通正品国行苹果13Promax', 'view_price': '9199.00', 'nick': '天猫国际进口超市'}
+{'raw_title': '【直营】Apple/苹果iPhone 13 Promax手机5G苹果手机旗舰店正品国行官方新款全网通官网苹果', 'view_price': '9149.00', 'nick': '天猫国际进口超市'}
+{'raw_title': '【24期分期/送碎屏险】 Apple/苹果iPhone13苹果13手机iPhone13苹果13手机5g正品官方旗舰店官网苹果13RroMax', 'view_price': '5868.00', 'nick': '三际数码官方旗舰店'}
+{'raw_title': '【24期免息/当天发货】Apple/苹果 iPhone 12苹果12手机iPhone 12苹果官方旗舰店5G官网苹果13ProMax', 'view_price': '4738.00', 'nick': '佰分购旗舰店'}
+{'raw_title': '21新款Apple/苹果 iPhone 13手机苹果13mini5G官方旗舰店13Promax', 'view_price': '4298.00', 'nick': '达诚数码商城'}
+{'raw_title': '分期Apple/苹果iPhoneXR 11 全新国行苹果11 双卡全网通正品手机', 'view_price': '2720.00', 'nick': '樊多多万事屋'}
+{'raw_title': '全新苹果7p Apple/苹果 iPhone 7 Plus 正品苹果7plus 苹果7手机', 'view_price': '1030.00', 'nick': '新园通讯数码'}
+{'raw_title': '【现货速发】Apple/苹果 iPhone 12 苹果12pro max新款苹果5G手机', 'view_price': '3300.00', 'nick': '陈志刚19680214'}
+{'raw_title': 'Apple/苹果 iPhone 8 Plus苹果8p全新x xs max国行全网通手机8x', 'view_price': '1178.00', 'nick': 'tb680179597'}
+{'raw_title': '【24期分期免息】现货速发/Apple/苹果13 iPhone 13手机5G版苹果官方旗舰店正品13promax5g新款iPhone12直降', 'view_price': '6238.00', 'nick': '京联通达数码旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro手机iPhone12ProMax苹果12mini国行现货', 'view_price': '6058.00', 'nick': '启泰数码'}
+{'raw_title': '花呗免息全新Apple/苹果 iPhone 7Plus国行正品7代7P全网通4G手机', 'view_price': '898.00', 'nick': 'lynn_yang39'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max苹果13Promax 13pm原装全网通手机', 'view_price': '6330.00', 'nick': 'm007e'}
+{'raw_title': 'Apple/苹果 iPhone 13苹果13 mini原装全网通5G手机13Promax13pm', 'view_price': '4080.00', 'nick': 'm007e'}
+{'raw_title': '全新2021款Apple/苹果 iPhone 13 Pro苹果13pro旗舰手机6.1英寸', 'view_price': '6448.00', 'nick': '达诚数码商城'}
+{'raw_title': '【现货直供】Apple/苹果 iPhone 13 新款5G手机官方旗舰店5G版iPhone13官网直降13pro正品新款苹果手机', 'view_price': '5999.00', 'nick': '今朝奇点旗舰店'}
+{'raw_title': '【24期免息】春节正常发货/Apple/苹果13 Pro 5G手机官网正品新款 官方旗舰店正品max新品苹果12pro降价苹果', 'view_price': '8648.00', 'nick': '京联通达数码旗舰店'}
+{'raw_title': '[12期免息分期] Apple/苹果 iPhone 13', 'view_price': '5999.00', 'nick': 'applestore官方旗舰店'}
+{'raw_title': '花呗分期Apple/苹.果6s plus', 'view_price': '369.00', 'nick': '奥丽威尔一店'}
+{'raw_title': 'Apple/苹果 iPhone XR正品8plus x xs max全新11双卡双待苹果手机', 'view_price': '1459.00', 'nick': '小天使母婴生活馆'}
+{'raw_title': 'Apple/苹果 iPhoneX国行苹果X 全网通苹果xs max手机8X', 'view_price': '1500.00', 'nick': 'kwhn556'}
+{'raw_title': 'Apple/苹果 iPhone SE 1代国行正品全新未激活三网通4G手机5s', 'view_price': '549.00', 'nick': '亚威数码'}
+{'raw_title': 'Apple/苹果 iPhone XR全新苹果xr手机国行iphonexr xsmax全网通4G', 'view_price': '2055.00', 'nick': '猩猩大晒'}
+{'raw_title': 'Apple/苹果 iPhone 11 Pro Max国行双卡双待11promax全网通4G手机', 'view_price': '2728.00', 'nick': '坐在飞机上的鲁滨逊'}
+{'raw_title': 'Apple/苹果 iPhone 11 Pro Max 苹果11 Pro Max手机 苹果iPhone11', 'view_price': '4398.00', 'nick': '领域数码通讯'}
+{'raw_title': '2020新款Apple/苹果 iPhone 12紫色6.1英寸5G手机128G国行12mini', 'view_price': '3599.00', 'nick': '沁穆堂'}
+{'raw_title': '2020新款Apple/苹果 iPhone 12 mini国行max手机Pro全新正品', 'view_price': '3500.00', 'nick': '朗朗电玩'}
+{'raw_title': 'Apple/苹果 iPhone X 苹果XR国行X原装 iPhonexs max全新X sm手机', 'view_price': '2450.00', 'nick': '晟盛通讯'}
+{'raw_title': 'Apple/苹果 iPhone XS Max 全新国行XR双卡iphone xr正品XS手机', 'view_price': '1900.00', 'nick': '懒布衣'}
+{'raw_title': 'Apple/苹果 iPhone 12  mini 国行 5G手机12pro/苹果12promax', 'view_price': '3538.00', 'nick': '我去上学校56'}
+{'raw_title': 'Apple/苹果 iPhone XR改12 PRO MAX手机Xr改13苹果13pro国行双卡', 'view_price': '1989.00', 'nick': '圃谷手机店'}
+{'raw_title': '【神速手机】Apple/苹果 iPhone 12 Pro Max全网通5G手机12promax', 'view_price': '5400.00', 'nick': '神速手机'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max  iPhone 13 Pro 苹果手机13', 'view_price': '5699.00', 'nick': '隐河通讯'}
+{'raw_title': '闪送Apple/苹果 iPhone 13 Pro Max官网旗舰5G手机国行mini13Pro', 'view_price': '7499.00', 'nick': '小希瀚'}
+{'raw_title': '新款朵唯13promax大字大声大屏老人智能手机超长待机老年机备用适用于oppo小米荣耀12苹果13华为黑鲨三星耳机', 'view_price': '589.00', 'nick': '朵唯官方旗舰店'}
+{'raw_title': '【新品上市】nubia/努比亚 红魔6s pro 战地限定套装版限量版氘锋透明165HZ电竞游戏手机', 'view_price': '3999.00', 'nick': '年年盛数码专营店'}
+{'raw_title': '苹果iPhone 7 Plus全网通4G正品6.splus苹果7六七代6ps备用7p手机', 'view_price': '360.00', 'nick': 'penisgg'}
+{'raw_title': 'Apple/苹果iPhone 6s Plus全网通4G工作6s学生SE游戏手机5s备用机', 'view_price': '199.00', 'nick': 'tb468076726'}
+{'raw_title': 'Apple/苹果 iPhone XR 国行双卡改12 13Pro手机4G全网通XsMax', 'view_price': '1850.00', 'nick': '欣欣然科技168'}
+{'raw_title': 'Apple/苹果 iPhone SE1移动5S联通电信正品手机全网通SE2工作室', 'view_price': '150.00', 'nick': '鹿希传媒'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max国行原封现货速发智能5G手机双卡', 'view_price': '8650.00', 'nick': '晓阳通讯'}
+{'raw_title': 'Apple/苹果 iPhone 11新款苹果11promax 国行正品苹果11双卡手机', 'view_price': '2950.00', 'nick': '给力小娘子'}
+{'raw_title': 'Apple/苹果 iPhone 8 Plus 全新正品8x国行 全网通8P未激活4G手机', 'view_price': '1975.00', 'nick': 'hongkong1658'}
+{'raw_title': 'Apple/苹果 iPhone 8手机八p旗舰店plus游戏机8p正品小11官网游戏', 'view_price': '699.00', 'nick': '小鱼儿全球正品'}
+{'raw_title': '花呗分期Apple/苹.果6s plus正品办公备用机手机6代全网通4G指纹', 'view_price': '298.00', 'nick': '渝意数码'}
+{'raw_title': '现货速发/Apple/苹果13 Pro 5G手机官网正品新款 官方旗舰店正品max新品苹果12pro降价苹果13', 'view_price': '5899.00', 'nick': '京联通达数码旗舰店'}
+{'raw_title': 'Apple/苹果iPhone 6s Plus正品苹.果6s手机6sp全网通学生备用机', 'view_price': '599.00', 'nick': '凤凰数码168'}
+{'raw_title': 'Apple/苹果 iPhone XS Max苹果X手机xs11XR  max12无锁11Pro全网+', 'view_price': '1300.00', 'nick': '咚咚e世界'}
+{'raw_title': 'Apple/苹果 iPhone 7全网通4G苹果7P指纹解锁工作低价2手游戏手机', 'view_price': '308.00', 'nick': '西北狂战'}
+{'raw_title': '【24期0息 送PD20W充电头套装版】Apple/苹果 iPhone 13苹果13手机5G版苹果官方旗舰店国行正品i官网新款1048', 'view_price': '6369.00', 'nick': '苏宁易购官方旗舰店'}
+{'raw_title': '当天发【24期免息送碎屏险】Apple/苹果iPhone13 ProMax5G手机苹果13promax官方旗舰店官网国行正品新款12pro', 'view_price': '6198.00', 'nick': 'oksj数码旗舰店'}
+{'raw_title': '【刹那数码】Apple/苹果 iPhone 12 Pro Max全新5G手机苹果13黑解', 'view_price': '5088.00', 'nick': 'librapsp'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro手机5G正品国行13ProMax新品现货', 'view_price': '8858.00', 'nick': 'nicemblem'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro 苹果13ProMax 5G手机国行正品现货免息', 'view_price': '7838.00', 'nick': 'szwsq888'}
+{'raw_title': 'Apple/苹果 iPhone 12 新款苹果12Promax 5G手机国行正品双卡手机', 'view_price': '4200.00', 'nick': 'bravebuck'}
+{'raw_title': 'Apple/苹果 iPhone 12 苹果12Pro Max国行双卡全网通5G全新手机', 'view_price': '3550.00', 'nick': 'yuzhenghao1982'}
+{'raw_title': 'Apple/苹果 iPhone 12 5G手机官方旗舰店正品国行 24期分期苹果12官网直降', 'view_price': '5188.00', 'nick': '能良数码官方旗舰店'}
+{'raw_title': '花呗分期Apple/苹果 iPhone 11 现货全新iphone11国行4G手机', 'view_price': '3450.00', 'nick': '构想与科技同步'}
+{'raw_title': 'Apple/lPhone 6s 苹.果.6学生老人备用工作手机4G苹.果6s王者吃鸡', 'view_price': '267.30', 'nick': '惠东大卖场'}
+{'raw_title': '苹果iPhone 7 Plus全网通4G正品6.splus苹果7六七代6ps备用7p手机', 'view_price': '360.00', 'nick': 'penisgg'}
+{'raw_title': 'SOYES/索野 XS12超迷你学生儿童安卓卡片机智能备用苹果式小手机', 'view_price': '293.00', 'nick': '天祺诚品'}
+{'raw_title': '[12期免息分期] Apple/苹果 iPhone 13', 'view_price': '5999.00', 'nick': 'applestore官方旗舰店'}
+{'raw_title': '花呗分期Apple/苹.果6s plus', 'view_price': '369.00', 'nick': '奥丽威尔一店'}
+{'raw_title': '花呗分期Apple/苹.果6s plus', 'view_price': '369.00', 'nick': '奥丽威尔一店'}
+{'raw_title': '【24期分期/现货速发】Apple/苹果iPhone 13 Pro 5G手机官方旗舰店国行苹果13pro 新品13promax全新正品13Pro', 'view_price': '8088.00', 'nick': '三际数码官方旗舰店'}
+{'raw_title': '当天发【24期免息】Apple/苹果 iPhone 12 5G手机官方旗舰店苹果13promax新款官网11直降国行正品', 'view_price': '5180.00', 'nick': '京合旗舰店'}
+{'raw_title': '【直营】Apple iPhone 13 Pro Max (A2644) 苹果手机 支持移动联通电信5G手机 国行正品 全国联保', 'view_price': '9099.00', 'nick': '天猫国际进口超市国内现货'}
+{'raw_title': '【24期分期/现货发】Apple/苹果 iPhone 12 5G手机官方旗舰店正品国行13pro苹果13pro新品苹果13ProMax 12', 'view_price': '5028.00', 'nick': '三际数码官方旗舰店'}
+{'raw_title': '【至高减2200元+移动用户专享优惠】苹果12 ProMax苹果12ProMax苹果官方旗舰店手机12promax苹果新品', 'view_price': '11899.00', 'nick': '中国移动手机官方旗舰店'}
+{'raw_title': '【下单立减500元+中国移动用户专享优惠】iPhone 13 5G手机苹果13手机官方旗舰店iphone13正品苹果苹果13新', 'view_price': '5999.00', 'nick': '中国移动手机官方旗舰店'}
+{'raw_title': '【到手3899】 苹果11 iphone11 Apple/苹果iPhone 11手机全新正品未激活官方旗舰苹果11手机 iPhone 11', 'view_price': '3899.00', 'nick': '搜酷数码专营店'}
+{'raw_title': '【 至高减1750元 移动用户专享 中国移动官旗】苹果 12手机iPhone 12苹果手机移动官方旗舰店苹果12ProMax', 'view_price': '6299.00', 'nick': '中国移动官方旗舰店'}
+{'raw_title': '【当天发 24期免息】苹果13 iphone13 Apple/苹果 iPhone 13 5G手机官方旗舰正品官网苹果13手机iPhone13手机', 'view_price': '5949.00', 'nick': '搜酷数码专营店'}
+{'raw_title': '【至高减500 现货速发 移动用户专享】苹果 13手机中国移动官旗iPhone 13苹果手机官方旗舰店13ProMax手机', 'view_price': '5999.00', 'nick': '中国移动官方旗舰店'}
+{'raw_title': '【领88券减100元 赠壳膜+碎屏险】Apple/苹果iPhone 13 全网通5G手机 原装国行苹果13手机中国电信官方旗舰店', 'view_price': '5999.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': '【花呗24分期免息 赠碎屏险】Apple/苹果iPhone 12全网通5G手机 原装国行苹果12手机128G正品256G官网旗舰店', 'view_price': '4889.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': '现货当天发[24期免息/送碎屏保]Apple/苹果iPhone 13 5G手机官方旗舰店苹果13promax新款iPhone12p官网11直降', 'view_price': '5588.00', 'nick': '京合旗舰店'}
+{'raw_title': '【直营】Apple iPhone 13 Pro苹果手机 支持移动联通电信5G 双卡双待手机 国行正品 全国联保', 'view_price': '9099.00', 'nick': '天猫国际进口超市国内现货'}
+{'raw_title': '【联通用户专享】iPhone 13手机Apple 苹果13手机iphone13国行全网通5G苹果官方旗舰店官网iphone13promax', 'view_price': '5999.00', 'nick': '中国联通官方旗舰店'}
+{'raw_title': '当天发【24期免息】Apple/苹果 iPhone 13苹果13手机5G版苹果官方旗舰店正品iPhone12官网13promax5g新', 'view_price': '6128.00', 'nick': '佰分购旗舰店'}
+{'raw_title': '【24期免息/当天发货】Apple/苹果 iPhone 13 Pro Max 5G手机国行iPhone13Pro苹果13promax官方旗舰店网12', 'view_price': '8488.00', 'nick': '佰分购旗舰店'}
+{'raw_title': '【性价比高】Apple/苹果#iPhone XR 全网通4G手机全面屏双卡双待 旗舰官方国行正品原装备用机拍照游戏智能机', 'view_price': '3499.00', 'nick': '中国电信官方旗舰店'}
+{'raw_title': '【128GB到手4999元起】Apple/苹果iPhone 12#移动联通电信5G全网通双卡双待正品原装智能手机新品官方旗舰', 'view_price': '5099.00', 'nick': '中国电信官方旗舰店'}
+{'raw_title': '24期花呗免息付款0首付 Apple/苹果iPhone 13 Pro手机5G苹果13Pro手机旗舰店正品国行官方新款全网通官网苹果', 'view_price': '6198.00', 'nick': '机御旗舰店'}
+{'raw_title': '24期花呗免息付款0首付 Apple/苹果iPhone 13 Pro MAX 5G手机iPhone13Pro苹果13promax手机官方旗舰店正品12', 'view_price': '8628.00', 'nick': '机御旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 12 手机国行正品5G 双卡双待 全国联保', 'view_price': '5299.00', 'nick': '天猫超市'}
+{'raw_title': '支持88vip【直营超市新品】Apple/苹果 iPhone 13 Pro max 5G手机全网通移动电信联通正品国行苹果13Promax', 'view_price': '9189.00', 'nick': '天猫国际进口超市'}
+{'raw_title': '【中国联通直营】Apple 苹果iPhone 13 Pro Max全网通5G苹果官网iphone13promax手机非合约机', 'view_price': '11399.00', 'nick': '中国联通官方旗舰店'}
+{'raw_title': '【现货顺丰速发】Apple/苹果 iPhone 11 手机现货国行 新版', 'view_price': '5198.00', 'nick': '天猫超市'}
+{'raw_title': '【咨询减钱】 苹果11 iphone11 Apple/苹果iPhone 11 全新原装全网通官方正品旗舰店iPhone 11苹果11手机', 'view_price': '3799.00', 'nick': '香山红蚂蚁旗舰店'}
+{'raw_title': '支持88vip【直营超市新品】Apple/苹果 iPhone 13 Pro 5G手机移动电信联通全网通正品国行苹果13Pro', 'view_price': '8139.00', 'nick': '天猫国际进口超市'}
+{'raw_title': '【直降400元】苹果xr手机Apple/苹果 iPhoneXR全网通全新官方正品旗舰店全国联保苹果xr  iphone xr', 'view_price': '2999.00', 'nick': '香山红蚂蚁旗舰店'}
+{'raw_title': '24期免息/选送快充头 Apple/苹果 iPhone 13 5G手机官方正品旗舰店新款苹果13pro全网通 国行13pro max', 'view_price': '6238.00', 'nick': '壹品良机旗舰店'}
+{'raw_title': '【24期免息送快充头】Apple/苹果iPhone12ProMax5G手机国行正品官方天猫旗舰店苹果12pro全新iPhone12Pro手机', 'view_price': '8158.00', 'nick': '壹品良机旗舰店'}
+{'raw_title': '当天发货【送好礼】iPhone/苹果13  5G手机 苹果官方旗舰店国行正品MINI官网直降max24期分期12pro', 'view_price': '5899.00', 'nick': '深蓝港数码旗舰店'}
+{'raw_title': '2021新款Apple/苹果 iPhone 13 Pro Max苹果13Pro Max手机6.7英寸', 'view_price': '6998.00', 'nick': '领域数码通讯'}
+{'raw_title': 'Apple/苹果 iPhone XS Max 原装全网通手机双卡双待国行 xs未激活', 'view_price': '1950.00', 'nick': '钓鱼岛就是中国领土'}
+{'raw_title': '2021新款Apple/苹果 iPhone 13 Pro 苹果13 Pro Max手机6.1英寸', 'view_price': '6568.00', 'nick': '领域数码通讯'}
+{'raw_title': 'Apple/苹果 iPhone 13全网通5G手机原装国行正品+手机壳膜套装', 'view_price': '5999.00', 'nick': 'tb806259055'}
+{'raw_title': 'Apple/苹果 iPhone 12全新苹果十二全网通国行正品5G双卡双待手机', 'view_price': '4600.00', 'nick': '迪迪猪啊'}
+{'raw_title': 'Apple/苹果 iPhone 12 国行十二mini全新12ProMax正品5G双卡手机', 'view_price': '3750.00', 'nick': '大轩mi小哆'}
+{'raw_title': '新款Apple/苹果 iPhone 13 Pro Max国行正品苹果13promax手机现货', 'view_price': '7238.00', 'nick': '夏永健xyj'}
+{'raw_title': '新款X13promax电竞游戏智能手机学生价官方老人老年5G旗舰适用于黑鲨oppo小米华为荣耀12苹果11三星耳机店5g', 'view_price': '489.00', 'nick': '广福数码专营店'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro Max苹果12promax全新5G双卡苹果12手机', 'view_price': '4210.00', 'nick': 'tb5807482'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max 5G手机国行港行苹果13Pro Max手机', 'view_price': '7280.00', 'nick': 'hdjkgll'}
+{'raw_title': '2021新品Apple/苹果 iPhone 13 Pro Max苹果13Pro Max手机6.7英寸', 'view_price': '6448.00', 'nick': '达诚数码商城'}
+{'raw_title': '现货苹果13手机Apple/苹果 iPhone 13 mini5G旗舰13Promax原装', 'view_price': '4798.00', 'nick': '达诚数码商城'}
+{'raw_title': 'Apple/苹果 iPhone 12国行全新紫色5G官网苹果12原封12mini手机', 'view_price': '3980.00', 'nick': '颖宝宝666888'}
+{'raw_title': 'Apple/苹果 iPhone 13 mini苹果13迷你全网通512GB红色新款5G手机', 'view_price': '4099.00', 'nick': 'kxy80470799'}
+{'raw_title': '[12期免息分期] Apple/苹果 iPhone 13', 'view_price': '5999.00', 'nick': 'applestore官方旗舰店'}
+{'raw_title': '花呗分期Apple/苹.果6s plus', 'view_price': '369.00', 'nick': '奥丽威尔一店'}
+{'raw_title': '花呗分期Apple/苹.果6s plus', 'view_price': '369.00', 'nick': '奥丽威尔一店'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro 苹果13promax1TB新款全网通5G手机512G', 'view_price': '6350.00', 'nick': 'kxy80470799'}
+{'raw_title': '【官方旗舰】2022全新512g大内存5G智能手机正品i13Pro全网通学生老人便宜千元送华为荣耀oppo苹果vivo耳线', 'view_price': '688.00', 'nick': '硕王捷信时代专卖店'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro全网通5G手机 原装国行正品全国联保', 'view_price': '9099.00', 'nick': 'tb806259055'}
+{'raw_title': 'Apple/苹果 iPhone 12 国行迷你mini全网通十二pro max全新5g手机', 'view_price': '3438.00', 'nick': '佩儿佳儿店'}
+{'raw_title': 'Apple/苹果 Apple iPhone 11 pro Max 新款苹果11pro国行正品手机', 'view_price': '3580.00', 'nick': '居家邻舍'}
+{'raw_title': '【原装正品国行】Apple/苹果 iPhone 13 Pro Max 5G官方全新手机', 'view_price': '5299.00', 'nick': '蓝牙手表专场'}
+{'raw_title': '全新苹果7p Apple/苹果 iPhone 7 Plus 正品苹果7plus 苹果7手机', 'view_price': '1030.00', 'nick': '新园通讯数码'}
+{'raw_title': '【现货速发】Apple/苹果 iPhone 12 苹果12pro max新款苹果5G手机', 'view_price': '3300.00', 'nick': '陈志刚19680214'}
+{'raw_title': '【官方直营】Apple iPhone 13苹果手机 支持移动联通电信5G 双卡双待 国行正品 全国联保 现货发售', 'view_price': '6298.00', 'nick': '天猫国际进口超市国内现货'}
+{'raw_title': '【24期免息】苹果13promax Apple/苹果iPhone 13 Pro Max 5G手机国行官方旗舰iphone13promax 苹果13pro max', 'view_price': '9449.00', 'nick': '搜酷数码专营店'}
+{'raw_title': '24期免息/咨询减100元 苹果13pro Apple/苹果 iPhone 13 Pro 5G手机国行官方旗舰 iphone13pro 13pro手机', 'view_price': '8599.00', 'nick': '搜酷数码专营店'}
+{'raw_title': '【中国移动用户享减400元+赠无线充等2重好礼】苹果13 ProMax苹果新品苹果官方旗舰店手机13promax', 'view_price': '8999.00', 'nick': '中国移动手机官方旗舰店'}
+{'raw_title': '【24期免息/现货速发】Apple/苹果 iPhone 12 5G手机官方正品旗舰店新款苹果12mini官网直降12pro 国行13', 'view_price': '4758.00', 'nick': '壹品良机旗舰店'}
+{'raw_title': '【下单立减400元 移动用户专享】苹果13mini手机中国移动官旗iPhone 13mini苹果手机5G新品官方旗舰店', 'view_price': '5199.00', 'nick': '中国移动官方旗舰店'}
+{'raw_title': '【下单立减400元 移动用户专享】苹果iPhone13ProMax手机中国移动官旗iPhone 13ProMax苹果手机官方旗舰店', 'view_price': '8999.00', 'nick': '中国移动官方旗舰店'}
+{'raw_title': '【24期免期/送碎屏险】Apple/苹果iPhone 13 Pro 5G手机官方旗舰店国行苹果13pro xr新品13promax全新13 Pro', 'view_price': '8658.00', 'nick': '三际数码官方旗舰店'}
+{'raw_title': '现货速发【24期免息】Apple/苹果iPhone 13 mini手机5G国行正品苹果官方旗舰店13promax新品5g迷你12送好礼', 'view_price': '5538.00', 'nick': '京合旗舰店'}
+{'raw_title': '【88VIP领券减100 花呗24期免息】Apple/苹果iPhone 13 全网通5G手机 原装国行苹果13手机中国电信官方旗舰店', 'view_price': '6229.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': '【24期免息/当天发货】Apple/苹果 iPhone 13 Pro Max 5G手机国行iPhone13Pro苹果13promax官方旗舰店网12', 'view_price': '8488.00', 'nick': '佰分购旗舰店'}
+{'raw_title': '现货速发【24期免息赠原厂屏碎屏险】Apple/苹果 iPhone13 Pro 5G手机官方旗舰正品全网通大陆行', 'view_price': '8718.00', 'nick': '京合旗舰店'}
+{'raw_title': '24期花呗免息付款0首付Apple/苹果 iPhone 13苹果13 5G手机官方旗舰店正品12官网直降苹果13手机新款13promax', 'view_price': '6198.00', 'nick': '机御旗舰店'}
+{'raw_title': '【中国联通直营】Apple 苹果iPhone 13 Pro全网通5G苹果官网iphone13pro手机非合约机', 'view_price': '7999.00', 'nick': '中国联通官方旗舰店'}
+{'raw_title': '【联通用户专享】Apple 苹果iPhone 13 Pro Max全网通5G手机苹果官网iphone13promax', 'view_price': '8999.00', 'nick': '中国联通官方旗舰店'}
+{'raw_title': '【24期分期免息 赠壳膜+碎屏险】Apple/苹果iPhone 13 Pro MAX全网通5G手机 原装国行苹果13promax手机旗舰店', 'view_price': '9579.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': '支持88vip【直营超市新品】Apple/苹果 iPhone 13 Pro max 5G手机全网通移动电信联通正品国行苹果13Promax', 'view_price': '9199.00', 'nick': '天猫国际进口超市'}
+{'raw_title': '【24期分期/送碎屏险】 Apple/苹果iPhone13苹果13手机iPhone13苹果13手机5g正品官方旗舰店官网苹果13RroMax', 'view_price': '5868.00', 'nick': '三际数码官方旗舰店'}
+{'raw_title': '支持88vip【直营国行】Apple/苹果 iPhone 12  手机国行正品5G 双卡双待电信联通移动全网通全国联保官方旗舰', 'view_price': '5189.00', 'nick': '天猫国际进口超市'}
+{'raw_title': '【24期免息/当天发货】Apple/苹果 iPhone 12苹果12手机iPhone 12苹果官方旗舰店5G官网苹果13ProMax', 'view_price': '4738.00', 'nick': '佰分购旗舰店'}
+{'raw_title': '21新款Apple/苹果 iPhone 13手机苹果13mini5G官方旗舰店13Promax', 'view_price': '4348.00', 'nick': '达诚数码商城'}
+{'raw_title': '分期Apple/苹果iPhoneXR 11 全新国行苹果11 双卡全网通正品手机', 'view_price': '2720.00', 'nick': '樊多多万事屋'}
+{'raw_title': 'Apple/苹果 iPhone 8 Plus苹果8p全新x xs max国行全网通手机8x', 'view_price': '1178.00', 'nick': 'tb680179597'}
+{'raw_title': '【24期分期免息】现货速发/Apple/苹果13 iPhone 13手机5G版苹果官方旗舰店正品13promax5g新款iPhone12直降', 'view_price': '6238.00', 'nick': '京联通达数码旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro手机iPhone12ProMax苹果12mini国行现货', 'view_price': '6058.00', 'nick': '启泰数码'}
+{'raw_title': '花呗免息全新Apple/苹果 iPhone 7Plus国行正品7代7P全网通4G手机', 'view_price': '898.00', 'nick': 'lynn_yang39'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max苹果13Promax 13pm原装全网通手机', 'view_price': '6330.00', 'nick': 'm007e'}
+{'raw_title': 'Apple/苹果 iPhone 13苹果13 mini原装全网通5G手机13Promax13pm', 'view_price': '4080.00', 'nick': 'm007e'}
+{'raw_title': '全新2021款Apple/苹果 iPhone 13 Pro苹果13pro旗舰手机6.1英寸', 'view_price': '6448.00', 'nick': '达诚数码商城'}
+{'raw_title': '【现货直供】Apple/苹果 iPhone 13 新款5G手机官方旗舰店5G版iPhone13官网直降13pro正品新款苹果手机', 'view_price': '5999.00', 'nick': '今朝奇点旗舰店'}
+{'raw_title': '【24期免息】春节正常发货/Apple/苹果13 Pro 5G手机官网正品新款 官方旗舰店正品max新品苹果12pro降价苹果', 'view_price': '8648.00', 'nick': '京联通达数码旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 12 全网通5G手机 原装国行苹果12', 'view_price': '5599.00', 'nick': 'tb806259055'}
+{'raw_title': '正常发【送充电头套装版】Apple/苹果iPhone 13 Pro Max全网通5G手机 原装官方国行苹果13promax旗舰店 1048', 'view_price': '9099.00', 'nick': '苏宁易购官方旗舰店'}
+{'raw_title': '[12期免息分期] Apple/苹果 iPhone 13', 'view_price': '5999.00', 'nick': 'applestore官方旗舰店'}
+{'raw_title': '花呗分期Apple/苹.果6s plus', 'view_price': '369.00', 'nick': '奥丽威尔一店'}
+{'raw_title': '花呗分期Apple/苹.果6s plus', 'view_price': '369.00', 'nick': '奥丽威尔一店'}
+{'raw_title': '【送充电头套装版 】Apple/苹果iPhone 13 Pro全网通5G手机原装国行官方苹果13Pro手机旗舰店正品1048', 'view_price': '8199.00', 'nick': '苏宁易购官方旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 12 mini国行手机iphone 12promax苹果12promax', 'view_price': '3488.00', 'nick': '数码科技1628_1628'}
+{'raw_title': '分期Apple/苹果 iPhone11全新国行双卡苹果 11 全网通正品手机', 'view_price': '2819.00', 'nick': '胭脂云坊'}
+{'raw_title': '新款现货速发Apple/苹果 iPhone 13 Pro Max苹果13手机13mini国行', 'view_price': '4299.00', 'nick': '非常手机'}
+{'raw_title': 'Apple/苹果 iPhone 12 国行5G双卡12pro正品mini全新12ProMax手机', 'view_price': '3750.00', 'nick': '平常最真实'}
+{'raw_title': '分期花呗Apple/lPhone 6splus 苹.果6sp 苹.果6s手机全网通正品4G', 'view_price': '650.00', 'nick': '恒展网信'}
+{'raw_title': '【全球购13Mini/13】Apple/苹果 iPhone 13 原装手机无锁  正品', 'view_price': '4820.00', 'nick': 'z太极z'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max全网通5G手机原装国行正品全国联保', 'view_price': '9799.00', 'nick': 'tb806259055'}
+{'raw_title': 'Apple/苹果 iPhone X苹果x iphonex xr xsmax手机 苹果xr xs Max', 'view_price': '1838.00', 'nick': 'wxjking'}
+{'raw_title': '新款Apple/苹果 iPhone 13ProMax国行正品5G手机官网苹果13mini', 'view_price': '4928.00', 'nick': '手机_小秘'}
+{'raw_title': '分期免息Apple/苹果 iPhone 7 Plus国行全新7代正品全网通4G手机', 'view_price': '918.00', 'nick': '深港澳数码科技'}
+{'raw_title': 'Apple/苹果 iPhone XR国行iphonexr全新苹果xs max手机iphonexs', 'view_price': '1850.00', 'nick': '爱上俏美'}
+{'raw_title': 'Apple/苹果iPhone11苹果11promax全新国行双卡全网通正品手机分期', 'view_price': '3100.00', 'nick': 'tb056510271'}
+{'raw_title': 'Apple/苹果 iPhone 8 Plus 苹果8plus iphone8 国行三网通4G手机', 'view_price': '1358.00', 'nick': '美丽_女神新依'}
+{'raw_title': 'Apple/苹果 iPhone 8 Plus全新苹果xr xs max国行全网通苹果8手机', 'view_price': '1480.00', 'nick': '陪我一生度过'}
+{'raw_title': 'Apple/苹果 iphone 11苹果11 Pro Max国行正品全网通11promax手机', 'view_price': '2869.00', 'nick': '投影广告打火机'}
+{'raw_title': 'Apple/苹果 iPhone 12 mini 新款5G国行手机 12promax 苹果12mini', 'view_price': '3330.00', 'nick': '配配25'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro Max全新5G手机苹果12新款12promax现货', 'view_price': '4219.00', 'nick': '245874380_86'}
+{'raw_title': '【全球购13PM/13Pro】Apple/苹果 iPhone 13 Pro Max原装手机无锁', 'view_price': '9880.00', 'nick': 'z太极z'}
+{'raw_title': 'Apple/苹果 iPhone 8 Plus max 全新苹果 x xr xs max国行xs手机', 'view_price': '1850.00', 'nick': 'wjklsn'}
+{'raw_title': 'Apple/苹果 iPhone 13手机国行正品5G手机', 'view_price': '5625.00', 'nick': '够实汇超市'}
+{'raw_title': '【24期免息/咨询减50元】  Apple/苹果 iPhone 12 5G手机 国行官方旗舰  苹果12  iPhone12手机', 'view_price': '4749.00', 'nick': '搜酷数码专营店'}
+{'raw_title': '【下单立减400元 移动用户专享】苹果 13Pro手机中国移动官旗iPhone13Pro苹果手机官方旗舰店5G手机苹果13', 'view_price': '7999.00', 'nick': '中国移动官方旗舰店'}
+{'raw_title': '【赠壳膜套装+碎屏险】Apple/苹果iPhone 12全网通5G手机 原装国行苹果12手机128G官方旗舰店', 'view_price': '4629.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': '【24期分期/送碎屏险】Apple/苹果iPhone 13 Pro Max全网通5G手机苹果13promax手机13官方旗舰店新品13promax', 'view_price': '8928.00', 'nick': '三际数码官方旗舰店'}
+{'raw_title': '【256G减1900 移动用户专享 中国移动官旗】苹果 12Pro手机iPhone 12Pro官方旗舰店苹果12手机国行正品', 'view_price': '11099.00', 'nick': '中国移动官方旗舰店'}
+{'raw_title': '现货速发【24期免息/送碎屏保】Apple/苹果iPhone13 Pro Max 5G手机官方旗舰店国行iPhone13pro官网正品12', 'view_price': '9858.00', 'nick': '京合旗舰店'}
+{'raw_title': '【中国联通直营】Apple 苹果13手机iphone13国行全网通5G苹果官方旗舰店官网iphone13promax', 'view_price': '5999.00', 'nick': '中国联通官方旗舰店'}
+{'raw_title': '【直营】Apple/苹果iPhone 11全网通4G手机 原装国行正品苹果11手机128G/64G', 'view_price': '4429.00', 'nick': '天猫国际进口超市'}
+{'raw_title': '【直营】Apple/苹果iPhone 13 Promax手机5G苹果手机旗舰店正品国行官方新款全网通官网苹果', 'view_price': '9149.00', 'nick': '天猫国际进口超市'}
+{'raw_title': '【到手2999】Apple/苹果 iPhoneXR全网通全新国行iPhonexr手机 官网旗舰 苹果xr iphone xr', 'view_price': '2999.00', 'nick': '搜酷数码专营店'}
+{'raw_title': '【24期分期免息 赠壳膜+碎屏险】Apple/苹果iPhone 13 Pro全网通5G手机 原装国行苹果13Pro手机官方旗舰店', 'view_price': '8569.00', 'nick': '翼天下天翼电信旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro 苹果13promax1TB全网通蓝色新款5G手机', 'view_price': '6350.00', 'nick': 'yxc18948999838'}
+{'raw_title': 'Apple/苹果 iPhoneXR全网通双卡全新国行未激活iPhonexr XR手机', 'view_price': '3329.00', 'nick': '爱享数码专营店'}
+{'raw_title': '国行正品Apple/苹果 iPhone XR/XSMAX改12/13Promax外观/双卡手机', 'view_price': '2099.00', 'nick': 'qq2262948'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro 移动联通电信5G全网通新品智能拍照手机', 'view_price': '8799.00', 'nick': '苏宁易购官方旗舰店'}
+{'raw_title': '【送PD20W充电头套装版 】 Apple/苹果 iPhone 13 mini 移动联通电信5G全网通新品手机官方旗舰店国行1048', 'view_price': '5199.00', 'nick': '苏宁易购官方旗舰店'}
+{'raw_title': 'Apple/苹果 iPhone 12 Pro Max 苹果12promax苹果12手机12mini', 'view_price': '3390.00', 'nick': '碧丽丝轩衣阁'}
+{'raw_title': '分期Apple/苹果 iPhone11新款苹果11国行正品手机XR双卡4G全网通', 'view_price': '2050.00', 'nick': '黄沙商行'}
+{'raw_title': 'Apple/苹果 iPhone XR全新未激活国行苹果xr手机4G三网通iphonexr', 'view_price': '2050.00', 'nick': '猩猩大晒'}
+{'raw_title': 'Apple/苹果 iPhone 13 Pro Max pm 国行官网正品全网三网通5G手机', 'view_price': '6100.00', 'nick': '启航数码007'}
